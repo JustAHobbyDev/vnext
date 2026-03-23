@@ -1,0 +1,22 @@
+{
+  "case_id": "photonics",
+  "artifacts": [
+    {
+      "artifact_id": "axt-q1-2024-ir-release",
+      "artifact_kind": "primary_press_release",
+      "source_class": "company_ir",
+      "source_url": "https://investors.axt.com/Investors/news/news-details/2024/AXT-Inc.-Announces-First-Quarter-2024-Financial-Results/default.aspx",
+      "captured_at": "2024-05-02T00:00:00-05:00",
+      "local_path": "raw/axt-q1-2024-ir-release.md",
+      "sha256": "5afbd45748ed4c91072bfcc391ea822c44b22b931803600d166d971598ad5064",
+      "is_real_world": true,
+      "parent_artifact_ids": [],
+      "verification_status": "root",
+      "content_excerpt": "Our indium phosphide substrates are currently being utilized for high-speed optical components for artificial intelligence interconnects.",
+      "metadata": {
+        "ticker": "AXTI",
+        "theme_hint": "photonics"
+      }
+    }
+  ]
+}

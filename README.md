@@ -37,3 +37,11 @@ The active vNext loop is:
 
 If a change does not improve clue capture, graph quality, node scoring, or
 benchmark evaluation, it should not land here.
+
+## Evidence Guardrail
+
+Discovery and benchmark inputs must come from local mirrored artifacts whose
+provenance resolves to real-world sources.
+
+Synthetic inputs are allowed only in `tests/` for code-mechanics coverage and
+must not be used by the strict clue/evidence loader.

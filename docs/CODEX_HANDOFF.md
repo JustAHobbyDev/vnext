@@ -60,12 +60,12 @@ Do not spend time on these unless they become directly necessary for the proof:
 
 Read these before writing code:
 
-1. [vnext/README.md](/Users/danielschmidt/dev/MiroFish/vnext/README.md)
-2. [2026-03-22-mirofish-vnext-core-v1.md](/Users/danielschmidt/dev/MiroFish/docs/research-frameworks/2026-03-22-mirofish-vnext-core-v1.md)
-3. [2026-03-22-mirofish-vnext-reset-triage-v1.md](/Users/danielschmidt/dev/MiroFish/docs/research-frameworks/2026-03-22-mirofish-vnext-reset-triage-v1.md)
-4. [2026-03-22-anchor-workflow-comparison-photonics-memory-v1.md](/Users/danielschmidt/dev/MiroFish/research/analysis/2026-03-22-anchor-workflow-comparison-photonics-memory-v1.md)
-5. [2026-03-22-aleabitoreddit-photonics-anchor-workflow-v1.md](/Users/danielschmidt/dev/MiroFish/research/analysis/2026-03-22-aleabitoreddit-photonics-anchor-workflow-v1.md)
-6. [2026-03-22-aleabitoreddit-memory-anchor-workflow-v1.md](/Users/danielschmidt/dev/MiroFish/research/analysis/2026-03-22-aleabitoreddit-memory-anchor-workflow-v1.md)
+1. [vnext/README.md](/home/d/codex/vnext/README.md)
+2. [2026-03-22-mirofish-vnext-core-v1.md](/home/d/codex/vnext/docs/research-frameworks/2026-03-22-mirofish-vnext-core-v1.md)
+3. [2026-03-22-mirofish-vnext-reset-triage-v1.md](/home/d/codex/vnext/docs/research-frameworks/2026-03-22-mirofish-vnext-reset-triage-v1.md)
+4. [2026-03-22-anchor-workflow-comparison-photonics-memory-v1.md](/home/d/codex/vnext/research/analysis/2026-03-22-anchor-workflow-comparison-photonics-memory-v1.md)
+5. [2026-03-22-aleabitoreddit-photonics-anchor-workflow-v1.md](/home/d/codex/vnext/research/analysis/2026-03-22-aleabitoreddit-photonics-anchor-workflow-v1.md)
+6. [2026-03-22-aleabitoreddit-memory-anchor-workflow-v1.md](/home/d/codex/vnext/research/analysis/2026-03-22-aleabitoreddit-memory-anchor-workflow-v1.md)
 
 ## Important Lessons Already Learned
 
