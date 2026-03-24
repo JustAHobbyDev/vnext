@@ -1,0 +1,541 @@
+{
+  "expression_contexts": {
+    "AXTI": {
+      "match_count": 91,
+      "term_counts": {
+        "thesis": 24,
+        "supply chain": 22,
+        "earnings": 12,
+        "research": 12,
+        "smm": 10,
+        "capacity": 8,
+        "dd": 8,
+        "price hikes": 6,
+        "analyst": 5,
+        "bom": 5,
+        "mapping": 5,
+        "northland": 5,
+        "model": 3,
+        "report": 3,
+        "analyst note": 1,
+        "conference": 1,
+        "customers": 1,
+        "earnings call": 1,
+        "lightcounting": 1
+      },
+      "matches": [
+        {
+          "created_at": "2025-12-27T16:46:52.000Z",
+          "hits": [
+            "customers"
+          ],
+          "text": "@trusited Grok is likely conflating wafer fab with InP substrate manufacturing. $AVGO's penn fab still requires InP substrates from Sumitomo, $AXTI, or JX to build the lasers (hence the bottleneck) and they're likely customers.   And that small $700M MC company $AXTI is probably the only"
+        },
+        {
+          "created_at": "2025-12-28T00:13:24.000Z",
+          "hits": [
+            "supply chain"
+          ],
+          "text": "@SwanShapedBird There is a lot risk with $AXTI for sure. That’s why it’s valued like a penny stock at $700m and not $30B+ like $SMTOY despite being both vertically integrated and one of the most important suppliers.  And when you combine with the fact the AI supply chain is extremely reliant on"
+        },
+        {
+          "created_at": "2025-12-28T16:38:38.000Z",
+          "hits": [
+            "model"
+          ],
+          "text": "@dr_lmfao_ Yeah absolutely, I’m working on a model to normalize ownership of indium phosphide for just laser grade feedstock from private vertically integrated players like $AXTI vs others like $DOWA or Vital Materials that sell on open markets.  It’s extremely complex lol"
+        },
+        {
+          "created_at": "2025-12-29T05:59:16.000Z",
+          "hits": [
+            "research"
+          ],
+          "text": "@RyanMDorsey23 This is a research note on point failure of the entire AI buildout in $AXTI/China from both substrate production and laser-grade Indium Phosphide. I’m not doing valuation analysis on individual companies   But if this flow stops, $LITE, $COHR, $AVGO to $GOOGL, $MSFT faces extreme"
+        },
+        {
+          "created_at": "2025-12-29T06:18:47.000Z",
+          "hits": [
+            "supply chain"
+          ],
+          "text": "@zephyr_z9 Sumitomo is subject to hikes in InP prices though if $GOOGL goes direct to $DOWA or others for feedstock.   $AXTI owns the whole supply chain, and a huge portion of laser grade inp. But downside is obviously anuke from China exports.   Sumitomo Electric is huge though so you’re"
+        },
+        {
+          "created_at": "2025-12-29T06:53:45.000Z",
+          "hits": [
+            "supply chain",
+            "research"
+          ],
+          "text": "@DonkeyCapital69 Uhh, from my own personal research so far, to cover all grounds I’ve liked:  1. $AXTI at the very bottom of the entire supply chain + 1/3rd of InP substrates 1/4th of InP. Completely unheard of that AI supply chain is tethered to this $700m stock.  2. $DOWA + Sumitomo Electric"
+        },
+        {
+          "created_at": "2025-12-29T14:58:29.000Z",
+          "hits": [
+            "supply chain"
+          ],
+          "text": "$AXTI CEO - “We are 40% of the Indium Phosphide supply chain”  Has there ever been a company this small ($700M) that controlled a critical bottleneck for a multi-trillion dollar industry? https://t.co/tn7EOMPgas https://t.co/P3y2ybEdur"
+        },
+        {
+          "created_at": "2026-01-02T05:41:43.000Z",
+          "hits": [
+            "thesis"
+          ],
+          "text": "@retail_mourinho Thanks! Hope you’ve had a great new years  Lot of the discussion in around private markets but the same thesis around bottlenecks with $AXTI or $SHMD is highly relevant to public companies"
+        },
+        {
+          "created_at": "2026-01-02T18:17:06.000Z",
+          "hits": [
+            "smm",
+            "northland"
+          ],
+          "text": "@AustinAver70395 No risk there. It's routine procedure since one of $AXTI's board members passed away sadly.   Northland and others wouldnt give them $100M to fund InP substrate expansion (exercised the $13m) if there were risk there.   That being said 7N prices on SMM have reached ATHs, and https://t.co/RGj2ICM27u"
+        },
+        {
+          "created_at": "2026-01-02T21:27:07.000Z",
+          "hits": [
+            "research",
+            "capacity"
+          ],
+          "text": "The InP substrate shortage and \"Spread\" Arbitrage - $AXTI  Market research is showing InP and optical components to become analogous to the HBM shortage and price craze.  The initial bottleneck was caused by $NVDA monopolizing of the production capacity of EML from $COHR to $LITE https://t.co/rX6szc1DNk https://t.co/f6UYQyJY8v"
+        },
+        {
+          "created_at": "2026-01-02T22:02:08.000Z",
+          "hits": [
+            "supply chain"
+          ],
+          "text": "@GekkoNY If $GOOGL wants to build more TPUs, they need $LITE’s for OCS. $LITE needs $AXTI substrates (est. 30% of merchant market, CEO says 40% of InP supply chain). $AXTI needs the chemicals and materials from that happened to be owned by AXT.  $AXTI is the bottom of the entire AI supply"
+        },
+        {
+          "created_at": "2026-01-03T07:02:52.000Z",
+          "hits": [
+            "capacity",
+            "price hikes"
+          ],
+          "text": "@AbelAmos No clue about revenue estimates but two things about $AXTI.  1. They now have $100m to fund capacity expansion (direct revenue increase) and should be capped out on sales.  2. Paywalled info showed that Chinese vendors were starting InP price hikes for Western companies. AXT owns"
+        },
+        {
+          "created_at": "2026-01-05T12:34:29.000Z",
+          "hits": [
+            "report"
+          ],
+          "text": "\"FinX vs Wall Street\" report  This is FinX 15, a weighted port of the most popular names:    1. $ONDS +33.26%  2. $SKYT +27.46%  3. $TE +22.62%  4. $MU +13.98%  5. $ASTS +13.24%  6. $BMNR +12.24%  7. $IREN +11.19%  8. $CIFR +8.64%  9. $AXTI +7.56%  10. $KRKNF + 7.69%  11. $NBIS"
+        },
+        {
+          "created_at": "2026-01-06T17:28:31.000Z",
+          "hits": [
+            "supply chain",
+            "capacity"
+          ],
+          "text": "@miketxpatriot This is definitely not a good thing for the AI buildout because the whole AI supply chain eg. $LITE, $COHR -&gt; $GOOGL, $NVDA others suddenly became dependent on a single source $AXTI for the next two years.     Companies like $LITE will probably shift capacity from Sumitomo, JX to"
+        },
+        {
+          "created_at": "2026-01-07T16:40:23.000Z",
+          "hits": [
+            "supply chain"
+          ],
+          "text": "@timskripe I mean most of my posts from $AXTI and $AIRO are novel information synthesis based on public info.  So makes sense if stuff like AXT goes up 100% once markets find out it’s the single point of failure for the AI supply chain.  Or in this case markets didn’t know about $OSS https://t.co/Xox1PvEL8V"
+        },
+        {
+          "created_at": "2026-01-07T23:17:53.000Z",
+          "hits": [
+            "smm",
+            "earnings",
+            "earnings call"
+          ],
+          "text": "@jaysyoon So this is just my perspective on this. Lot of things have changed since the last earnings call,  1. Price of 7n Indium feedstock has started to spike on SMM and we're seeing bifurcation between asian supply chains + western ( $AXTI exports to western, which inflates their future"
+        },
+        {
+          "created_at": "2026-01-07T23:59:47.000Z",
+          "hits": [
+            "thesis"
+          ],
+          "text": "@twplsource I don't want subscribers or want to sell anything to followers!  Made my profile out of pure interest testing my own thesis against the markets and getting fulfillment in helping others too.   But to answer your question $OSS and $AXTI are way too different stocks.   There's"
+        },
+        {
+          "created_at": "2026-01-08T09:39:32.000Z",
+          "hits": [
+            "model"
+          ],
+          "text": "@svartahingsten5 TAM for InP substrates was few hundred million previously since it was a niche telecom commodity.  Most analysts or charters model this wrong since it's not linear.  It's a game theory supply bottleneck of a critical material that $AXTI controls between all the world's trillion"
+        },
+        {
+          "created_at": "2026-01-08T17:50:41.000Z",
+          "hits": [
+            "smm"
+          ],
+          "text": "You're watching the InP \"bottleneck\" play out real time while hyperscalers scramble for material.  7-N Indium (required for photonics) is now parabolically exploding on SMM, reaching daily ATHs in 2026.   This is a live \"Game Theory\" scenario for materials controlled by $AXTI. https://t.co/3YDMVfjGTx https://t.co/76trXRRwND"
+        },
+        {
+          "created_at": "2026-01-08T18:26:53.000Z",
+          "hits": [
+            "northland"
+          ],
+          "text": "@Rod2ZEROnBACK This is likely all institutional movement, and a lot of hedge funds realizing $AXTI's InP monopoly position + trying to enter the trade following Northland $100m funding.  This is completely novel development too playing out real time, and 99%+ of people aren't even aware of this"
+        },
+        {
+          "created_at": "2026-01-08T22:15:27.000Z",
+          "hits": [
+            "earnings"
+          ],
+          "text": "$AXTI drops 29.54% AHs on:  - Lowered Q4 2025 revenue expectations to a range of $23M midpoint, from $27m-$30m.  Thoughts: this is immaterial to the bottleneck issue since price shock just came in end of ~December 27th into January (now). This was former earnings, we care about https://t.co/WM16fh1zuj"
+        },
+        {
+          "created_at": "2026-01-08T22:39:15.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@DivGuru They can, and this bottleneck flows downstream and hurts $COHR to $LITE capacity ramp into $GOOGL to $MSFT.  Especially given $AXTI will be monopoly status in a few quarter once Sumitomo/JX face shortages from material export controls.  People illogically reacting to former"
+        },
+        {
+          "created_at": "2026-01-08T23:00:19.000Z",
+          "hits": [
+            "smm"
+          ],
+          "text": "@itsdsha It’s been a solid 13 days since posting about the substrate bottleneck happening now.   I’m seeing something different with SMM prices and increased future pricing power with $AXTI, but people are free to sell if they want to react to deferred revenue from contracts made in 2024. https://t.co/Sxuw0B3rez"
+        },
+        {
+          "created_at": "2026-01-08T23:45:17.000Z",
+          "hits": [
+            "thesis"
+          ],
+          "text": "@Buncahn Sure, I’m not here to convince you I’m just posting my own thesis about $AXTI.  The nuance I’ll point out is that this is levered to the AI buildout that hit the copper wall and is shifting to photonics with newer interconnects and ASIC architectures.  Only later on in 2025 did"
+        },
+        {
+          "created_at": "2026-01-09T00:34:43.000Z",
+          "hits": [
+            "northland"
+          ],
+          "text": "@MRWahdy @beauty_oe $AXTI secured $100m from Northland for capex expansion, deferred FCF from $5m of contracted revenue from 2024 or early 2025 does not make a material difference.  Stock runup was multifaceted:  -&gt; Recognition that InP substrates would bottleneck the AI industry deployment with"
+        },
+        {
+          "created_at": "2026-01-09T01:37:00.000Z",
+          "hits": [
+            "supply chain",
+            "capacity"
+          ],
+          "text": "@MRWahdy @beauty_oe ^ clarification, $AXTI controls the price. Regarding quantity, that was referring to controlling majority of the InP supply chain.   They have a certain amount of inventory, which obviously is controlled by China for permits.     Point was that can double, triple, capacity, but"
+        },
+        {
+          "created_at": "2026-01-09T10:39:44.000Z",
+          "hits": [
+            "supply chain"
+          ],
+          "text": "@trodoszalay Export controls is the biggest risk. But their two biggest competitors over in the Japanese supply chain just got export control banned.   So now $AXTI and by one hop, China, controls the flow of InP substrates and materials.   I think what a lot of analysts miss when modelling"
+        },
+        {
+          "created_at": "2026-01-09T10:52:59.000Z",
+          "hits": [
+            "model"
+          ],
+          "text": "@trodoszalay Yep, similar take. I don't know what's going to happen, I'm just speculating that there's an extreme bottleneck over the next few months.   And I'm pointing out that most analysts do not know how to model extreme edge cases like $AXTI correctly because this has not happened"
+        },
+        {
+          "created_at": "2026-01-11T07:59:15.000Z",
+          "hits": [
+            "earnings"
+          ],
+          "text": "@ChiefLiquidity Markets are extremely dumb sometimes. $CRDO cable color changes was the perfect example.  Just this past two weeks there was also $VLN trading close to 1:1 with cash / MC because of ticker collision and $AXTI selling off 40% because of delayed 2024 contracted earnings when it's"
+        },
+        {
+          "created_at": "2026-01-12T09:52:36.000Z",
+          "hits": [
+            "research"
+          ],
+          "text": "Markets are witnessing a supply shock happen real time with InP.   Here's the timeline this week:   Fastmarket Research, 2025:   US-based $AXTI and Japan's Sumitomo control nearly 80% of the InP market.   China Commerce Ministry - Jan 6 2026: China announces new export https://t.co/piaM9hnEw2 https://t.co/CCcFyL2Z1n"
+        },
+        {
+          "created_at": "2026-01-12T10:22:14.000Z",
+          "hits": [
+            "supply chain"
+          ],
+          "text": "@jdrewburke $AXTI is the main beneficiary of China's export controls on Japan as a double edged sword from short term revenue hit but medium-longer term control over supply chains.   As you mentioned the likely Japanese supply chain shock threw IQE a lifeline, since the smaller player became"
+        },
+        {
+          "created_at": "2026-01-12T10:55:59.000Z",
+          "hits": [
+            "northland",
+            "capacity"
+          ],
+          "text": "Just in: Craig-Hallum re-rates $AXTI to \"Buy\" with a $26 price target, a 160% increase.   They stated AXT benefits from a \"trifecta of dynamics\" that put:  - constraints on competitors (Sumitomo, JX)  - while increasing capacity after Northland's Capital raise.   Shannon, ranked https://t.co/3M99utW4qr https://t.co/8fvu63vwg1"
+        },
+        {
+          "created_at": "2026-01-12T11:09:56.000Z",
+          "hits": [
+            "thesis"
+          ],
+          "text": "@_stockResearch Thanks, I'd like to take credit as one of the first ones to publicly post the thesis around $AXTI.   This is just validation at start, but my main thesis is around the InP bottleneck and massive supply shortage that happens in 2-3 months."
+        },
+        {
+          "created_at": "2026-01-12T11:10:43.000Z",
+          "hits": [
+            "thesis"
+          ],
+          "text": "@_stockResearch Thanks, I'd like to take credit as one of the first ones to publicly post the thesis around $AXTI.     This is just institutional validation regarding very conservative PTs, but my main thesis is around the InP bottleneck and massive supply shortage that happens in 2-3 months."
+        },
+        {
+          "created_at": "2026-01-13T01:46:41.000Z",
+          "hits": [
+            "research",
+            "analyst",
+            "analyst note"
+          ],
+          "text": "@jukan05 Interesting analyst note regarding InP supply chains for $AXTI and $LITE.  It does provide the counter argument for the recent export control’s lack of disruptions on optical makers.   I’ve noted the stockpiles too in my research but I find it this very optimistic that it’s"
+        },
+        {
+          "created_at": "2026-01-14T06:24:17.000Z",
+          "hits": [
+            "research",
+            "thesis"
+          ],
+          "text": "January is wild.   Not even joking, many of my picks are up 60%+ over the past few days.  Didn’t even include $AXTI +60% or $VLN +60% in the charts.   While leaving out smaller rallies like $CRDO 25%+ or Intel 25%+.  Need more 5x stocks for research if you have ideas or a thesis. https://t.co/VWO2l8yn87 https://t.co/UjlGQQwsnq"
+        },
+        {
+          "created_at": "2026-01-14T18:10:17.000Z",
+          "hits": [
+            "research"
+          ],
+          "text": "@pepemoonboy Appreciate it. I found that $LPTH was the US $AXTI basically and all the top military contractors from Andruil, Lockheed, L3Harris, $ONDS, and everyone were switching to them.   And they have the monopoly over it bc of US naval research lab licenses.  Can easily see this being a"
+        },
+        {
+          "created_at": "2026-01-14T21:03:29.000Z",
+          "hits": [
+            "supply chain"
+          ],
+          "text": "@soulbiri1 Nice! $LPTH is my favorite long of 2026 so far! I never thought I’d find something that would beat $NBIS.   It’s also safer than $AXTI since it’s US supply chain this time but also has a monopoly over this bottleneck fix.  On a side note, my $META positions are getting wrecked"
+        },
+        {
+          "created_at": "2026-01-15T22:13:34.000Z",
+          "hits": [
+            "thesis"
+          ],
+          "text": "@momobazz In general, if you're waiting for Boston Dynamics Atlas to be at scale already, you're probably a little late.   I like to post my thesis at the start before any moment happens like with $AXTI or in this case $SSYS, which is different than others who just react to movements or"
+        },
+        {
+          "created_at": "2026-01-17T08:07:09.000Z",
+          "hits": [
+            "supply chain",
+            "report"
+          ],
+          "text": "Executive Order: \"President Trump orders HieFo to divest indium phosphide assets\"  A follow-up report on the Jan 2nd EO shows that President Trump targeted HieFo's InP wafer fabrication operations of Emcore Corp.  As $AXTI and Sumitomo control ~80% of the supply chain (Fastmarket https://t.co/5w5bYHMsZe https://t.co/8fvu63w45z"
+        }
+      ]
+    },
+    "SNDK": {
+      "match_count": 22,
+      "term_counts": {
+        "earnings": 6,
+        "price hikes": 4,
+        "capacity": 3,
+        "counterpoint": 2,
+        "research": 2,
+        "supply chain": 2,
+        "thesis": 2,
+        "analyst": 1,
+        "benchmark": 1,
+        "bom": 1,
+        "customers": 1,
+        "digitimes": 1,
+        "earnings call": 1,
+        "lightcounting": 1,
+        "smm": 1,
+        "trendforce": 1
+      },
+      "matches": [
+        {
+          "created_at": "2025-12-14T23:58:49.000Z",
+          "hits": [
+            "earnings"
+          ],
+          "text": "Falling Knife or Dip Buy?   What a brutal Friday for stocks after $ORCL and $AVGO earnings.  Popular FinX names that dropped in just 1 day:  $FRMI | -34.1% $SNDK | -15.89% $SEI | -15.3% $OKLO | -15.13% $MOD | -14.67% $ALAB | -14.31% $FLNC | -13.96% $LITE | -12.83% $GLXY | -11.73% https://t.co/zldoXZLZMp https://t.co/61J35cNl2y"
+        },
+        {
+          "created_at": "2026-01-21T09:50:31.000Z",
+          "hits": [
+            "supply chain"
+          ],
+          "text": "@dizstocks I normally don’t reply to disingenuous leading questions like this but I’m posting information synthesis on robotic supply chain stocks linked to Tesla Optimus.  Unfortunately I try and discover alpha to find the next $30-&gt;$453 $SNDK at the start rather than bull posting the same"
+        },
+        {
+          "created_at": "2026-01-23T21:11:21.000Z",
+          "hits": [
+            "thesis"
+          ],
+          "text": "$INTC crashes 17% and finishes the day back at $45.  Short dated options are down 95%+ with leaps down 40%+.  Intel is the perfect example of “Stocks don’t move in a straight line up” (unless it’s $SNDK). And it’s still up 26% in 1M.  If the fundamental thesis hasn’t changed https://t.co/azeOoWnsLR"
+        },
+        {
+          "created_at": "2026-01-25T01:51:39.000Z",
+          "hits": [
+            "trendforce"
+          ],
+          "text": "Holy crap. This just happened:  \"Samsung increases NAND prices by 100%\" - ETNews  Estimates were 33-38% Q/Q growth - Trendforce  This is an absolute shock.   It's called the \"Memory Supercycle\" for a reason with $MU, Samsung, and SK Hynix + $SNDK.  In simpler terms:  That extra https://t.co/dOsxDCdOzo https://t.co/ozmd2ILXCx"
+        },
+        {
+          "created_at": "2026-01-29T21:35:16.000Z",
+          "hits": [
+            "earnings"
+          ],
+          "text": "$SNDK: \"Sandisk will pay Kioxia USD 1.165 billion for manufacturing services and continued availability of supply\".  Kioxia and SanDisk together operate one of the world’s largest NAND flash manufacturing sites.  Sandisk's earnings looks like a blowout, but many second order https://t.co/aX5FjQOQls"
+        },
+        {
+          "created_at": "2026-01-30T04:49:14.000Z",
+          "hits": [
+            "earnings"
+          ],
+          "text": "Interesting beneficiaries post $SNDK earnings that I own:   Phison (TPE: 8299) and Macronix (TPE: 2337).   Similar to Nayna (1,035.96% 1Y) that filled legacy dram void from $MU, Sk Hynix, and Samsung:   Phison does the same with Sandisk with flash (inventory). And Macronix with https://t.co/tbKU03azS6 https://t.co/OFZ735aCUa"
+        },
+        {
+          "created_at": "2026-01-30T16:49:27.000Z",
+          "hits": [
+            "smm"
+          ],
+          "text": "7N Indium prices have just hit ATHs on SMM with zero signs of slowing down.    The $AXTI bottleneck is playing out real time.  Western hyperscalers appear to be soaking up every bit of the InP substrates + precursors supply for the AI buildout.    Like $SNDK and $MU, it's just a https://t.co/r6ftTbZCmR"
+        },
+        {
+          "created_at": "2026-02-02T17:00:49.000Z",
+          "hits": [
+            "price hikes"
+          ],
+          "text": "$SNDK - Even after a 16% increase, the forward 2027 p/e is still single digits.  That’s how profitable the memory supercycle is with $MU, SK Hynix, Samsung, and others  The AI demand + price hikes looks like the new structural norm. https://t.co/6RG14zqEpr https://t.co/nuXiLbgPyW"
+        },
+        {
+          "created_at": "2026-02-03T05:37:11.000Z",
+          "hits": [
+            "thesis",
+            "lightcounting",
+            "price hikes"
+          ],
+          "text": "I'm long shares on $AXTI.  We're seeing the HBM/NAND supercycle with $SNDK, $MU, Sk Hynix, and Samsung today.   With constant price hikes due to extreme demand.   The next? -&gt; Photonics | CPO | Optical Interconnects.   Demand scale up looks parabolic. (Lightcounting)  My thesis https://t.co/HEdTJQoqyo https://t.co/hAn7wLIhEJ"
+        },
+        {
+          "created_at": "2026-02-04T22:48:03.000Z",
+          "hits": [
+            "earnings"
+          ],
+          "text": "$GOOGL reported earnings and their CapEX spend was enormous.  $175-$185 Billion vs. $120 Billion.  This is bullish for AI buildout.   Follow the money flow down to:  - $AVGO, Mediatek, $TSM (design / foundry) - Sk hynix, Samsung, $MU, $SNDK (memory) - $ANET, $LITE, $COHR, $VRT https://t.co/2QCmwmEPXO"
+        },
+        {
+          "created_at": "2026-02-16T09:05:50.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "TLDR of Phison CEO interview on Memory and Investment Framework:  \"Toll Collectors\": Micron ( $MU ), SK Hynix (000660.KS), Samsung Electronics, Western Digital ( $WDC ), $SNDK.  Comment: \"They are intentionally keeping capacity expansion slow\"  Tier 2: $MRVL, Phison Electronics,"
+        },
+        {
+          "created_at": "2026-02-16T09:06:34.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "TLDR of Phison CEO interview on Memory and Investment Framework:  \"Toll Collectors\":  - Micron ( $MU )  - SK Hynix (000660.KS) - Samsung Electronics, - Western Digital ( $WDC ) - $SNDK.  Comment: \"They are intentionally keeping capacity expansion slow\"  Tier 2:  - $MRVL - Phison"
+        },
+        {
+          "created_at": "2026-02-16T09:22:43.000Z",
+          "hits": [
+            "bom"
+          ],
+          "text": "@yianisz Yeah pretty sad to see people get laid off from AI displacement. So only thing people can do now is ride the wave or get left behind.   Biggest hedge against this is AI equities and looking into BOM spend.  Biggest is memory like $MU or $SNDK. Photonics from $LITE to $AAOI"
+        },
+        {
+          "created_at": "2026-02-21T12:35:01.000Z",
+          "hits": [
+            "benchmark"
+          ],
+          "text": "@kjnkjp @grok Thanks! I’m sure there’s some folks out there but hard to find.   I’ve been looking at $SNDK as my benchmark to see how im doing vs. the best performer in the market.   But there was a decent amount of mispricing I’ve found! I’ll publish some of the other things I’ve been doing"
+        },
+        {
+          "created_at": "2026-02-27T20:36:05.000Z",
+          "hits": [
+            "earnings"
+          ],
+          "text": "@PhotonCap Yes! The most direct play is $AAOI, they just dropped a $SNDK-style earnings projecting 10x revenue growth.    But of course there's going to be other beneficiaries not priced in too upstream as you mentioned."
+        },
+        {
+          "created_at": "2026-02-27T20:58:38.000Z",
+          "hits": [
+            "earnings",
+            "earnings call",
+            "customers"
+          ],
+          "text": "$AAOI looks like an early $SNDK. And is likely going much higher than a $5.5B MC over the next year.   On their earnings call:  - 3 hyperscale customers (probably $GOOGL, $AMZN, $MSFT)  - \"they would like to buy all the transceiver we can make for 800G and 1.6\". - completely sold https://t.co/lnLyRri6ue https://t.co/VXjqt29hFo"
+        },
+        {
+          "created_at": "2026-03-06T11:57:16.000Z",
+          "hits": [
+            "analyst"
+          ],
+          "text": "\"Samsung Electronics (005930) will reportedly double its NAND Flash supply price in the second quarter\" - Sedaily  The price hike of NAND from Samsung (and likely $SNDK + SK Hynix following) is almost 20 times some analyst expectations and 2-4X others.   Per BNP Paribas Analyst https://t.co/TM9kwhgT0m"
+        },
+        {
+          "created_at": "2026-03-10T07:34:20.000Z",
+          "hits": [
+            "digitimes",
+            "price hikes"
+          ],
+          "text": "NAND prices have now spiraled out of control.  Memory companies like $SNDK, $MU, Samsung, SK Hynix stand to benefit the most from inelastic supply and recent NAND price hikes.   According to Phison's CEO per Digitimes:   \"NAND flash prices have surged amid tightening supply, with https://t.co/U6fSGVOUDG"
+        },
+        {
+          "created_at": "2026-03-13T00:59:00.000Z",
+          "hits": [
+            "research",
+            "counterpoint"
+          ],
+          "text": "Memory Price Market Research from Counterpoint:  \"There is no scenario where memory prices correct in the second half [of 2027], given that hyperscaler purchasing intent remains unbroken\"  In regards to $SNDK, $MU, $EWY (Sk Hynix, Samsung), and other memory names.  They https://t.co/Rbse1C8KO2"
+        },
+        {
+          "created_at": "2026-03-13T00:59:59.000Z",
+          "hits": [
+            "research",
+            "counterpoint"
+          ],
+          "text": "Memory Price Market Research from Counterpoint:  \"There is no scenario where memory prices correct in the second half [of 2027], given that hyperscaler purchasing intent remains unbroken\"  In regards to $SNDK, $MU, $EWY (Sk Hynix, Samsung), and other memory names.  They https://t.co/GkZwYzoxq7"
+        },
+        {
+          "created_at": "2026-03-15T23:13:32.000Z",
+          "hits": [
+            "capacity",
+            "price hikes"
+          ],
+          "text": "The Memory Cycle.  Is probably going to look like this chart?  With SK Hynix,  $SNDK, Samsung,  $MU and others:  -&gt; Price Hikes until 2028 -&gt; Demand Increase Permanent -&gt; Price Decreases After 2028  -&gt; Increased Capacity * Increased Demand * lower margin = High Profit Anyway. https://t.co/UfXcN3sv5W"
+        },
+        {
+          "created_at": "2026-03-17T02:15:39.000Z",
+          "hits": [
+            "supply chain"
+          ],
+          "text": "@stephenandstuff Depends how big you think photonics is and how much value you think hyperscalers would place to secure their supply chain.  If you look at $SNDK and NAND, we’ve already seen what it’s like.  The more downstream you go like lasers or finished transceivers typically have higher"
+        }
+      ]
+    }
+  },
+  "global_term_counts": {
+    "earnings": 166,
+    "thesis": 148,
+    "capacity": 110,
+    "supply chain": 81,
+    "research": 63,
+    "dd": 47,
+    "report": 34,
+    "analyst": 31,
+    "model": 29,
+    "customer": 24,
+    "bom": 23,
+    "customers": 21,
+    "price hikes": 19,
+    "mapping": 13,
+    "smm": 12,
+    "earnings call": 9,
+    "morgan stanley": 8,
+    "northland": 8,
+    "filing": 7,
+    "qualification": 6,
+    "benchmark": 5,
+    "conference": 5,
+    "analyst note": 3,
+    "counterpoint": 3,
+    "semianalysis": 3,
+    "digitimes": 2,
+    "trendforce": 2,
+    "ubs": 2,
+    "bill of materials": 1,
+    "lightcounting": 1,
+    "needham": 1
+  }
+}

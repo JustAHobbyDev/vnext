@@ -1,0 +1,4563 @@
+{
+  "fetched_at": "2026-03-20T01:13:04.408094+00:00",
+  "query": {
+    "username": "aleabitoreddit",
+    "start_time": null,
+    "end_time": null,
+    "exclude": [],
+    "max_results": 100,
+    "max_pages": 1,
+    "match_terms": [
+      "AXTI",
+      "SNDK",
+      "photonics",
+      "memory"
+    ]
+  },
+  "user": {
+    "created_at": "2025-07-02T10:44:15.000Z",
+    "public_metrics": {
+      "followers_count": 114346,
+      "following_count": 89,
+      "tweet_count": 4432,
+      "listed_count": 2078,
+      "like_count": 5706,
+      "media_count": 1190
+    },
+    "id": "1940360837547565056",
+    "name": "Serenity",
+    "description": "That famous @Reddit /r/WSB trader on @X \n\nAI/Semi Supply Chain Analyst from substrates to photonics\n\nTrading mispriced derivatives and unknown AI bottlenecks",
+    "username": "aleabitoreddit",
+    "verified": false
+  },
+  "page_count": 1,
+  "post_count": 97,
+  "matched_post_count": 33,
+  "posts": [
+    {
+      "id": "2034800163890634891",
+      "created_at": "2026-03-20T01:12:18.000Z",
+      "text": "@mi20483980476 @moderndayvenom $AEHR is one of my favorite longs. Unfortunately the question asked me to pick 5 only",
+      "conversation_id": "2034752613246542215",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 46
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034799916715762092"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AEHR"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "mi20483980476",
+          "moderndayvenom"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034799632157745304",
+      "created_at": "2026-03-20T01:10:11.000Z",
+      "text": "@moderndayvenom I’d send it into silicon photonics/CPO since we know it’s coming from OFC and $NVDA GTC.\n\nNames like $TSEM, $SIVE, $SOI were my favorite three higher conviction ones. \n\nThen I’d diversify a bit, maybe $RDDT as a long as of today’s prices. And $AAOI for current transceiver cycles.",
+      "conversation_id": "2034752613246542215",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 6,
+        "impression_count": 176
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034759678094110811"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "NVDA",
+          "TSEM",
+          "SIVE",
+          "SOI",
+          "RDDT",
+          "AAOI"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "moderndayvenom"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034795620847002020",
+      "created_at": "2026-03-20T00:54:15.000Z",
+      "text": "@SaiseiInvesting Stocks are positive sum! So everyone benefits long term from value creation.\n\nIf we look at $LITE or $AXTI it’s just been a straight line up past few months",
+      "conversation_id": "2034752613246542215",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 562
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034755369734451610"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "LITE",
+          "AXTI"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "SaiseiInvesting"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "AXTI"
+      ]
+    },
+    {
+      "id": "2034791521925701698",
+      "created_at": "2026-03-20T00:37:58.000Z",
+      "text": "@Bheafey97 $SIVE as the laser source for silicon photonics/CPO shift.",
+      "conversation_id": "2034752613246542215",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 10,
+        "quote_count": 0,
+        "bookmark_count": 8,
+        "impression_count": 1458
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034791075898925252"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "SIVE"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "Bheafey97"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034783834563387542",
+      "created_at": "2026-03-20T00:07:25.000Z",
+      "text": "@RKLBMan @Investor_NICK_ That was YTD, these are 3M returns",
+      "conversation_id": "2034768672451883279",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 14,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 752
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034782575458140573"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "RKLBMan",
+          "Investor_NICK_"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034781274829988227",
+      "created_at": "2026-03-19T23:57:14.000Z",
+      "text": "@pepemoonboy Thank you! @pepemoonboy helped me get started on this platform, so I’m grateful I get to share my ideas to so many ppl largely bc of you.",
+      "conversation_id": "2034781006847263014",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 33,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 1624
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034781006847263014"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "pepemoonboy",
+          "pepemoonboy"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034773476104708107",
+      "created_at": "2026-03-19T23:26:15.000Z",
+      "text": "@accounting_ds Thanks! My returns are blasting off again.\n\nBig thanks to photonics and memory names. Hope the thesis posts I shared from $LITE to $EWY helped others too.",
+      "conversation_id": "2034752613246542215",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 32,
+        "quote_count": 0,
+        "bookmark_count": 6,
+        "impression_count": 2818
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034753756563210319"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "LITE",
+          "EWY"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "accounting_ds"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "photonics",
+        "memory"
+      ]
+    },
+    {
+      "id": "2034772711239819537",
+      "created_at": "2026-03-19T23:23:13.000Z",
+      "text": "@retail_mourinho Thanks! I like to brag from time to time if it exceeds my own expectations",
+      "conversation_id": "2034752613246542215",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 15,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 3406
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034753368933925124"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "retail_mourinho"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034769739491442828",
+      "created_at": "2026-03-19T23:11:24.000Z",
+      "text": "@pepemoonboy Stop flattering me with the goat compliment lol! I’m sure there’s some higher returns out there\n\nHope your new AI portfolio is doing great too!",
+      "conversation_id": "2034752613246542215",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 14,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 3261
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034758319873683690"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "pepemoonboy"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034755345244201104",
+      "created_at": "2026-03-19T22:14:12.000Z",
+      "text": "@Mr_Derivatives I’m humbled thx for the compliment!",
+      "conversation_id": "2034743349337628803",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 27,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2543
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034754911012102442"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "Mr_Derivatives"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034754219073568904",
+      "created_at": "2026-03-19T22:09:44.000Z",
+      "text": "@BasedCapitalLP I think you’re forgetting the broader market did falter. \n\nWhen it recovers, that just means the names I own go higher than they are now! https://t.co/DPDl1yhgK3",
+      "conversation_id": "2034752613246542215",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 6,
+        "like_count": 42,
+        "quote_count": 0,
+        "bookmark_count": 6,
+        "impression_count": 7881
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034753893029077495"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "BasedCapitalLP"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034754219073568904/photo/1"
+        ]
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034753405995127182",
+      "created_at": "2026-03-19T22:06:30.000Z",
+      "text": "@Sandeman52 Thanks! The 3M numbers slightly inflated my YTD though, which is around ~600% after the recent rally today.",
+      "conversation_id": "2034752613246542215",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 25,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 6764
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034752855270150339"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "Sandeman52"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034752613246542215",
+      "created_at": "2026-03-19T22:03:21.000Z",
+      "text": "I may have outperformed the index just a tiny bit? \n\nIt’s as simple as riding the Photonics and Memory Supercycles from $AXTI to $SNDK.\n\nJust doing this for fun now. https://t.co/VkzcDTIE85",
+      "conversation_id": "2034752613246542215",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 30,
+        "reply_count": 152,
+        "like_count": 1233,
+        "quote_count": 16,
+        "bookmark_count": 199,
+        "impression_count": 172528
+      },
+      "referenced_tweets": [],
+      "entities": {
+        "cashtags": [
+          "AXTI",
+          "SNDK"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034752613246542215/photo/1"
+        ]
+      },
+      "matched_terms": [
+        "AXTI",
+        "SNDK",
+        "photonics",
+        "memory"
+      ]
+    },
+    {
+      "id": "2034749604705837328",
+      "created_at": "2026-03-19T21:51:24.000Z",
+      "text": "@ecomTrevor $SIVE was my latest call! My personal short term PT was $2-3B, and it sits at a $300M MC now.\n\nThat being said a lot of these existingnames still have a long way to go.",
+      "conversation_id": "2034743349337628803",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 3,
+        "like_count": 31,
+        "quote_count": 1,
+        "bookmark_count": 12,
+        "impression_count": 2442
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034748681661161971"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "SIVE"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "ecomTrevor"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034748215728513221",
+      "created_at": "2026-03-19T21:45:53.000Z",
+      "text": "@blancmischief No? Export controls are good for them since it harms their competitors like Sumitomo as upstream materials the need come from China.\n\nSince they require them to make InP substrates.\n\nIt’s a double edged sword short but gives $AXTI more control over the InP supply chain in the",
+      "conversation_id": "2034743349337628803",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 11,
+        "quote_count": 0,
+        "bookmark_count": 6,
+        "impression_count": 1904
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034747769399677060"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AXTI"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "blancmischief"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "AXTI"
+      ]
+    },
+    {
+      "id": "2034746913254465943",
+      "created_at": "2026-03-19T21:40:42.000Z",
+      "text": "@R_o_LwSzr An apple a day keeps the bottleneck away? But I don’t eat apples, so I’m able to spot them early.\n\nMy photonics calls have been spot on like $SIVE or $AXTI, but appreciate the nice comment!",
+      "conversation_id": "2034743349337628803",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 30,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 2701
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034743976431874168"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "SIVE",
+          "AXTI"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "R_o_LwSzr"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "AXTI",
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034746298226942000",
+      "created_at": "2026-03-19T21:38:15.000Z",
+      "text": "@gahhhbor Better question to ask is.. is photonics going to be a major thing in 2028?\n\nIf it is, $AXTI is probably going to be a major $SNDK like bottleneck, and I’m personally holding. https://t.co/AfCc9iLm81",
+      "conversation_id": "2034743349337628803",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 32,
+        "quote_count": 0,
+        "bookmark_count": 9,
+        "impression_count": 2562
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034743659829370934"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AXTI",
+          "SNDK"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "gahhhbor"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034746298226942000/photo/1"
+        ]
+      },
+      "matched_terms": [
+        "AXTI",
+        "SNDK",
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034745488864596064",
+      "created_at": "2026-03-19T21:35:02.000Z",
+      "text": "@Kevin1151268 LOL, pls don’t full port it into names I mention. \n\nThat being said $TSEM is high conviction long term, I’m personally comfortable holding over two years and just forgetting about it.\n\nThat’s probably a better strategy imo",
+      "conversation_id": "2034740497953243439",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 28,
+        "quote_count": 0,
+        "bookmark_count": 10,
+        "impression_count": 1824
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034745091592503486"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "TSEM"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "Kevin1151268"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034743349337628803",
+      "created_at": "2026-03-19T21:26:32.000Z",
+      "text": "Holy ****, my $AXTI thesis was legendary?\n\nAXT is up another 20% today to ATHs at $58.\n\nHappy I got this right, gains in a short time blew away holding $NVDA over the years. https://t.co/xEJ7DtgFaP https://t.co/nm5cMhxz01",
+      "conversation_id": "2034743349337628803",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 21,
+        "reply_count": 86,
+        "like_count": 619,
+        "quote_count": 2,
+        "bookmark_count": 87,
+        "impression_count": 87882
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "2004569946492453003"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AXTI",
+          "NVDA"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034743349337628803/photo/1",
+          "https://twitter.com/aleabitoreddit/status/2004569946492453003"
+        ]
+      },
+      "matched_terms": [
+        "AXTI"
+      ]
+    },
+    {
+      "id": "2034742214488990036",
+      "created_at": "2026-03-19T21:22:02.000Z",
+      "text": "@AdamJasensky Most analysts were giving $AXTI a $8 PT and now it’s $58 two months later.\n\nThey’re usually noise I personally ignore, some comments inside them like operating income projections are helpful",
+      "conversation_id": "2034740497953243439",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 28,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 2126
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034741649432076712"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AXTI"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "AdamJasensky"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "AXTI"
+      ]
+    },
+    {
+      "id": "2034740497953243439",
+      "created_at": "2026-03-19T21:15:13.000Z",
+      "text": "I’m sorry everyone…\n\nI thought $TSEM was a steady compounder over time like $TSM\n\nbut it’s going up 17% a day? https://t.co/QXWW7cgIXP https://t.co/mCZ13pcuJ4",
+      "conversation_id": "2034740497953243439",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 14,
+        "reply_count": 62,
+        "like_count": 464,
+        "quote_count": 1,
+        "bookmark_count": 61,
+        "impression_count": 65280
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "2031820871170736570"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "TSEM",
+          "TSM"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034740497953243439/photo/1",
+          "https://twitter.com/aleabitoreddit/status/2031820871170736570"
+        ]
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034634272733343835",
+      "created_at": "2026-03-19T14:13:06.000Z",
+      "text": "$TSEM and the Photonics Supercycle…\n\nDoesn’t like they’re bothered with Iran or Silver and Gold crashing?\n\nAlmost every name from $AAOI, $COHR, $SIVE, to $LITE is green.\n\nThis is what happens when capacity is sold out for the next few years or it’s in the center of scaling the https://t.co/SnM2t9V3ng",
+      "conversation_id": "2034634272733343835",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 37,
+        "reply_count": 63,
+        "like_count": 636,
+        "quote_count": 1,
+        "bookmark_count": 166,
+        "impression_count": 64877
+      },
+      "referenced_tweets": [],
+      "entities": {
+        "cashtags": [
+          "TSEM",
+          "AAOI",
+          "COHR",
+          "SIVE",
+          "LITE"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034634272733343835/photo/1",
+          "https://x.com/aleabitoreddit/status/2034634272733343835/photo/1"
+        ]
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034584155036828052",
+      "created_at": "2026-03-19T10:53:57.000Z",
+      "text": "$SIVE &lt;&gt; $SIVEF is now up 165% this week.\n\nValuation? ~$300M MC.\n\nHowever; either I’m dumb or Sivers is one of the best opportunities in photonics today.\n\nYou get the laser supplier for Jabil, Ayar, Poet ( $MRVL Celestial ), O-Net, and others:\n\nThat end up in $GOOGL, $MSFT, https://t.co/NPledNKp3G https://t.co/wGdKU4ToQI",
+      "conversation_id": "2034584155036828052",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 52,
+        "reply_count": 57,
+        "like_count": 400,
+        "quote_count": 4,
+        "bookmark_count": 113,
+        "impression_count": 109941
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "2033466880661606646"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "SIVE",
+          "SIVEF",
+          "MRVL",
+          "GOOGL",
+          "MSFT"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034584155036828052/photo/1",
+          "https://twitter.com/aleabitoreddit/status/2033466880661606646"
+        ]
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034566446479822962",
+      "created_at": "2026-03-19T09:43:35.000Z",
+      "text": "@beauty_oe VisaやMastercardが消滅するとは思っていません。しかし、今後の成長の大部分は、手数料無料の決済システム（決済レール）やUSDCに奪われる（カニバライズされる）可能性があります。\n\n現在の市場は、$V（Visa株）が永遠に複利成長していくことを前提としている（織り込んでいる）ように思います。",
+      "conversation_id": "2034565867015635074",
+      "lang": "ja",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 1,
+        "like_count": 44,
+        "quote_count": 0,
+        "bookmark_count": 6,
+        "impression_count": 8914
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034565867015635074"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "beauty_oe"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034559475533910175",
+      "created_at": "2026-03-19T09:15:53.000Z",
+      "text": "I’m surprised markets aren’t pricing in long term disruption of card networks + interchange like $V and $MA.\n\nBy $CRCL and $COIN.\n\nFrom Global Markets Head at Circle:\n\n\"Over the past nine months, AI agents completed 140 million payments with a total transaction volume of 43 https://t.co/JZzAgS6s33",
+      "conversation_id": "2034559475533910175",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 45,
+        "reply_count": 93,
+        "like_count": 663,
+        "quote_count": 13,
+        "bookmark_count": 265,
+        "impression_count": 133799
+      },
+      "referenced_tweets": [],
+      "entities": {
+        "cashtags": [
+          "V",
+          "MA",
+          "CRCL",
+          "COIN"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034559475533910175/photo/1"
+        ]
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034554164949438638",
+      "created_at": "2026-03-19T08:54:47.000Z",
+      "text": "@whte708 Up to you to decide if the laser supplier to hyperscaler supply chains is worth ~$300m MC or not.",
+      "conversation_id": "2034543082071597422",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 21,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2360
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034543680804249712"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "whte708"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034550915823464702",
+      "created_at": "2026-03-19T08:41:53.000Z",
+      "text": "@ram_blings Because $POET buys $SIVE lasers then packages it.\n\n$SIVE is the light source, $POET isn’t being used here",
+      "conversation_id": "2034543082071597422",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 20,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 3004
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034550540206821806"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "POET",
+          "SIVE",
+          "SIVE",
+          "POET"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "ram_blings"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034546845121462312",
+      "created_at": "2026-03-19T08:25:42.000Z",
+      "text": "@CMunchSand They scale capacity with win semi qualification",
+      "conversation_id": "2034543082071597422",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 15,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2388
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034545280029221073"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "CMunchSand"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034546653500481796",
+      "created_at": "2026-03-19T08:24:56.000Z",
+      "text": "@finsowl You can just say ~$2.5M worth of shares is being unlocked.\n\nIdk if that’s a big amount for Europeans but over in the US we have $6B ATMs for random datacenter stocks",
+      "conversation_id": "2034543082071597422",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 17,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2215
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034543968050962606"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "finsowl"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034545215093277143",
+      "created_at": "2026-03-19T08:19:13.000Z",
+      "text": "@MarcOliver_L Probably near term $2-3B MC is reasonable now that $SIVE is the confirmed light source for Jabil’s upcoming transceiver line.\n\nSo around 7-8x current prices? Before it was $1B MC just based off Ayar/O-Net/Poet",
+      "conversation_id": "2034543082071597422",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 1,
+        "like_count": 44,
+        "quote_count": 0,
+        "bookmark_count": 7,
+        "impression_count": 3644
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034543583286509741"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "SIVE"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "MarcOliver_L"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034544357731434496",
+      "created_at": "2026-03-19T08:15:49.000Z",
+      "text": "@MaxtheCat145 No, unless you have a source this is brand new news that Jabil is using $SIVE as their light source for upcoming transceivers.\n\nI think you’re thinking of Win Semi",
+      "conversation_id": "2034543082071597422",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 22,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 2938
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034543528563355838"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "SIVE"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "MaxtheCat145"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034543479117017299",
+      "created_at": "2026-03-19T08:12:20.000Z",
+      "text": "@Seafox92 Yep! Just a correction was OFC conference not $NVDA GTC*",
+      "conversation_id": "2034524869086552292",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 12,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1280
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034535515744010639"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "NVDA"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "Seafox92"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034543351475880006",
+      "created_at": "2026-03-19T08:11:49.000Z",
+      "text": "@Roenick1010 Yep, just a correction, was OFC* not $NVDA GTC",
+      "conversation_id": "2034531113574736053",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 11,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 1464
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034532293734183121"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "NVDA"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "Roenick1010"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034543082071597422",
+      "created_at": "2026-03-19T08:10:45.000Z",
+      "text": "Don’t think majority of the market picked up on the Jabil and $SIVE partnership yet.\n\nEspecially since there’s no formal news, aside from physical leaks from the OFC conference*. \n\nFeel like $310M MC for Jabil’s transceiver light source…\n\nMight be underpricing it. https://t.co/bAnDygPD3X https://t.co/fHD065Gvdd",
+      "conversation_id": "2034543082071597422",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 51,
+        "reply_count": 38,
+        "like_count": 332,
+        "quote_count": 2,
+        "bookmark_count": 72,
+        "impression_count": 70270
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "2034531113574736053"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "SIVE"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034543082071597422/photo/1",
+          "https://twitter.com/aleabitoreddit/status/2034531113574736053"
+        ]
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034537253205381327",
+      "created_at": "2026-03-19T07:47:35.000Z",
+      "text": "@Kallemk75 gg, not to put salt on the wound, but just remember, $SIVE was once $280M MC when you found it.",
+      "conversation_id": "2034531113574736053",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 22,
+        "quote_count": 0,
+        "bookmark_count": 4,
+        "impression_count": 2998
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034536775234826315"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "SIVE"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "Kallemk75"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034534975865843929",
+      "created_at": "2026-03-19T07:38:32.000Z",
+      "text": "@Kaizen_Investor Was aware of it for awhile from all the $POET shilling back on Reddit as it's their #1 favorite stock over there. \n\nAnd Sivers got name dropped from time to time. \n\nJust felt like silicon photonics/CPO was quite a ways away so never went long. \n\nBut $NVDA GTC was the catalyst it",
+      "conversation_id": "2034531113574736053",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 36,
+        "quote_count": 0,
+        "bookmark_count": 7,
+        "impression_count": 5512
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034533198038724775"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "POET",
+          "NVDA"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "Kaizen_Investor"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034534562186023038",
+      "created_at": "2026-03-19T07:36:54.000Z",
+      "text": "@DramaPrinceling Jabil is just massive and supplies to almost every hyperscaler.  \n\nThis is definitely the biggest news to date for $SIVE as this is hyperscaler-level validation for their light source.  \n\nSivers is dirt cheap at $280m, would not be surprised if it ended up $2B+ near term",
+      "conversation_id": "2034531113574736053",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 3,
+        "like_count": 26,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 2615
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034533432676479374"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "SIVE"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "DramaPrinceling"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034532662426423640",
+      "created_at": "2026-03-19T07:29:21.000Z",
+      "text": "@Allstarsv16 They're literally the light source for $MRVL Celestial through $POET, Ayar -&gt; Ai Chip/GUC, O-Net, and now Jabil.\n\nSo end users are probably all $MSFT, $GOOGL, $META, $AMZN... The future potential light source for the entire hyperscaler supply chain and even ones in Asia. \n\n At",
+      "conversation_id": "2034531113574736053",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 26,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 3335
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034531398573342874"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "MRVL",
+          "POET",
+          "MSFT",
+          "GOOGL",
+          "META",
+          "AMZN"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "Allstarsv16"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034531113574736053",
+      "created_at": "2026-03-19T07:23:11.000Z",
+      "text": "Sivers &lt; $SIVE / $SIVEF &gt; powering Jabil ($27B MC) &lt; $JBL &gt; 1.6T LRO transcivers.\n\nAs the laser light source.\n\nIs by far the biggest news from $NVDA GTC for Sivers ($280M MC) today... in history. \n\nJabil brings in about $30B+ revenue from end users like $AMZN, $GOOGL, and $META. https://t.co/f5HGpvuQka https://t.co/a1CGxBSCAh",
+      "conversation_id": "2034531113574736053",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 38,
+        "reply_count": 30,
+        "like_count": 313,
+        "quote_count": 10,
+        "bookmark_count": 145,
+        "impression_count": 158819
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "2034524869086552292"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "SIVE",
+          "SIVEF",
+          "JBL",
+          "NVDA",
+          "AMZN",
+          "GOOGL",
+          "META"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034531113574736053/photo/1",
+          "https://twitter.com/aleabitoreddit/status/2034524869086552292"
+        ]
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034528751334342789",
+      "created_at": "2026-03-19T07:13:48.000Z",
+      "text": "@Be_nice_dot_com I don't have enough $SIVE... Especially after this news and I'll probably add more market open. \n\n$JBL is probably one of the largest players in this space and basically supply to all the hyperscalers.",
+      "conversation_id": "2034524869086552292",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 4,
+        "like_count": 31,
+        "quote_count": 0,
+        "bookmark_count": 5,
+        "impression_count": 3389
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034528071097676230"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "SIVE",
+          "JBL"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "Be_nice_dot_com"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034526726324449395",
+      "created_at": "2026-03-19T07:05:45.000Z",
+      "text": "@mrsgayathridas $IBKR. \n\nThe new announcement $SIVE is the light source for $JBL is probably biggest news to date. And I expect the stock to get re-rated immensely from the news.\n\nJabil powers $GOOGL, $META, $AMZN, $MSFT for optical transceivers. \n\nThey’re a huge player.",
+      "conversation_id": "2034524869086552292",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 35,
+        "quote_count": 2,
+        "bookmark_count": 4,
+        "impression_count": 3036
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034525314785955920"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "IBKR",
+          "SIVE",
+          "JBL",
+          "GOOGL",
+          "META",
+          "AMZN",
+          "MSFT"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "mrsgayathridas"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034524869086552292",
+      "created_at": "2026-03-19T06:58:23.000Z",
+      "text": "Sivers &lt; $SIVE / $SIVEF &gt;to power Jabil ( $JBL ) next-generation optical transceivers.\n\nThe fact Sivers is named as the power source for Jabil's flagship 1.6T module… \n\nis probably the biggest news to date?\n\nThis is thesis validation that Sivers is the next $LITE as the light https://t.co/5iLYE5hvRC https://t.co/2mmZWbm1fJ",
+      "conversation_id": "2034524869086552292",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 25,
+        "reply_count": 21,
+        "like_count": 250,
+        "quote_count": 4,
+        "bookmark_count": 67,
+        "impression_count": 111547
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "2034087274800091401"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "SIVE",
+          "SIVEF",
+          "JBL",
+          "LITE"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034524869086552292/photo/1",
+          "https://twitter.com/aleabitoreddit/status/2034087274800091401"
+        ]
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034521785115480365",
+      "created_at": "2026-03-19T06:46:07.000Z",
+      "text": "@fated65 Yeah, a lot of asset managers and sellside I know have zero clue what they’re talking about. \n\nEither bank analysts are forced to give BS price targets 15% above market prices so they can show up dinner parties.\n\nOr asset managers grift so they can profit off management fees",
+      "conversation_id": "2034517997700915712",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 32,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 2005
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034520341645812163"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "fated65"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034520078931353660",
+      "created_at": "2026-03-19T06:39:21.000Z",
+      "text": "@owoNine It’s really just optics at this point with authority bias, sad to see media especially can’t just look at ideas themselves.\n\nThe dumbest suggestions come from BoA and other “analysts” like Burry who are very red YTDS\n\nBut it immediately gets credibility from name association.",
+      "conversation_id": "2034517997700915712",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 4,
+        "like_count": 22,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2024
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034518200948289775"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "owoNine"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034517997700915712",
+      "created_at": "2026-03-19T06:31:04.000Z",
+      "text": "Why is it…\n\nWhen I call out a stock like $RPI, news outlets like Bloomberg and FT call it a “Meme Stock”? \n\nLike GameStop?\n\nThen when other analysts like Hedgeye say the same thing a month later…\n\nSuddenly it’s an AI trade like Bytedance or Tencent.\n\nDo I need to name change to https://t.co/YzKVx7dV7F",
+      "conversation_id": "2034517997700915712",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 36,
+        "like_count": 296,
+        "quote_count": 1,
+        "bookmark_count": 37,
+        "impression_count": 36934
+      },
+      "referenced_tweets": [],
+      "entities": {
+        "cashtags": [
+          "RPI"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034517997700915712/photo/1",
+          "https://x.com/aleabitoreddit/status/2034517997700915712/photo/1",
+          "https://x.com/aleabitoreddit/status/2034517997700915712/photo/1"
+        ]
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034478396559016098",
+      "created_at": "2026-03-19T03:53:43.000Z",
+      "text": "@21mattsmith1998 No, I post all my stuff for free on X",
+      "conversation_id": "2034422243594530857",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 37,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 2558
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034435801287635312"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "21mattsmith1998"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034466447674798548",
+      "created_at": "2026-03-19T03:06:14.000Z",
+      "text": "@pumpkinpuripuri 🙇$AXTI のようなフォトニクス（光技術）銘柄が、短期的なサイクルで終わるとは思っていません。今後数年間で、AIをスケールさせるための新しいアーキテクチャになるはずです！",
+      "conversation_id": "2034422243594530857",
+      "lang": "ja",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 2,
+        "like_count": 61,
+        "quote_count": 0,
+        "bookmark_count": 15,
+        "impression_count": 7258
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034464733601079627"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "pumpkinpuripuri"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "AXTI"
+      ]
+    },
+    {
+      "id": "2034447175489597708",
+      "created_at": "2026-03-19T01:49:39.000Z",
+      "text": "@SL2056 Unless there’s material changes. \n\nIf $TSLA comes in and uses Chinese suppliers instead of $VPG for mass production, then my thesis on Optimus BOM slightly breaks and I’ll derisk.\n\nIf US suddenly enters peacetime and there’s no War anymore, it’s better to exit defense related https://t.co/vLgifG2ROK",
+      "conversation_id": "2034422243594530857",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 24,
+        "quote_count": 0,
+        "bookmark_count": 4,
+        "impression_count": 4140
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034443356688855453"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "TSLA",
+          "VPG"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "SL2056"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034447175489597708/photo/1"
+        ]
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034446082399473712",
+      "created_at": "2026-03-19T01:45:18.000Z",
+      "text": "@Spiralout_one Yeah I get a lot of $IREN spam comments from angry holders every day.\n\nTurns out saying that a $6B ATM caps upside is controversial to them as they think $6 Billion in newly minted selling pressure makes the stock quadruple in value from a swiggly line on a chart TA.",
+      "conversation_id": "2034422243594530857",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 21,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 4296
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034427930797834402"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "IREN"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "Spiralout_one"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034442967734419569",
+      "created_at": "2026-03-19T01:32:56.000Z",
+      "text": "@alejandrobatiz I did before the Iran conflict and hedged with oil longs like $CVX. I sold off a lot of Asian names like Unimicron and Nanya for realized short term capital gains. \n\nI already did an analysis on oil/lng/helium and found their to be little to slightly moderate affect on margins,",
+      "conversation_id": "2034422243594530857",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 29,
+        "quote_count": 0,
+        "bookmark_count": 4,
+        "impression_count": 5649
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034424507964825942"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "CVX"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "alejandrobatiz"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034441352172503550",
+      "created_at": "2026-03-19T01:26:31.000Z",
+      "text": "@hankisinvesting $SIVE / $SIVEF and $IQE.\n\nSivers makes laser arrays and cw dfb lasers for cpo/silicon photonics. And is embedded into hyperscaler supply chains like $AMZN and $MSFT clusters as the light source from captive models like $MRVL celestial from $POET and merchant models from Ayar.",
+      "conversation_id": "2034422243594530857",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 6,
+        "reply_count": 5,
+        "like_count": 60,
+        "quote_count": 1,
+        "bookmark_count": 50,
+        "impression_count": 5896
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034439943943262347"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "SIVE",
+          "SIVEF",
+          "IQE",
+          "AMZN",
+          "MSFT",
+          "MRVL",
+          "POET"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "hankisinvesting"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034426807018279168",
+      "created_at": "2026-03-19T00:28:43.000Z",
+      "text": "@LillyL464172 There’s always a bull market somewhere. I’m typically good at spotting it early (eg. 2024 was $MSTR Bitcoin halving frontrun) so doesn’t always apply to AI supply chains.\n\nBut hard to see a bear market if companies like $LITE are sold out until 2028? And memory names are sold out",
+      "conversation_id": "2034422243594530857",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 56,
+        "quote_count": 0,
+        "bookmark_count": 11,
+        "impression_count": 4965
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034425921009029267"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "MSTR",
+          "LITE"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "LillyL464172"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "memory"
+      ]
+    },
+    {
+      "id": "2034422243594530857",
+      "created_at": "2026-03-19T00:10:35.000Z",
+      "text": "Year to Date return from Jan to March:\n\n+564.36%. \n\nI’m speed running last year’s 600%+ returns by finding undiscovered AI bottlenecks.\n\nAnd picking the winners.\n\n- 500%+ unrealized gains on $AXTI.\n\n- $AAOI 3x’d in 3M or $IQE 2x in 1M.\n\n- $LITE close to 100%+. \n\nAnd I expect https://t.co/Q39wgQcXGL",
+      "conversation_id": "2034422243594530857",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 91,
+        "reply_count": 133,
+        "like_count": 1748,
+        "quote_count": 7,
+        "bookmark_count": 1130,
+        "impression_count": 125847
+      },
+      "referenced_tweets": [],
+      "entities": {
+        "cashtags": [
+          "AXTI",
+          "AAOI",
+          "IQE",
+          "LITE"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034422243594530857/photo/1"
+        ]
+      },
+      "matched_terms": [
+        "AXTI"
+      ]
+    },
+    {
+      "id": "2034346371147616601",
+      "created_at": "2026-03-18T19:09:05.000Z",
+      "text": "@tweet_tj Yep, I think $11B is definitely possible for $SIVE in two years. I feel like markets haven’t fully realized the massive TAM expansion that’s coming for photonics yet.",
+      "conversation_id": "2034331784763343333",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 3,
+        "like_count": 30,
+        "quote_count": 1,
+        "bookmark_count": 6,
+        "impression_count": 2785
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034345722770764283"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "SIVE"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "tweet_tj"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034344634043011213",
+      "created_at": "2026-03-18T19:02:11.000Z",
+      "text": "@Davidson_august Yeah you can do it through $IBKR. Their Stockholm data feed is kinda buggy. I personally just did market buy whatever price, since I'm personally long. \n\nSo didn't really care much about 1-2% limit fill differences.",
+      "conversation_id": "2034331784763343333",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 18,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 2720
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034337907398398263"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "IBKR"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "Davidson_august"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034344140016893994",
+      "created_at": "2026-03-18T19:00:13.000Z",
+      "text": "@Hiraweb3 Thanks! \n\nMy style is usually:\n-&gt; Thesis post\n-&gt; Follow up research (eg. $AXTI 7n indium export controls, bottleneck)\n-&gt; Then celebration when thesis plays out\n\nAnd then just sitting on it (if there's nothing too new). \n\nMost of the money in markets is to be made finding out",
+      "conversation_id": "2034331784763343333",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 27,
+        "quote_count": 0,
+        "bookmark_count": 5,
+        "impression_count": 2329
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034335008484135367"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AXTI"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "Hiraweb3"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "AXTI"
+      ]
+    },
+    {
+      "id": "2034342979507568672",
+      "created_at": "2026-03-18T18:55:37.000Z",
+      "text": "@Darkhawk720 @_stockResearch Nothing's changed with $XLU, it's boring multi-year trade. So I'm personally just sitting on my positions.",
+      "conversation_id": "2034331784763343333",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 20,
+        "quote_count": 0,
+        "bookmark_count": 3,
+        "impression_count": 1388
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034338789854699638"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "XLU"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "Darkhawk720",
+          "_stockResearch"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034342172179501344",
+      "created_at": "2026-03-18T18:52:24.000Z",
+      "text": "@AlphaAllegro Think $NOK is known by now. It's just not talked about as much because their core business is not photonics  and it feels like a slight revenue boost as of today. https://t.co/Hg3yrQivop",
+      "conversation_id": "2034331784763343333",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 2,
+        "like_count": 15,
+        "quote_count": 0,
+        "bookmark_count": 12,
+        "impression_count": 2270
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034333021000642935"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "NOK"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "AlphaAllegro"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034342172179501344/photo/1"
+        ]
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034341704388796588",
+      "created_at": "2026-03-18T18:50:33.000Z",
+      "text": "@tweet_tj I mean $LITE went from $17 to $709? Every companies gotta start somewhere. \n\nJust the trajectory, definitely not $50B MC by next year. \n\nHowever, they're positioned well as the upstream laser bottleneck for the next architectural shift, similar to what $LITE is in current EML",
+      "conversation_id": "2034331784763343333",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 20,
+        "quote_count": 0,
+        "bookmark_count": 5,
+        "impression_count": 2328
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034337856550777254"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "LITE",
+          "LITE"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "tweet_tj"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034341146533798036",
+      "created_at": "2026-03-18T18:48:20.000Z",
+      "text": "@papaD__ Yep! I'm familiar with them after doing DD on refactoring reactors for inp epiwafers $IQE. \n\nPersonally not a fan of equipment sellers like $AXIA or Oxford. \n\nThey have material revenue acceleration, but they don't really derive the same value from the photonics supercycle as the",
+      "conversation_id": "2034331784763343333",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 11,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 2251
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034334921800483043"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "IQE",
+          "AXIA"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "papaD__"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034340113707360487",
+      "created_at": "2026-03-18T18:44:13.000Z",
+      "text": "@siflower You're correct in saying downstream players typically have more pricing power. $AAPL for example, makes the most for selling the IPhone than Foxconn that assembles it.\n\nHowever, in photonics, lasers are the bottleneck currently and are extremely, extremely valuable. \n\nEspecially",
+      "conversation_id": "2034331784763343333",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 15,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 2047
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034335386596483383"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AAPL"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "siflower"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034338587098194001",
+      "created_at": "2026-03-18T18:38:10.000Z",
+      "text": "@_stockResearch All good questions! My thoughts:\n\n- With $NVDA GTC, CPO is hitting their inflection point today. So I think the timing is right. Before, it was too early.\n- Largely undiscovered, as I mentioned in supply chain mapping, most institutions don't go upstream to pinpoint major players",
+      "conversation_id": "2034331784763343333",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 4,
+        "like_count": 26,
+        "quote_count": 0,
+        "bookmark_count": 8,
+        "impression_count": 3130
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034332970777973211"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "NVDA"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "_stockResearch"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034331784763343333",
+      "created_at": "2026-03-18T18:11:08.000Z",
+      "text": "Sivers is up another 29% to a $282M marketcap today.\n\nI genuinely think $SIVE could be the next $LITE.\n\nAs they’re positioned as the light source for the next generation of hyperscaler supply chains.\n\nWhen scale up-scale out architectures transition to CPO &amp; Silicon photonics. https://t.co/Ulf9Far96I https://t.co/2mmZWbm1fJ",
+      "conversation_id": "2034331784763343333",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 61,
+        "reply_count": 72,
+        "like_count": 504,
+        "quote_count": 4,
+        "bookmark_count": 174,
+        "impression_count": 100280
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "2034087274800091401"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "SIVE",
+          "LITE"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034331784763343333/photo/1",
+          "https://twitter.com/aleabitoreddit/status/2034087274800091401"
+        ]
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034324292553544107",
+      "created_at": "2026-03-18T17:41:21.000Z",
+      "text": "@StormDirac Wow super cool that you were the former CEO of $SIVE. \n\nCongrats on building it up to this position, I love what they’re doing in the space for silicon photonics/CPO. I know you must be feeling proud!",
+      "conversation_id": "2034087274800091401",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 2,
+        "like_count": 81,
+        "quote_count": 1,
+        "bookmark_count": 4,
+        "impression_count": 5635
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034262447121461720"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "SIVE"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "StormDirac"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034238234700738683",
+      "created_at": "2026-03-18T11:59:24.000Z",
+      "text": "@DocPod4 I’m not long $POET? I’ve never made a thesis post on it.",
+      "conversation_id": "2034237409093878030",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 26,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 5000
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034237670344519872"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "POET"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "DocPod4"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034237409093878030",
+      "created_at": "2026-03-18T11:56:07.000Z",
+      "text": "This thesis post aged well with $LITE.\n\nI feel like every photonics pick I make just keeps doubling in short time periods. https://t.co/vOOWFZRgsW https://t.co/L5JgLLamg3",
+      "conversation_id": "2034237409093878030",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 41,
+        "reply_count": 40,
+        "like_count": 504,
+        "quote_count": 0,
+        "bookmark_count": 67,
+        "impression_count": 104115
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "2003019490871869644"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "LITE"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034237409093878030/photo/1",
+          "https://twitter.com/aleabitoreddit/status/2003019490871869644"
+        ]
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034224630429630974",
+      "created_at": "2026-03-18T11:05:20.000Z",
+      "text": "Well that was a fast 100%+ return with $IQE in 1 month.\n\nTurns out when you map it to $LITE and the hyperscaler supply chain at the epiwafer level… \n\nMarkets start pricing it in with the new $LITE projections… https://t.co/TA3xbSGfbX https://t.co/DtQmKLhNYn",
+      "conversation_id": "2034224630429630974",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 51,
+        "reply_count": 31,
+        "like_count": 449,
+        "quote_count": 3,
+        "bookmark_count": 128,
+        "impression_count": 98936
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "2026638711941902461"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "IQE",
+          "LITE",
+          "LITE"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034224630429630974/photo/1",
+          "https://twitter.com/aleabitoreddit/status/2026638711941902461"
+        ]
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034221508915335207",
+      "created_at": "2026-03-18T10:52:56.000Z",
+      "text": "@Lee_Trades @FieldWestgate Ah you’re right. I’m eating sushi so haven’t caught up https://t.co/37HCZ1s5gZ",
+      "conversation_id": "2034212267487793348",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 13,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 1618
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034221135949136128"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "Lee_Trades",
+          "FieldWestgate"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034221508915335207/photo/1"
+        ]
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034220226590748793",
+      "created_at": "2026-03-18T10:47:50.000Z",
+      "text": "@FieldWestgate Nice! I wonder if there was any new news with $IQE.",
+      "conversation_id": "2034212267487793348",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 12,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 2363
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034217626117787708"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "IQE"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "FieldWestgate"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034212267487793348",
+      "created_at": "2026-03-18T10:16:13.000Z",
+      "text": "Soitec &lt; $SOI / $SLOIF &gt; is now up, a lot since my post a week ago.\n\nAs they’re the Western monopoly over silicon photonics and CPO substrates. \n\nI post my ideas for free, and they get priced in immediately.\n\nInstead of former models where:\n\n-&gt; Bank analysts sell research for https://t.co/pGSfmL680v https://t.co/80ER5kLKuk",
+      "conversation_id": "2034212267487793348",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 30,
+        "reply_count": 43,
+        "like_count": 476,
+        "quote_count": 2,
+        "bookmark_count": 74,
+        "impression_count": 85152
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "2031648475310616604"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "SOI",
+          "SLOIF"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034212267487793348/photo/1",
+          "https://twitter.com/aleabitoreddit/status/2031648475310616604"
+        ]
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034196305342537982",
+      "created_at": "2026-03-18T09:12:47.000Z",
+      "text": "@FlashBozZ Yes I did a writeup on it. The ASP is an estimate, and I’m making the assumption capacity translates to revenue.\n\nGiven per $AAOI ER they stated hyperscalers were buying anything they could build. As well as $LITE CEO statements about being completely sold out https://t.co/UFwfdo0xzg",
+      "conversation_id": "2034186487672328657",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 24,
+        "quote_count": 0,
+        "bookmark_count": 7,
+        "impression_count": 4189
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034195834053468476"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AAOI",
+          "LITE"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "FlashBozZ"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034196305342537982/photo/1"
+        ]
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034191753868447949",
+      "created_at": "2026-03-18T08:54:42.000Z",
+      "text": "@Shiboo9019 The base case scenario is they become more of a US Innolight/Eoptolink (which are still valued at $50B+) if they don't manage to scale up laser capacity and buy from $COHR. \n\nIf they even hit 60-70% of their targets should re-rate a ton anyway in my opinion. \n\nSo these base cases",
+      "conversation_id": "2034186487672328657",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 31,
+        "quote_count": 0,
+        "bookmark_count": 5,
+        "impression_count": 3825
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034191401588576504"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "COHR"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "Shiboo9019"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034191042652885306",
+      "created_at": "2026-03-18T08:51:52.000Z",
+      "text": "@FoundersX76 I mean I \"felt\" $AXTI could hit $140 when I was back at $12... And now it's ~$50 in 2-3 months? \n\nOf course I back my feeling with DD like hyperscaler supply chain mapping, revenue estimates, or valuation comparisons.",
+      "conversation_id": "2034186487672328657",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 2,
+        "like_count": 39,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 3821
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034186595923062933"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AXTI"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "FoundersX76"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "AXTI"
+      ]
+    },
+    {
+      "id": "2034189736924033071",
+      "created_at": "2026-03-18T08:46:41.000Z",
+      "text": "@Kaizen_Investor For design/assembly\nEoptolink (China): ~$50B MC:  ~$5.3B revenue\nInnolight (China): ~$84B MC  ~$11B revenue\n\n$FN for low margin assembly ~$20B MC, ~$4B projected revenue.\n\nFor lasers/transceiver:\n$LITE ~$47B MC: ~$3B+ EOY 2026. \n\nThen you have $AAOI, $375M/month for https://t.co/xj7pjoeVJi",
+      "conversation_id": "2034186487672328657",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 5,
+        "like_count": 74,
+        "quote_count": 0,
+        "bookmark_count": 52,
+        "impression_count": 7752
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034186921199452316"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "FN",
+          "LITE",
+          "AAOI"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "Kaizen_Investor"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034189736924033071/photo/1",
+          "https://x.com/aleabitoreddit/status/2034189736924033071/photo/1"
+        ]
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034186487672328657",
+      "created_at": "2026-03-18T08:33:46.000Z",
+      "text": "I feel like markets should value:\n\n$AAOI $93 -&gt; $162 (~$13B MC) after their new capacity projections today. \n\nand \n\n$SIVE should be valued at 7.7 -&gt; 38.5 ($1.1B MC) at least?\n\nIf one is ramping to ~$1.97B capacity EOY 2027 (which is basically revenue, since hyperscalers are https://t.co/TpwjmCDNTF",
+      "conversation_id": "2034186487672328657",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 62,
+        "reply_count": 47,
+        "like_count": 671,
+        "quote_count": 4,
+        "bookmark_count": 372,
+        "impression_count": 111625
+      },
+      "referenced_tweets": [],
+      "entities": {
+        "cashtags": [
+          "AAOI",
+          "SIVE"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034186487672328657/photo/1",
+          "https://x.com/aleabitoreddit/status/2034186487672328657/photo/1"
+        ]
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034166166676230238",
+      "created_at": "2026-03-18T07:13:01.000Z",
+      "text": "$CRCL is now up 148.15% in 1 month.\n\nIf people are wondering why my YTD is ~500%?\n\nIt’s because I look at fundamentals, not scribbles on a chart. \n\nThe comment section back here aged like 2021 monkey JPEG prices. https://t.co/X5EH5SIrTP https://t.co/MIkrlmUkH6",
+      "conversation_id": "2034166166676230238",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 83,
+        "reply_count": 49,
+        "like_count": 1226,
+        "quote_count": 4,
+        "bookmark_count": 258,
+        "impression_count": 219263
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "2018724759262085467"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "CRCL"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034166166676230238/photo/1",
+          "https://twitter.com/aleabitoreddit/status/2018724759262085467"
+        ]
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034160719676244366",
+      "created_at": "2026-03-18T06:51:23.000Z",
+      "text": "@daniel_koss Yeah should be a tailwind for SK Hynix and Samsung and opens the doors for a lot of US investors.\n\nI’m very bullish on $MU but it’s a bit strange SK Hynix trades at a lower valuation, even accounting for made in America premiums.",
+      "conversation_id": "2034158681466740790",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 2,
+        "like_count": 55,
+        "quote_count": 0,
+        "bookmark_count": 11,
+        "impression_count": 8849
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034160220457320608"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "MU"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "daniel_koss"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034158681466740790",
+      "created_at": "2026-03-18T06:43:17.000Z",
+      "text": "It’s infuriating that so many people capitulated their positions.\n\nBecause of X influencer doomposters who are now pretending to be bullish on $MU or $EWY.\n\nOr Bank Analysts who have 0 clue what they’re talking about. \n\n99.9% of this place was bearish and posted: \n\n- “KOPSI https://t.co/vdPg7QteDp",
+      "conversation_id": "2034158681466740790",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 23,
+        "reply_count": 53,
+        "like_count": 628,
+        "quote_count": 3,
+        "bookmark_count": 83,
+        "impression_count": 75155
+      },
+      "referenced_tweets": [],
+      "entities": {
+        "cashtags": [
+          "MU",
+          "EWY"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034158681466740790/photo/1",
+          "https://x.com/aleabitoreddit/status/2034158681466740790/photo/1"
+        ]
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034144274372256242",
+      "created_at": "2026-03-18T05:46:02.000Z",
+      "text": "@nikitabier Glad to hear. There’s been a decent amount of AI spam recently.\n\nOn a side note, it possible to push a change for tickers?\n\nSo it doesn’t classify market cap as company names eg. https://t.co/AiVhGjgs4n",
+      "conversation_id": "2034143577425776805",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 85,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 15693
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034143577425776805"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "nikitabier"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034144274372256242/photo/1",
+          "https://x.com/aleabitoreddit/status/2034144274372256242/photo/1"
+        ]
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034143126018003324",
+      "created_at": "2026-03-18T05:41:28.000Z",
+      "text": "@Balansbanken $LITE and $AXTI had problems for years as a cyclical telecom provider. \n\nThen they’re both now the center of the entire AI buildout with photonics and got rerated a few thousand percent.\n\nI just have a feeling it’s the same with $SIVE for silicon photonics and CPO. \n\nAI changed",
+      "conversation_id": "2034127800840688097",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 4,
+        "like_count": 29,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 3404
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034141620841423240"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "LITE",
+          "AXTI",
+          "SIVE"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "Balansbanken"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "AXTI",
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034142199844376897",
+      "created_at": "2026-03-18T05:37:47.000Z",
+      "text": "@jacjess12 There’s a difference between a random European company trading at low p/e.\n\nThen one that suppliers lasers for the Optical Supercycle to hyperscaler supply chains. \n\nI personally would not invest in European markets unless it had extreme TAM expansion from AI like Soitec or",
+      "conversation_id": "2034127800840688097",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 1,
+        "like_count": 20,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2946
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034141334802726940"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "jacjess12"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034139139889893520",
+      "created_at": "2026-03-18T05:25:38.000Z",
+      "text": "@JapanDeepValue1 I’d slightly disagree. Japanese companies trade at deep book value because there wasn’t any return to shareholders with things like dividends until recently.\n\nMy guess is Sivers primarily trades at low valuations because nobody knew about it and their positioning in the photonic",
+      "conversation_id": "2034127800840688097",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 25,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 3885
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034133520042627278"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "JapanDeepValue1"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034127800840688097",
+      "created_at": "2026-03-18T04:40:34.000Z",
+      "text": "The more I look into Sivers \n&lt; $SIVE /  $SIVEF &gt;\n\nthe more I wonder:\n\nHow is the laser company for the hyperscaler photonic supply chains…\n\nValued at ~$200M USD MC?\n\nAll the companies that buy and repackage their lasers are now worth $1-4B+?\n\nPre-product SV AI companies are https://t.co/0hrfWo98Or https://t.co/2mmZWbm1fJ",
+      "conversation_id": "2034127800840688097",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 63,
+        "reply_count": 49,
+        "like_count": 486,
+        "quote_count": 3,
+        "bookmark_count": 263,
+        "impression_count": 107290
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "2034087274800091401"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "SIVE",
+          "SIVEF"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034127800840688097/photo/1",
+          "https://twitter.com/aleabitoreddit/status/2034087274800091401"
+        ]
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034111444221104143",
+      "created_at": "2026-03-18T03:35:34.000Z",
+      "text": "@lisasufanclub Can you send a Google Drive link over dm",
+      "conversation_id": "2034099429268234616",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 7,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 1884
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034110128631517204"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "lisasufanclub"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034108891018285528",
+      "created_at": "2026-03-18T03:25:26.000Z",
+      "text": "@lisasufanclub Hey! Can you Dm me more info about \n\n“Lumentum, which doesn't really want to do transceivers cause it's lower margins compared to other products, is actually able to raise margins for transceivers”\n\nAnd then their CPO scale up talk",
+      "conversation_id": "2034099429268234616",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 4,
+        "like_count": 46,
+        "quote_count": 0,
+        "bookmark_count": 6,
+        "impression_count": 11721
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034099429268234616"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "lisasufanclub"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034107901330219089",
+      "created_at": "2026-03-18T03:21:30.000Z",
+      "text": "@k_a_y_b_e_e_ I bought $AAOI $28-32. And I’m a heavier buyer at $88-$90.\n\nI don’t see how this company should be worth anywhere close to $6.4B if they get even close to these capacity targets.",
+      "conversation_id": "2034095067586326982",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 78,
+        "quote_count": 0,
+        "bookmark_count": 11,
+        "impression_count": 6355
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034095855129792745"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AAOI"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "k_a_y_b_e_e_"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034100201275945325",
+      "created_at": "2026-03-18T02:50:54.000Z",
+      "text": "@Zantetrader $SIVE is trading at $200m… Pre-product Silicon Valley LLM startups are worth 20x more than that.\n\n$LITE as a reference point is $44B+ as the leading laser supplier in current pluggable bottlenecks.\n\nCPO/Silicon photonics is the main growth engine past 2027.",
+      "conversation_id": "2034087274800091401",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 5,
+        "like_count": 42,
+        "quote_count": 0,
+        "bookmark_count": 9,
+        "impression_count": 3978
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034096525064761825"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "SIVE",
+          "LITE"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "Zantetrader"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034099575108391411",
+      "created_at": "2026-03-18T02:48:25.000Z",
+      "text": "@HeLiuLeo even if they can’t scale up internal laser fab (buying from $COHR) and end up as a US Innolight/eoptolink, $AAOI is still undervalued at $6b",
+      "conversation_id": "2034095067586326982",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 36,
+        "quote_count": 0,
+        "bookmark_count": 3,
+        "impression_count": 5486
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034098131114332552"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "COHR",
+          "AAOI"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "HeLiuLeo"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034095918648283148",
+      "created_at": "2026-03-18T02:33:53.000Z",
+      "text": "@traderofstox I try to model in forward fundamentals (revenue, profit) before markets price the company in with stuff like $AAOI. \n\nOr with $SIVE, looking at supply chain end users like $AMZN or $MSFT for light sources. \n\nThat's how most of the money is to be made in markets finding alpha, not",
+      "conversation_id": "2034095067586326982",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 95,
+        "quote_count": 0,
+        "bookmark_count": 12,
+        "impression_count": 5866
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034095467827466513"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AAOI",
+          "SIVE",
+          "AMZN",
+          "MSFT"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "traderofstox"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034095067586326982",
+      "created_at": "2026-03-18T02:30:30.000Z",
+      "text": "$AAOI looks very undervalued at $6.49B. \n\nIf we model ASP and their newest capacity projections today:\n\nRevenue from Capacity: \nQ2 2026: ~$312.1M\nQ4 2026: ~$1.41B \nQ2-2027: ~$1.53B\nQ4-2027: ~$1.97B\n\nThis is absurd ramp (off ~34-40% est. gross margins). \n\nASP modeled off https://t.co/351g7Csz9J",
+      "conversation_id": "2034095067586326982",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 70,
+        "reply_count": 52,
+        "like_count": 824,
+        "quote_count": 6,
+        "bookmark_count": 404,
+        "impression_count": 112464
+      },
+      "referenced_tweets": [],
+      "entities": {
+        "cashtags": [
+          "AAOI"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034095067586326982/photo/1",
+          "https://x.com/aleabitoreddit/status/2034095067586326982/photo/1",
+          "https://x.com/aleabitoreddit/status/2034095067586326982/photo/1"
+        ]
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034087274800091401",
+      "created_at": "2026-03-18T01:59:32.000Z",
+      "text": "$SIVE is the upstream laser supplier for CPO and Silicon Photonics.\n\nThey're the likely $COHR / $LITE type future light source for:\n\n- $AMZN Trainium Clusters\n- $MSFT Maia Clusters\n\nand possibly other hyperscalers like $META MTAI and $GOOGL TPU clusters. \n\nAt a ~$200M MC. https://t.co/yDcYMFGCKI",
+      "conversation_id": "2034087274800091401",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 51,
+        "reply_count": 34,
+        "like_count": 424,
+        "quote_count": 6,
+        "bookmark_count": 288,
+        "impression_count": 297206
+      },
+      "referenced_tweets": [],
+      "entities": {
+        "cashtags": [
+          "SIVE",
+          "COHR",
+          "LITE",
+          "AMZN",
+          "MSFT",
+          "META",
+          "GOOGL"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034087274800091401/photo/1",
+          "https://x.com/aleabitoreddit/status/2034087274800091401/photo/1"
+        ]
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034074445711814981",
+      "created_at": "2026-03-18T01:08:33.000Z",
+      "text": "@ram_blings I’m not bullish on copper. They’re used arguablely more as transitional tool over the next two years.\n\nEven though $NVDA CEO said they’ll need more copper, optics, and CPO.",
+      "conversation_id": "2034056688693875036",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 11,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 1463
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034066450030473449"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "NVDA"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "ram_blings"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034066521937613143",
+      "created_at": "2026-03-18T00:37:04.000Z",
+      "text": "@PeterBordes @TrajectoryVC Cool to see, photonics is the next paradigm for scaling AI. \n\nStill very early into the supercycle, but glad some VCs in the space spotted it early.",
+      "conversation_id": "2033885603423785170",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 15,
+        "quote_count": 1,
+        "bookmark_count": 2,
+        "impression_count": 1390
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034055539223576665"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "PeterBordes",
+          "TrajectoryVC"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034065887175835838",
+      "created_at": "2026-03-18T00:34:33.000Z",
+      "text": "@afasano23 Lot of the random bottlenecks/chokepoints in the AI supply chain are not US based… as seen with HBM and Toto toilets over in Japan.\n\n$IBKR has access to most stocks compared to $HOOD and others.",
+      "conversation_id": "2034056688693875036",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 18,
+        "quote_count": 0,
+        "bookmark_count": 4,
+        "impression_count": 1842
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034057676842279296"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "IBKR",
+          "HOOD"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "afasano23"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    },
+    {
+      "id": "2034063746986021028",
+      "created_at": "2026-03-18T00:26:03.000Z",
+      "text": "@wayne_rbee Three things:\n\n1/ Generally, the lower the marketcap, the higher the upside (but more risk)\n\n2/ Finding companies that weren’t priced into current pluggable cycles (EMl-transceiver companies like $LITE and $COHR)\n\n3/ Pure play to the upcoming cpo/silicon photonics paradigm shift. https://t.co/0YqcMKUBCQ",
+      "conversation_id": "2034056688693875036",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 34,
+        "quote_count": 0,
+        "bookmark_count": 23,
+        "impression_count": 2259
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034057355244278258"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "LITE",
+          "COHR"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "wayne_rbee"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034063746986021028/photo/1"
+        ]
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034056688693875036",
+      "created_at": "2026-03-17T23:58:00.000Z",
+      "text": "The Photonics Supercycle is here.\n\n$NVDA is spearheading the next leap into CPO &amp; Silicon Photonics.\n\nAnd we’re only near the inflection point with chokepoints in the supply chains like Soitec ( $SOI ) or Sivers ( $SIVE ).\n\n“NVIDIA’s update on the Spectrum-X switch with https://t.co/Dp7fc969zQ https://t.co/ykZqZidQab",
+      "conversation_id": "2034056688693875036",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 51,
+        "reply_count": 48,
+        "like_count": 572,
+        "quote_count": 4,
+        "bookmark_count": 334,
+        "impression_count": 94990
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "2033885603423785170"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "NVDA",
+          "SOI",
+          "SIVE"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034056688693875036/photo/1",
+          "https://x.com/aleabitoreddit/status/2034056688693875036/photo/1",
+          "https://twitter.com/aleabitoreddit/status/2033885603423785170"
+        ]
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2033949266310529357",
+      "created_at": "2026-03-17T16:51:08.000Z",
+      "text": "@TheValueist Great overview of every name from $CIEN to $FORM! I’m sure you’re locked in too now after this post",
+      "conversation_id": "2033935878771642394",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 41,
+        "quote_count": 0,
+        "bookmark_count": 16,
+        "impression_count": 4887
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2033935878771642394"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "CIEN",
+          "FORM"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "TheValueist"
+        ],
+        "urls": []
+      },
+      "matched_terms": []
+    }
+  ],
+  "matched_posts": [
+    {
+      "id": "2034799632157745304",
+      "created_at": "2026-03-20T01:10:11.000Z",
+      "text": "@moderndayvenom I’d send it into silicon photonics/CPO since we know it’s coming from OFC and $NVDA GTC.\n\nNames like $TSEM, $SIVE, $SOI were my favorite three higher conviction ones. \n\nThen I’d diversify a bit, maybe $RDDT as a long as of today’s prices. And $AAOI for current transceiver cycles.",
+      "conversation_id": "2034752613246542215",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 6,
+        "impression_count": 176
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034759678094110811"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "NVDA",
+          "TSEM",
+          "SIVE",
+          "SOI",
+          "RDDT",
+          "AAOI"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "moderndayvenom"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034795620847002020",
+      "created_at": "2026-03-20T00:54:15.000Z",
+      "text": "@SaiseiInvesting Stocks are positive sum! So everyone benefits long term from value creation.\n\nIf we look at $LITE or $AXTI it’s just been a straight line up past few months",
+      "conversation_id": "2034752613246542215",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 562
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034755369734451610"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "LITE",
+          "AXTI"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "SaiseiInvesting"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "AXTI"
+      ]
+    },
+    {
+      "id": "2034791521925701698",
+      "created_at": "2026-03-20T00:37:58.000Z",
+      "text": "@Bheafey97 $SIVE as the laser source for silicon photonics/CPO shift.",
+      "conversation_id": "2034752613246542215",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 10,
+        "quote_count": 0,
+        "bookmark_count": 8,
+        "impression_count": 1458
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034791075898925252"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "SIVE"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "Bheafey97"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034773476104708107",
+      "created_at": "2026-03-19T23:26:15.000Z",
+      "text": "@accounting_ds Thanks! My returns are blasting off again.\n\nBig thanks to photonics and memory names. Hope the thesis posts I shared from $LITE to $EWY helped others too.",
+      "conversation_id": "2034752613246542215",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 32,
+        "quote_count": 0,
+        "bookmark_count": 6,
+        "impression_count": 2818
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034753756563210319"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "LITE",
+          "EWY"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "accounting_ds"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "photonics",
+        "memory"
+      ]
+    },
+    {
+      "id": "2034752613246542215",
+      "created_at": "2026-03-19T22:03:21.000Z",
+      "text": "I may have outperformed the index just a tiny bit? \n\nIt’s as simple as riding the Photonics and Memory Supercycles from $AXTI to $SNDK.\n\nJust doing this for fun now. https://t.co/VkzcDTIE85",
+      "conversation_id": "2034752613246542215",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 30,
+        "reply_count": 152,
+        "like_count": 1233,
+        "quote_count": 16,
+        "bookmark_count": 199,
+        "impression_count": 172528
+      },
+      "referenced_tweets": [],
+      "entities": {
+        "cashtags": [
+          "AXTI",
+          "SNDK"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034752613246542215/photo/1"
+        ]
+      },
+      "matched_terms": [
+        "AXTI",
+        "SNDK",
+        "photonics",
+        "memory"
+      ]
+    },
+    {
+      "id": "2034748215728513221",
+      "created_at": "2026-03-19T21:45:53.000Z",
+      "text": "@blancmischief No? Export controls are good for them since it harms their competitors like Sumitomo as upstream materials the need come from China.\n\nSince they require them to make InP substrates.\n\nIt’s a double edged sword short but gives $AXTI more control over the InP supply chain in the",
+      "conversation_id": "2034743349337628803",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 11,
+        "quote_count": 0,
+        "bookmark_count": 6,
+        "impression_count": 1904
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034747769399677060"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AXTI"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "blancmischief"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "AXTI"
+      ]
+    },
+    {
+      "id": "2034746913254465943",
+      "created_at": "2026-03-19T21:40:42.000Z",
+      "text": "@R_o_LwSzr An apple a day keeps the bottleneck away? But I don’t eat apples, so I’m able to spot them early.\n\nMy photonics calls have been spot on like $SIVE or $AXTI, but appreciate the nice comment!",
+      "conversation_id": "2034743349337628803",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 30,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 2701
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034743976431874168"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "SIVE",
+          "AXTI"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "R_o_LwSzr"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "AXTI",
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034746298226942000",
+      "created_at": "2026-03-19T21:38:15.000Z",
+      "text": "@gahhhbor Better question to ask is.. is photonics going to be a major thing in 2028?\n\nIf it is, $AXTI is probably going to be a major $SNDK like bottleneck, and I’m personally holding. https://t.co/AfCc9iLm81",
+      "conversation_id": "2034743349337628803",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 32,
+        "quote_count": 0,
+        "bookmark_count": 9,
+        "impression_count": 2562
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034743659829370934"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AXTI",
+          "SNDK"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "gahhhbor"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034746298226942000/photo/1"
+        ]
+      },
+      "matched_terms": [
+        "AXTI",
+        "SNDK",
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034743349337628803",
+      "created_at": "2026-03-19T21:26:32.000Z",
+      "text": "Holy ****, my $AXTI thesis was legendary?\n\nAXT is up another 20% today to ATHs at $58.\n\nHappy I got this right, gains in a short time blew away holding $NVDA over the years. https://t.co/xEJ7DtgFaP https://t.co/nm5cMhxz01",
+      "conversation_id": "2034743349337628803",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 21,
+        "reply_count": 86,
+        "like_count": 619,
+        "quote_count": 2,
+        "bookmark_count": 87,
+        "impression_count": 87882
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "2004569946492453003"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AXTI",
+          "NVDA"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034743349337628803/photo/1",
+          "https://twitter.com/aleabitoreddit/status/2004569946492453003"
+        ]
+      },
+      "matched_terms": [
+        "AXTI"
+      ]
+    },
+    {
+      "id": "2034742214488990036",
+      "created_at": "2026-03-19T21:22:02.000Z",
+      "text": "@AdamJasensky Most analysts were giving $AXTI a $8 PT and now it’s $58 two months later.\n\nThey’re usually noise I personally ignore, some comments inside them like operating income projections are helpful",
+      "conversation_id": "2034740497953243439",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 28,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 2126
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034741649432076712"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AXTI"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "AdamJasensky"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "AXTI"
+      ]
+    },
+    {
+      "id": "2034634272733343835",
+      "created_at": "2026-03-19T14:13:06.000Z",
+      "text": "$TSEM and the Photonics Supercycle…\n\nDoesn’t like they’re bothered with Iran or Silver and Gold crashing?\n\nAlmost every name from $AAOI, $COHR, $SIVE, to $LITE is green.\n\nThis is what happens when capacity is sold out for the next few years or it’s in the center of scaling the https://t.co/SnM2t9V3ng",
+      "conversation_id": "2034634272733343835",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 37,
+        "reply_count": 63,
+        "like_count": 636,
+        "quote_count": 1,
+        "bookmark_count": 166,
+        "impression_count": 64877
+      },
+      "referenced_tweets": [],
+      "entities": {
+        "cashtags": [
+          "TSEM",
+          "AAOI",
+          "COHR",
+          "SIVE",
+          "LITE"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034634272733343835/photo/1",
+          "https://x.com/aleabitoreddit/status/2034634272733343835/photo/1"
+        ]
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034584155036828052",
+      "created_at": "2026-03-19T10:53:57.000Z",
+      "text": "$SIVE &lt;&gt; $SIVEF is now up 165% this week.\n\nValuation? ~$300M MC.\n\nHowever; either I’m dumb or Sivers is one of the best opportunities in photonics today.\n\nYou get the laser supplier for Jabil, Ayar, Poet ( $MRVL Celestial ), O-Net, and others:\n\nThat end up in $GOOGL, $MSFT, https://t.co/NPledNKp3G https://t.co/wGdKU4ToQI",
+      "conversation_id": "2034584155036828052",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 52,
+        "reply_count": 57,
+        "like_count": 400,
+        "quote_count": 4,
+        "bookmark_count": 113,
+        "impression_count": 109941
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "2033466880661606646"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "SIVE",
+          "SIVEF",
+          "MRVL",
+          "GOOGL",
+          "MSFT"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034584155036828052/photo/1",
+          "https://twitter.com/aleabitoreddit/status/2033466880661606646"
+        ]
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034534975865843929",
+      "created_at": "2026-03-19T07:38:32.000Z",
+      "text": "@Kaizen_Investor Was aware of it for awhile from all the $POET shilling back on Reddit as it's their #1 favorite stock over there. \n\nAnd Sivers got name dropped from time to time. \n\nJust felt like silicon photonics/CPO was quite a ways away so never went long. \n\nBut $NVDA GTC was the catalyst it",
+      "conversation_id": "2034531113574736053",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 36,
+        "quote_count": 0,
+        "bookmark_count": 7,
+        "impression_count": 5512
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034533198038724775"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "POET",
+          "NVDA"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "Kaizen_Investor"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034466447674798548",
+      "created_at": "2026-03-19T03:06:14.000Z",
+      "text": "@pumpkinpuripuri 🙇$AXTI のようなフォトニクス（光技術）銘柄が、短期的なサイクルで終わるとは思っていません。今後数年間で、AIをスケールさせるための新しいアーキテクチャになるはずです！",
+      "conversation_id": "2034422243594530857",
+      "lang": "ja",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 2,
+        "like_count": 61,
+        "quote_count": 0,
+        "bookmark_count": 15,
+        "impression_count": 7258
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034464733601079627"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "pumpkinpuripuri"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "AXTI"
+      ]
+    },
+    {
+      "id": "2034441352172503550",
+      "created_at": "2026-03-19T01:26:31.000Z",
+      "text": "@hankisinvesting $SIVE / $SIVEF and $IQE.\n\nSivers makes laser arrays and cw dfb lasers for cpo/silicon photonics. And is embedded into hyperscaler supply chains like $AMZN and $MSFT clusters as the light source from captive models like $MRVL celestial from $POET and merchant models from Ayar.",
+      "conversation_id": "2034422243594530857",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 6,
+        "reply_count": 5,
+        "like_count": 60,
+        "quote_count": 1,
+        "bookmark_count": 50,
+        "impression_count": 5896
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034439943943262347"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "SIVE",
+          "SIVEF",
+          "IQE",
+          "AMZN",
+          "MSFT",
+          "MRVL",
+          "POET"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "hankisinvesting"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034426807018279168",
+      "created_at": "2026-03-19T00:28:43.000Z",
+      "text": "@LillyL464172 There’s always a bull market somewhere. I’m typically good at spotting it early (eg. 2024 was $MSTR Bitcoin halving frontrun) so doesn’t always apply to AI supply chains.\n\nBut hard to see a bear market if companies like $LITE are sold out until 2028? And memory names are sold out",
+      "conversation_id": "2034422243594530857",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 56,
+        "quote_count": 0,
+        "bookmark_count": 11,
+        "impression_count": 4965
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034425921009029267"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "MSTR",
+          "LITE"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "LillyL464172"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "memory"
+      ]
+    },
+    {
+      "id": "2034422243594530857",
+      "created_at": "2026-03-19T00:10:35.000Z",
+      "text": "Year to Date return from Jan to March:\n\n+564.36%. \n\nI’m speed running last year’s 600%+ returns by finding undiscovered AI bottlenecks.\n\nAnd picking the winners.\n\n- 500%+ unrealized gains on $AXTI.\n\n- $AAOI 3x’d in 3M or $IQE 2x in 1M.\n\n- $LITE close to 100%+. \n\nAnd I expect https://t.co/Q39wgQcXGL",
+      "conversation_id": "2034422243594530857",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 91,
+        "reply_count": 133,
+        "like_count": 1748,
+        "quote_count": 7,
+        "bookmark_count": 1130,
+        "impression_count": 125847
+      },
+      "referenced_tweets": [],
+      "entities": {
+        "cashtags": [
+          "AXTI",
+          "AAOI",
+          "IQE",
+          "LITE"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034422243594530857/photo/1"
+        ]
+      },
+      "matched_terms": [
+        "AXTI"
+      ]
+    },
+    {
+      "id": "2034346371147616601",
+      "created_at": "2026-03-18T19:09:05.000Z",
+      "text": "@tweet_tj Yep, I think $11B is definitely possible for $SIVE in two years. I feel like markets haven’t fully realized the massive TAM expansion that’s coming for photonics yet.",
+      "conversation_id": "2034331784763343333",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 3,
+        "like_count": 30,
+        "quote_count": 1,
+        "bookmark_count": 6,
+        "impression_count": 2785
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034345722770764283"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "SIVE"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "tweet_tj"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034344140016893994",
+      "created_at": "2026-03-18T19:00:13.000Z",
+      "text": "@Hiraweb3 Thanks! \n\nMy style is usually:\n-&gt; Thesis post\n-&gt; Follow up research (eg. $AXTI 7n indium export controls, bottleneck)\n-&gt; Then celebration when thesis plays out\n\nAnd then just sitting on it (if there's nothing too new). \n\nMost of the money in markets is to be made finding out",
+      "conversation_id": "2034331784763343333",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 27,
+        "quote_count": 0,
+        "bookmark_count": 5,
+        "impression_count": 2329
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034335008484135367"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AXTI"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "Hiraweb3"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "AXTI"
+      ]
+    },
+    {
+      "id": "2034342172179501344",
+      "created_at": "2026-03-18T18:52:24.000Z",
+      "text": "@AlphaAllegro Think $NOK is known by now. It's just not talked about as much because their core business is not photonics  and it feels like a slight revenue boost as of today. https://t.co/Hg3yrQivop",
+      "conversation_id": "2034331784763343333",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 2,
+        "like_count": 15,
+        "quote_count": 0,
+        "bookmark_count": 12,
+        "impression_count": 2270
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034333021000642935"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "NOK"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "AlphaAllegro"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034342172179501344/photo/1"
+        ]
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034341146533798036",
+      "created_at": "2026-03-18T18:48:20.000Z",
+      "text": "@papaD__ Yep! I'm familiar with them after doing DD on refactoring reactors for inp epiwafers $IQE. \n\nPersonally not a fan of equipment sellers like $AXIA or Oxford. \n\nThey have material revenue acceleration, but they don't really derive the same value from the photonics supercycle as the",
+      "conversation_id": "2034331784763343333",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 11,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 2251
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034334921800483043"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "IQE",
+          "AXIA"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "papaD__"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034340113707360487",
+      "created_at": "2026-03-18T18:44:13.000Z",
+      "text": "@siflower You're correct in saying downstream players typically have more pricing power. $AAPL for example, makes the most for selling the IPhone than Foxconn that assembles it.\n\nHowever, in photonics, lasers are the bottleneck currently and are extremely, extremely valuable. \n\nEspecially",
+      "conversation_id": "2034331784763343333",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 15,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 2047
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034335386596483383"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AAPL"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "siflower"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034331784763343333",
+      "created_at": "2026-03-18T18:11:08.000Z",
+      "text": "Sivers is up another 29% to a $282M marketcap today.\n\nI genuinely think $SIVE could be the next $LITE.\n\nAs they’re positioned as the light source for the next generation of hyperscaler supply chains.\n\nWhen scale up-scale out architectures transition to CPO &amp; Silicon photonics. https://t.co/Ulf9Far96I https://t.co/2mmZWbm1fJ",
+      "conversation_id": "2034331784763343333",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 61,
+        "reply_count": 72,
+        "like_count": 504,
+        "quote_count": 4,
+        "bookmark_count": 174,
+        "impression_count": 100280
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "2034087274800091401"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "SIVE",
+          "LITE"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034331784763343333/photo/1",
+          "https://twitter.com/aleabitoreddit/status/2034087274800091401"
+        ]
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034324292553544107",
+      "created_at": "2026-03-18T17:41:21.000Z",
+      "text": "@StormDirac Wow super cool that you were the former CEO of $SIVE. \n\nCongrats on building it up to this position, I love what they’re doing in the space for silicon photonics/CPO. I know you must be feeling proud!",
+      "conversation_id": "2034087274800091401",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 2,
+        "like_count": 81,
+        "quote_count": 1,
+        "bookmark_count": 4,
+        "impression_count": 5635
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034262447121461720"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "SIVE"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "StormDirac"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034237409093878030",
+      "created_at": "2026-03-18T11:56:07.000Z",
+      "text": "This thesis post aged well with $LITE.\n\nI feel like every photonics pick I make just keeps doubling in short time periods. https://t.co/vOOWFZRgsW https://t.co/L5JgLLamg3",
+      "conversation_id": "2034237409093878030",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 41,
+        "reply_count": 40,
+        "like_count": 504,
+        "quote_count": 0,
+        "bookmark_count": 67,
+        "impression_count": 104115
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "2003019490871869644"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "LITE"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034237409093878030/photo/1",
+          "https://twitter.com/aleabitoreddit/status/2003019490871869644"
+        ]
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034212267487793348",
+      "created_at": "2026-03-18T10:16:13.000Z",
+      "text": "Soitec &lt; $SOI / $SLOIF &gt; is now up, a lot since my post a week ago.\n\nAs they’re the Western monopoly over silicon photonics and CPO substrates. \n\nI post my ideas for free, and they get priced in immediately.\n\nInstead of former models where:\n\n-&gt; Bank analysts sell research for https://t.co/pGSfmL680v https://t.co/80ER5kLKuk",
+      "conversation_id": "2034212267487793348",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 30,
+        "reply_count": 43,
+        "like_count": 476,
+        "quote_count": 2,
+        "bookmark_count": 74,
+        "impression_count": 85152
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "2031648475310616604"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "SOI",
+          "SLOIF"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034212267487793348/photo/1",
+          "https://twitter.com/aleabitoreddit/status/2031648475310616604"
+        ]
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034191042652885306",
+      "created_at": "2026-03-18T08:51:52.000Z",
+      "text": "@FoundersX76 I mean I \"felt\" $AXTI could hit $140 when I was back at $12... And now it's ~$50 in 2-3 months? \n\nOf course I back my feeling with DD like hyperscaler supply chain mapping, revenue estimates, or valuation comparisons.",
+      "conversation_id": "2034186487672328657",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 2,
+        "like_count": 39,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 3821
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034186595923062933"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AXTI"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "FoundersX76"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "AXTI"
+      ]
+    },
+    {
+      "id": "2034143126018003324",
+      "created_at": "2026-03-18T05:41:28.000Z",
+      "text": "@Balansbanken $LITE and $AXTI had problems for years as a cyclical telecom provider. \n\nThen they’re both now the center of the entire AI buildout with photonics and got rerated a few thousand percent.\n\nI just have a feeling it’s the same with $SIVE for silicon photonics and CPO. \n\nAI changed",
+      "conversation_id": "2034127800840688097",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 4,
+        "like_count": 29,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 3404
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034141620841423240"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "LITE",
+          "AXTI",
+          "SIVE"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "Balansbanken"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "AXTI",
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034100201275945325",
+      "created_at": "2026-03-18T02:50:54.000Z",
+      "text": "@Zantetrader $SIVE is trading at $200m… Pre-product Silicon Valley LLM startups are worth 20x more than that.\n\n$LITE as a reference point is $44B+ as the leading laser supplier in current pluggable bottlenecks.\n\nCPO/Silicon photonics is the main growth engine past 2027.",
+      "conversation_id": "2034087274800091401",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 5,
+        "like_count": 42,
+        "quote_count": 0,
+        "bookmark_count": 9,
+        "impression_count": 3978
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034096525064761825"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "SIVE",
+          "LITE"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "Zantetrader"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034087274800091401",
+      "created_at": "2026-03-18T01:59:32.000Z",
+      "text": "$SIVE is the upstream laser supplier for CPO and Silicon Photonics.\n\nThey're the likely $COHR / $LITE type future light source for:\n\n- $AMZN Trainium Clusters\n- $MSFT Maia Clusters\n\nand possibly other hyperscalers like $META MTAI and $GOOGL TPU clusters. \n\nAt a ~$200M MC. https://t.co/yDcYMFGCKI",
+      "conversation_id": "2034087274800091401",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 51,
+        "reply_count": 34,
+        "like_count": 424,
+        "quote_count": 6,
+        "bookmark_count": 288,
+        "impression_count": 297206
+      },
+      "referenced_tweets": [],
+      "entities": {
+        "cashtags": [
+          "SIVE",
+          "COHR",
+          "LITE",
+          "AMZN",
+          "MSFT",
+          "META",
+          "GOOGL"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034087274800091401/photo/1",
+          "https://x.com/aleabitoreddit/status/2034087274800091401/photo/1"
+        ]
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034066521937613143",
+      "created_at": "2026-03-18T00:37:04.000Z",
+      "text": "@PeterBordes @TrajectoryVC Cool to see, photonics is the next paradigm for scaling AI. \n\nStill very early into the supercycle, but glad some VCs in the space spotted it early.",
+      "conversation_id": "2033885603423785170",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 15,
+        "quote_count": 1,
+        "bookmark_count": 2,
+        "impression_count": 1390
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034055539223576665"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "PeterBordes",
+          "TrajectoryVC"
+        ],
+        "urls": []
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034063746986021028",
+      "created_at": "2026-03-18T00:26:03.000Z",
+      "text": "@wayne_rbee Three things:\n\n1/ Generally, the lower the marketcap, the higher the upside (but more risk)\n\n2/ Finding companies that weren’t priced into current pluggable cycles (EMl-transceiver companies like $LITE and $COHR)\n\n3/ Pure play to the upcoming cpo/silicon photonics paradigm shift. https://t.co/0YqcMKUBCQ",
+      "conversation_id": "2034056688693875036",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 34,
+        "quote_count": 0,
+        "bookmark_count": 23,
+        "impression_count": 2259
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2034057355244278258"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "LITE",
+          "COHR"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "wayne_rbee"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034063746986021028/photo/1"
+        ]
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    },
+    {
+      "id": "2034056688693875036",
+      "created_at": "2026-03-17T23:58:00.000Z",
+      "text": "The Photonics Supercycle is here.\n\n$NVDA is spearheading the next leap into CPO &amp; Silicon Photonics.\n\nAnd we’re only near the inflection point with chokepoints in the supply chains like Soitec ( $SOI ) or Sivers ( $SIVE ).\n\n“NVIDIA’s update on the Spectrum-X switch with https://t.co/Dp7fc969zQ https://t.co/ykZqZidQab",
+      "conversation_id": "2034056688693875036",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 51,
+        "reply_count": 48,
+        "like_count": 572,
+        "quote_count": 4,
+        "bookmark_count": 334,
+        "impression_count": 94990
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "2033885603423785170"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "NVDA",
+          "SOI",
+          "SIVE"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2034056688693875036/photo/1",
+          "https://x.com/aleabitoreddit/status/2034056688693875036/photo/1",
+          "https://twitter.com/aleabitoreddit/status/2033885603423785170"
+        ]
+      },
+      "matched_terms": [
+        "photonics"
+      ]
+    }
+  ]
+}

@@ -10,7 +10,7 @@ Purpose:
 
 Primary input:
 
-- `aleabitoreddit-daily-archive-v1.json` (referenced by the source doc but not found in the mirrored upstream repo snapshot)
+- [aleabitoreddit-daily-archive-v1.json](/home/d/codex/vnext/research/analysis/aleabitoreddit-daily-archive-v1.json)
 
 Related note:
 

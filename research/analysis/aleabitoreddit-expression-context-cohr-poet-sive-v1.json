@@ -1,0 +1,415 @@
+{
+  "expression_contexts": {
+    "COHR": {
+      "match_count": 28,
+      "term_counts": {
+        "capacity": 11,
+        "supply chain": 9,
+        "research": 5,
+        "thesis": 4,
+        "mapping": 3,
+        "earnings": 2
+      },
+      "matches": [
+        {
+          "created_at": "2025-12-05T06:02:31.000Z",
+          "hits": [
+            "supply chain"
+          ],
+          "text": "@YuxianShii I've actually posted a breakdown + talked about each individual stock up there before if you follow what I normally post. This is just a consolidated list from history.   For example I posted a deeper dive on TPU v7 ironwood supply chain not too long ago ( $COHR, $AMKR, $LITE,"
+        },
+        {
+          "created_at": "2025-12-29T05:59:16.000Z",
+          "hits": [
+            "research"
+          ],
+          "text": "@RyanMDorsey23 This is a research note on point failure of the entire AI buildout in $AXTI/China from both substrate production and laser-grade Indium Phosphide. I’m not doing valuation analysis on individual companies   But if this flow stops, $LITE, $COHR, $AVGO to $GOOGL, $MSFT faces extreme"
+        },
+        {
+          "created_at": "2026-01-02T21:27:07.000Z",
+          "hits": [
+            "research",
+            "capacity"
+          ],
+          "text": "The InP substrate shortage and \"Spread\" Arbitrage - $AXTI  Market research is showing InP and optical components to become analogous to the HBM shortage and price craze.  The initial bottleneck was caused by $NVDA monopolizing of the production capacity of EML from $COHR to $LITE https://t.co/rX6szc1DNk https://t.co/f6UYQyJY8v"
+        },
+        {
+          "created_at": "2026-01-06T11:30:26.000Z",
+          "hits": [
+            "research"
+          ],
+          "text": "@ManglaniAkshay @LogicalThesis So I actually like $COHR more than $LITE right now and sold my LITE positions at ~$385.   I did some internal research the other day and found some potential issues but didn't publish it yet.  That being said it's still a good long but not as high conviction as $NBIS."
+        },
+        {
+          "created_at": "2026-01-06T17:28:31.000Z",
+          "hits": [
+            "supply chain",
+            "capacity"
+          ],
+          "text": "@miketxpatriot This is definitely not a good thing for the AI buildout because the whole AI supply chain eg. $LITE, $COHR -&gt; $GOOGL, $NVDA others suddenly became dependent on a single source $AXTI for the next two years.     Companies like $LITE will probably shift capacity from Sumitomo, JX to"
+        },
+        {
+          "created_at": "2026-01-08T22:39:15.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@DivGuru They can, and this bottleneck flows downstream and hurts $COHR to $LITE capacity ramp into $GOOGL to $MSFT.  Especially given $AXTI will be monopoly status in a few quarter once Sumitomo/JX face shortages from material export controls.  People illogically reacting to former"
+        },
+        {
+          "created_at": "2026-01-09T09:40:53.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@WitnessDecline @moninvestor I don’t short sell + didn’t want to publish bear posts about optical companies but I sold my other photonic positions short term because Sumitomo got export controlled so by second order effect $LITE, $AAOI and others would have capacity issues downstream.   $COHR is kinda the"
+        },
+        {
+          "created_at": "2026-01-24T20:58:10.000Z",
+          "hits": [
+            "supply chain",
+            "mapping"
+          ],
+          "text": "@platochi $COHR is like the Western Unimicron (in the sense they show up everywhere on future bottlenecks like SiC to InP, not comparing downstream/upstream).   When I do these supply chain mapping in space, robotics, AI, I like to invest in ones that just pop up multiple places."
+        },
+        {
+          "created_at": "2026-02-04T22:48:03.000Z",
+          "hits": [
+            "earnings"
+          ],
+          "text": "$GOOGL reported earnings and their CapEX spend was enormous.  $175-$185 Billion vs. $120 Billion.  This is bullish for AI buildout.   Follow the money flow down to:  - $AVGO, Mediatek, $TSM (design / foundry) - Sk hynix, Samsung, $MU, $SNDK (memory) - $ANET, $LITE, $COHR, $VRT https://t.co/2QCmwmEPXO"
+        },
+        {
+          "created_at": "2026-02-12T03:08:09.000Z",
+          "hits": [
+            "supply chain",
+            "mapping"
+          ],
+          "text": "The \"Bottleneck ETF\" from supply chain mapping.   Not a single name red.  Equal weighted results 1W: +12.83%.  List: $LITE: +31.68% $AMKR: +28.7% Disco: +24.35% $GLW: +23.57% $COHR: +23.5% $ONTO: +18.4% $CAMT: +17.7% $TSM: +15.8% $ON: +15.8% Samsung: +15.4% $KLAC: +12.7% $APH: https://t.co/oE7cauGuPU https://t.co/NQzRUpBGf2"
+        },
+        {
+          "created_at": "2026-02-25T12:23:48.000Z",
+          "hits": [
+            "supply chain",
+            "mapping"
+          ],
+          "text": "@tme5s Yes, just wanted to add a disclaimer: this is an extremely oversimplified mapping of the likely supply chain.   $COHR, Eoptolink, or Fabrinet are likely too. Alongside JX/Sumitomo/AXTI on the inp side. Maybe Vital if you go one level higher upstream.   $GOOGL definitely uses many"
+        },
+        {
+          "created_at": "2026-02-25T15:20:09.000Z",
+          "hits": [
+            "thesis"
+          ],
+          "text": "@sslickith Yeah I forgot about my second best friend $COHR. Unfortunately didn’t do a thesis post distinctly on that name so I can’t brag."
+        },
+        {
+          "created_at": "2026-02-26T08:22:18.000Z",
+          "hits": [
+            "research"
+          ],
+          "text": "@wizlardbo Not a good idea, it’s inherently risky due to net debt and potential dilution.  I’m just sharing my thought process but risk-tolerance is different for everyone so make sure to do your own research  Also a correction: largest outsourced* epiwafer foundry. Companies like $COHR are"
+        },
+        {
+          "created_at": "2026-02-27T10:11:04.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@BNAibex1628 If I had to guess, probably extreme interest by companies like $COHR and $LITE.  But $IQE probably wants to stay standalone and sell off their drag only, rather than their entire inp epiwafer capacity, so this makes things a little more challenging.   Also the acquisition pool"
+        },
+        {
+          "created_at": "2026-02-27T18:14:21.000Z",
+          "hits": [
+            "earnings"
+          ],
+          "text": "After earnings, $AAOI could easily be a $25B-$30B company next year from $5B if they hit their projections.   And they're one of the only \"Made in America\"  (Sugarland, Texas) companies out of  - $LITE (global) - $COHR (global) - $FN (Thai) - $AVGO (global) - Innolight (China), https://t.co/xhqPPmyz9B https://t.co/lMvDhR8GOQ"
+        },
+        {
+          "created_at": "2026-03-02T11:25:53.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@Compounds365 Three to four hyperscaler orders for all the capacity they can make a year out doesn’t mean risk of cancellation? Not sure where you’re getting that from.   What 20% margin ceiling? They cited 40%.   Also they’re Made in America supply chains which is rare, $LITE and $COHR do"
+        },
+        {
+          "created_at": "2026-03-02T13:40:46.000Z",
+          "hits": [
+            "supply chain"
+          ],
+          "text": "$NVDA has just invested $2 billion into $COHR for advanced laser and optical networking products.  This is an extremely bullish tailwind for $AXTI (substrate provider), other optical networking companies like $AAOI, and the entire photonics supply chain.  And most of all the https://t.co/Za29eT624V https://t.co/kvKzhcCuMH"
+        },
+        {
+          "created_at": "2026-03-02T13:42:11.000Z",
+          "hits": [
+            "supply chain"
+          ],
+          "text": "@anhecdote Anytime! Yeah the entire photonics supply chain that I've mentioned from $AXTI, $LITE, $COHR, $IQE, and $AAOI has been a straight green line up."
+        },
+        {
+          "created_at": "2026-03-02T14:07:22.000Z",
+          "hits": [
+            "thesis"
+          ],
+          "text": "@invspoter I'm happy if I was able to help!   Glad I got this part spot on from my thesis last year though. $NVDA ended up investing in both of $LITE and $COHR. Then $AAOI ended up popping off this year. https://t.co/gVDuPdkRrf"
+        },
+        {
+          "created_at": "2026-03-02T21:21:01.000Z",
+          "hits": [
+            "thesis"
+          ],
+          "text": "Holy ****, this thesis was perhaps the most legendary one on X this year.   $AXTI is now at $46.7 after Nvidia funneled $4B into photonics players $LITE and $COHR today.  Guess who controls all the materials?  Did you listen anon? https://t.co/7Sm08hOQPA https://t.co/nm5cMhxz01"
+        },
+        {
+          "created_at": "2026-03-04T23:38:58.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@Orcawellian If $AAOI reveals there's three hyperscaler clients (maybe $META or $ORCL) + $AMZN + $MSFT) buying out any capacity they make.   Then they do end-to-end from $COHR lasers to design to assembly...   And then they're projecting revenue to leapfrog the other $55B US company in $LITE."
+        },
+        {
+          "created_at": "2026-03-09T12:00:06.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@Blazedsin I mean $AAOI basically signaled their US production capacity is bigger than $COHR, which is pretty big news"
+        },
+        {
+          "created_at": "2026-03-11T20:13:01.000Z",
+          "hits": [
+            "supply chain"
+          ],
+          "text": "@demarscrypto There's nothing wrong with buying the entire photonics supply chain if you see it being the new paradigm of AI.  Substrates: $AXTI, $SOI Assembly/Laser/Transceivers/supply chain: $AAOI, $LITE, $COHR Foundry: $TSEM  Were the names I've liked."
+        },
+        {
+          "created_at": "2026-03-12T23:59:47.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@KaneCapz General rule of thumb:   Lower the MC eg. $IQE -&gt; $SOI -&gt; $AXTI -&gt; $AAOI -&gt; $LITE -&gt; $COHR, etc.   Higher upside from re-rating. That's unless you 10x revenue like $AAOI if they hit capacity projections, but we'll see if they do."
+        },
+        {
+          "created_at": "2026-03-13T01:51:53.000Z",
+          "hits": [
+            "research"
+          ],
+          "text": "Top 10 common fallacies I keep seeing again and again on X.  And some of the most important things I look out for too when doing research:   1. Being in \"crowded\" names like $LITE or $COHR does not mean these names won't go higher.   (Just look at Nvidia throughout 2022 -&gt; 2026)."
+        },
+        {
+          "created_at": "2026-03-13T21:59:20.000Z",
+          "hits": [
+            "supply chain",
+            "thesis"
+          ],
+          "text": "I've been the first few to cover many supply chain photonic names.  Most are up 100-400%+ since I've posted.  Here's the TLDR overview of my thesis posts:  “Safest” Longs as of Today:  - $TSEM (Tower Semi) - $SOI (Soitec) - $COHR - Defensible compounders over time.   Soitec - https://t.co/v26IDBGtUA"
+        },
+        {
+          "created_at": "2026-03-18T08:54:42.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@Shiboo9019 The base case scenario is they become more of a US Innolight/Eoptolink (which are still valued at $50B+) if they don't manage to scale up laser capacity and buy from $COHR.   If they even hit 60-70% of their targets should re-rate a ton anyway in my opinion.   So these base cases"
+        },
+        {
+          "created_at": "2026-03-19T14:13:06.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "$TSEM and the Photonics Supercycle…  Doesn’t like they’re bothered with Iran or Silver and Gold crashing?  Almost every name from $AAOI, $COHR, $SIVE, to $LITE is green.  This is what happens when capacity is sold out for the next few years or it’s in the center of scaling the https://t.co/SnM2t9V3ng"
+        }
+      ]
+    },
+    "POET": {
+      "match_count": 9,
+      "term_counts": {
+        "earnings": 3,
+        "supply chain": 2,
+        "benchmark": 1,
+        "bom": 1,
+        "capacity": 1,
+        "customers": 1,
+        "qualification": 1,
+        "thesis": 1
+      },
+      "matches": [
+        {
+          "created_at": "2025-12-11T22:18:06.000Z",
+          "hits": [
+            "customers"
+          ],
+          "text": "@krishnaasw22479 I've looked into $POET but didn't like it as much compared to $AAOI given AAOI already has direct hyperscaler customers with $MSFT and $AMZN.    $POET had Celestial that got acquired $MRVL, where Celestial used poet’s interposer to connect tpus/trainium, and Marvell sells that to"
+        },
+        {
+          "created_at": "2025-12-31T10:09:56.000Z",
+          "hits": [
+            "benchmark"
+          ],
+          "text": "@LphaFool $POET indirectly benefits from $MRVL through Celestial. Then there's tons of other photonic players tethered to Maia like $AAOI.   The timeline is so stupid though, it makes me annoyed:  Dec 8: Benchmark downgrades, claims \"high conviction\" Marvell lost Trainium 3/4 to Alchip"
+        },
+        {
+          "created_at": "2026-02-07T21:29:56.000Z",
+          "hits": [
+            "supply chain",
+            "qualification"
+          ],
+          "text": "@B38B37 These are all big known bottleneck suppliers on the supply chain $TSM or $GLW.  $POET is a few hundred million MC speculative pick without hyperscaler qualification, so they don’t quite fit that description yet. But it is a moonshot type pic"
+        },
+        {
+          "created_at": "2026-03-04T15:50:49.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@pablocuellar_3 If 3 hyperscalers say they will buy any transceivers you can possibly ever make. It's not really a demand problem with $AAOI, just how much they can capacity they can buildout.   $250m is pennies considering it's used for that reason (and not just hoarding like $GME or $POET)."
+        },
+        {
+          "created_at": "2026-03-06T08:39:57.000Z",
+          "hits": [
+            "earnings"
+          ],
+          "text": "$MRVL released earnings. From transcript:  Targeting $500m ARR 2028, $1B ARR 2029 with Celestial CPO revenue.   $POET the $1B retail favorite interposer stock, is the large beneficiary from the ramp (Starlight light source).  Usually revenue + stockpiles start to hit ~12M-18M https://t.co/ssvjPRYulk"
+        },
+        {
+          "created_at": "2026-03-06T08:40:45.000Z",
+          "hits": [
+            "earnings"
+          ],
+          "text": "$MRVL released earnings. From transcript:  Targeting $500m ARR 2028, $1B ARR 2029 with Celestial CPO revenue.   $POET the $1B retail favorite interposer stock, is the large beneficiary from the ramp (Starlight light source).  Usually revenue + stockpiles start to hit ~12M-18M https://t.co/plGP11j78i"
+        },
+        {
+          "created_at": "2026-03-07T23:27:57.000Z",
+          "hits": [
+            "bom",
+            "earnings"
+          ],
+          "text": "@Omnitrader69 I did a small writeup on $POET the other day.   They're largely dependent on $MRVL Celestial right now, and from Marvell earnings, Celestial AI revenue projections were $500m 2028, $1B 2029 (poet ~10% BOM starlight maybe)   I don't see $POET as a bottleneck, but high potential"
+        },
+        {
+          "created_at": "2026-03-18T11:59:24.000Z",
+          "hits": [
+            "thesis"
+          ],
+          "text": "@DocPod4 I’m not long $POET? I’ve never made a thesis post on it."
+        },
+        {
+          "created_at": "2026-03-19T07:29:21.000Z",
+          "hits": [
+            "supply chain"
+          ],
+          "text": "@Allstarsv16 They're literally the light source for $MRVL Celestial through $POET, Ayar -&gt; Ai Chip/GUC, O-Net, and now Jabil.  So end users are probably all $MSFT, $GOOGL, $META, $AMZN... The future potential light source for the entire hyperscaler supply chain and even ones in Asia.    At"
+        }
+      ]
+    },
+    "SIVE": {
+      "match_count": 10,
+      "term_counts": {
+        "thesis": 5,
+        "capacity": 2,
+        "supply chain": 2,
+        "conference": 1,
+        "model": 1
+      },
+      "matches": [
+        {
+          "created_at": "2026-03-16T09:36:05.000Z",
+          "hits": [
+            "thesis"
+          ],
+          "text": "@BonyBallf2 I shared my $SIVE thesis with my subscribers first. However, I don't like keeping my information synthesis permanently paywalled, so I always release my thoughts publicly afterward https://t.co/MYHYzPOaWD"
+        },
+        {
+          "created_at": "2026-03-17T08:16:49.000Z",
+          "hits": [
+            "thesis"
+          ],
+          "text": "Just in: $SIVE announces major partnership with O-Net and Enbalence for CPO.  Sivers will be the laser array supplier for CPO.   This is thesis validation in effect as $SIVE becomes InP CW DFB supplier for silicon photonics.   In simpler terms, this is the $LITE -&gt; $FN https://t.co/1w2BwyxSac https://t.co/6nqDprSpCc"
+        },
+        {
+          "created_at": "2026-03-17T08:18:33.000Z",
+          "hits": [
+            "thesis"
+          ],
+          "text": "Just in: $SIVE announces major partnership with O-Net and Enablence for CPO.  Sivers will be the laser array supplier for CPO.   This is thesis validation in effect as $SIVE becomes InP CW DFB supplier for silicon photonics.   In simpler terms, this is the $LITE -&gt; $FN https://t.co/HkuE5XY39W https://t.co/6nqDprSpCc"
+        },
+        {
+          "created_at": "2026-03-17T08:27:13.000Z",
+          "hits": [
+            "supply chain"
+          ],
+          "text": "@MvrlonMusic I believe so.   $SIVE looks like the early $LITE for CPO/Silicon photonics at a $212M valuation, which looks absurd.   They're now the laser supplier for the Asian CPO supply chain via Enablence -&gt; O-Net for AI DCs (kinda like Innolight for pluggable transcievers)  Laser supplier"
+        },
+        {
+          "created_at": "2026-03-17T09:28:46.000Z",
+          "hits": [
+            "thesis"
+          ],
+          "text": "@sunnyviljamaa No worries! I'm definitely not recommending anyone to go long on $SIVE.     I personally just found it extremely compelling like I did with $LITE last year. And I'm just sharing my thesis along the way in case others find it interesting  Thanks for the note of appreciation!"
+        },
+        {
+          "created_at": "2026-03-18T02:33:53.000Z",
+          "hits": [
+            "supply chain",
+            "model"
+          ],
+          "text": "@traderofstox I try to model in forward fundamentals (revenue, profit) before markets price the company in with stuff like $AAOI.   Or with $SIVE, looking at supply chain end users like $AMZN or $MSFT for light sources.   That's how most of the money is to be made in markets finding alpha, not"
+        },
+        {
+          "created_at": "2026-03-18T08:33:46.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "I feel like markets should value:  $AAOI $93 -&gt; $162 (~$13B MC) after their new capacity projections today.   and   $SIVE should be valued at 7.7 -&gt; 38.5 ($1.1B MC) at least?  If one is ramping to ~$1.97B capacity EOY 2027 (which is basically revenue, since hyperscalers are https://t.co/TpwjmCDNTF"
+        },
+        {
+          "created_at": "2026-03-19T06:58:23.000Z",
+          "hits": [
+            "thesis"
+          ],
+          "text": "Sivers &lt; $SIVE / $SIVEF &gt;to power Jabil ( $JBL ) next-generation optical transceivers.  The fact Sivers is named as the power source for Jabil's flagship 1.6T module…   is probably the biggest news to date?  This is thesis validation that Sivers is the next $LITE as the light https://t.co/5iLYE5hvRC https://t.co/2mmZWbm1fJ"
+        },
+        {
+          "created_at": "2026-03-19T08:10:45.000Z",
+          "hits": [
+            "conference"
+          ],
+          "text": "Don’t think majority of the market picked up on the Jabil and $SIVE partnership yet.  Especially since there’s no formal news, aside from physical leaks from the OFC conference*.   Feel like $310M MC for Jabil’s transceiver light source…  Might be underpricing it. https://t.co/bAnDygPD3X https://t.co/fHD065Gvdd"
+        },
+        {
+          "created_at": "2026-03-19T14:13:06.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "$TSEM and the Photonics Supercycle…  Doesn’t like they’re bothered with Iran or Silver and Gold crashing?  Almost every name from $AAOI, $COHR, $SIVE, to $LITE is green.  This is what happens when capacity is sold out for the next few years or it’s in the center of scaling the https://t.co/SnM2t9V3ng"
+        }
+      ]
+    }
+  },
+  "global_term_counts": {
+    "earnings": 166,
+    "thesis": 148,
+    "capacity": 110,
+    "supply chain": 81,
+    "research": 63,
+    "dd": 47,
+    "report": 34,
+    "analyst": 31,
+    "model": 29,
+    "customer": 24,
+    "bom": 23,
+    "customers": 21,
+    "price hikes": 19,
+    "mapping": 13,
+    "smm": 12,
+    "earnings call": 9,
+    "morgan stanley": 8,
+    "northland": 8,
+    "filing": 7,
+    "qualification": 6,
+    "benchmark": 5,
+    "conference": 5,
+    "analyst note": 3,
+    "counterpoint": 3,
+    "semianalysis": 3,
+    "digitimes": 2,
+    "trendforce": 2,
+    "ubs": 2,
+    "bill of materials": 1,
+    "lightcounting": 1,
+    "needham": 1
+  }
+}

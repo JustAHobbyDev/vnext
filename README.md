@@ -33,6 +33,11 @@ The active vNext loop is:
 - `src/vnext/`
 - `benchmarks/`
 
+Read first:
+
+- [Project Doctrine](/home/d/codex/vnext/docs/PROJECT_DOCTRINE.md)
+- [Codex Handoff](/home/d/codex/vnext/docs/CODEX_HANDOFF.md)
+
 ## Rule
 
 If a change does not improve clue capture, graph quality, node scoring, or
@@ -45,3 +50,13 @@ provenance resolves to real-world sources.
 
 Synthetic inputs are allowed only in `tests/` for code-mechanics coverage and
 must not be used by the strict clue/evidence loader.
+
+## Decision Filter
+
+Before adding a module, workflow, or abstraction, ask:
+
+How does this help us go from an observed clue in the AleaBito archive to an
+evidence-backed graph that surfaces the kind of underappreciated node he was
+finding?
+
+If the answer is weak, the change is probably off-track.

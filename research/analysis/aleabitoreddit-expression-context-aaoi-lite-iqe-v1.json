@@ -1,0 +1,1021 @@
+{
+  "expression_contexts": {
+    "AAOI": {
+      "match_count": 53,
+      "term_counts": {
+        "capacity": 17,
+        "earnings": 13,
+        "bom": 7,
+        "thesis": 7,
+        "supply chain": 6,
+        "analyst": 3,
+        "model": 3,
+        "customer": 2,
+        "customers": 2,
+        "dd": 2,
+        "research": 2,
+        "analyst note": 1,
+        "benchmark": 1,
+        "conference": 1,
+        "earnings call": 1,
+        "needham": 1,
+        "price hikes": 1,
+        "qualification": 1,
+        "report": 1,
+        "ubs": 1
+      },
+      "matches": [
+        {
+          "created_at": "2025-12-11T22:18:06.000Z",
+          "hits": [
+            "customers"
+          ],
+          "text": "@krishnaasw22479 I've looked into $POET but didn't like it as much compared to $AAOI given AAOI already has direct hyperscaler customers with $MSFT and $AMZN.    $POET had Celestial that got acquired $MRVL, where Celestial used poet’s interposer to connect tpus/trainium, and Marvell sells that to"
+        },
+        {
+          "created_at": "2025-12-21T23:40:06.000Z",
+          "hits": [
+            "research",
+            "conference"
+          ],
+          "text": "@itsthesquonky I’ll do some research today on it, thanks for the shout.  I’m already into quite a bit of micro caps like $AAOI which is leveraged $LITE imo just for the $MSFT Maia ramp.  There’s the conference Jan 6-8 I think which should be a catalyst if Microsoft reveals more news about it"
+        },
+        {
+          "created_at": "2025-12-22T08:47:44.000Z",
+          "hits": [
+            "bom"
+          ],
+          "text": "@manukafirth \"Late\".   $LITE is a $26B MC in the center of every future $GOOGL TPU deployment, $NVDA/ $AMZN / other GPU/ASICs.   8-12% BOM share of every Google TPU v7. This is like saying $NVDA was \"late\" when price it was a $1T MC.  But if you want want another player, $AAOI.   $MSFT is https://t.co/pzOSHyzuwk"
+        },
+        {
+          "created_at": "2025-12-22T15:56:03.000Z",
+          "hits": [
+            "bom",
+            "model"
+          ],
+          "text": "@i_Drohi Yeah $LITE is incredible after seeing how it's in every single ASIC + $NVDA blackwell deployments.   Then once you do BOM analysis and model TPU/GPU deployments, it looks undervalued even at ATHs.  Then there's $AAOI, which is similar to LITE but levered toward AMZN | MSFT ASICs."
+        },
+        {
+          "created_at": "2025-12-22T23:20:19.000Z",
+          "hits": [
+            "bom"
+          ],
+          "text": "@munchPRMR Not really! Markets are starting to realize $LITE's role in every single hyperscaler ASIC deployment + blackwell and when you look at BOM, it's a whopping amount, especially in TPU v7.  Lite is the photonics leader but many there's others like  $AAOI, which are levered to MSFT"
+        },
+        {
+          "created_at": "2025-12-23T00:22:48.000Z",
+          "hits": [
+            "bom",
+            "thesis"
+          ],
+          "text": "$AAOI is up 24% and $LITE is 5% since my thesis today.  From BOM analysis, LITE ($27B) is levered toward TPU Ironwood due to OCS but benefits from NVDA + all ASICs.  AAOI ($2.5B), is levered toward MSFT MAIA ramp and Amazon Trainium.  InP like HBM, will be a bottleneck for 2026 https://t.co/TcZ6FUXRkx https://t.co/L5JgLLamg3"
+        },
+        {
+          "created_at": "2025-12-24T22:44:42.000Z",
+          "hits": [
+            "bom",
+            "research",
+            "ubs"
+          ],
+          "text": "@jvthed210725 $LITE is personally my favorite since it’s central to every ASIC + gets much higher BOM share with OCS architectures like TPU.  $AAOI is levered Maia and Trainium ramp and we should get Maia 1M+ ramp 2026-2027 as per UBS note + other research firms, so it’s hidden opportunity"
+        },
+        {
+          "created_at": "2025-12-31T10:09:56.000Z",
+          "hits": [
+            "benchmark"
+          ],
+          "text": "@LphaFool $POET indirectly benefits from $MRVL through Celestial. Then there's tons of other photonic players tethered to Maia like $AAOI.   The timeline is so stupid though, it makes me annoyed:  Dec 8: Benchmark downgrades, claims \"high conviction\" Marvell lost Trainium 3/4 to Alchip"
+        },
+        {
+          "created_at": "2026-01-09T09:40:53.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@WitnessDecline @moninvestor I don’t short sell + didn’t want to publish bear posts about optical companies but I sold my other photonic positions short term because Sumitomo got export controlled so by second order effect $LITE, $AAOI and others would have capacity issues downstream.   $COHR is kinda the"
+        },
+        {
+          "created_at": "2026-01-09T10:06:41.000Z",
+          "hits": [
+            "supply chain"
+          ],
+          "text": "We’re seeing third order effects in markets with $LITE, $AAOI, and photonics having a bloodbath, dropping 10%+.  It’s multifaceted, with sector drop from Sandisk -10%+ and others selling off as well.  But my nuance take is that the entire Japanese supply chain will likely run out https://t.co/skKeBRXtlb"
+        },
+        {
+          "created_at": "2026-02-16T09:22:43.000Z",
+          "hits": [
+            "bom"
+          ],
+          "text": "@yianisz Yeah pretty sad to see people get laid off from AI displacement. So only thing people can do now is ride the wave or get left behind.   Biggest hedge against this is AI equities and looking into BOM spend.  Biggest is memory like $MU or $SNDK. Photonics from $LITE to $AAOI"
+        },
+        {
+          "created_at": "2026-02-27T06:50:57.000Z",
+          "hits": [
+            "bom"
+          ],
+          "text": "$AAOI is another photonics name that has just doubled in the last two months!  Feels like every photonics company from $AXTI and $AAOI has been doubling or tripling recently?  I’ve dubbed this the “Elite Four” for photonics exposure:  1. $LITE (High BOM of the TPU) 2. $AXTI https://t.co/EGWuQGrMop https://t.co/aHLgIQNPOT"
+        },
+        {
+          "created_at": "2026-02-27T07:49:42.000Z",
+          "hits": [
+            "dd",
+            "thesis"
+          ],
+          "text": "@InitialY23 I’m just celebrating some of the DD I did two months ago!  Seeing it play out with stock prices from $AXTI, $AAOI, and $LITE all hitting triple digit returns is very fun to see (and helps validate my original thesis on photonics).  Obviously not telling others to take positions,"
+        },
+        {
+          "created_at": "2026-02-27T17:36:57.000Z",
+          "hits": [
+            "earnings"
+          ],
+          "text": "@crux_capital_ I don’t think I’ve been this impressed by earnings before.   That photonics scale up on $AAOI is just crazy.  Probably going much higher."
+        },
+        {
+          "created_at": "2026-02-27T17:47:34.000Z",
+          "hits": [
+            "earnings"
+          ],
+          "text": "@Pacheca12345 Probably tripling my $AAOI position size after earnings.  4.5B ARR for photonics(which usually has a premium like $LITE ), ~40% margins, $5.5B MC.  Again idk, this is just unheard of guidance scale up."
+        },
+        {
+          "created_at": "2026-02-27T18:14:21.000Z",
+          "hits": [
+            "earnings"
+          ],
+          "text": "After earnings, $AAOI could easily be a $25B-$30B company next year from $5B if they hit their projections.   And they're one of the only \"Made in America\"  (Sugarland, Texas) companies out of  - $LITE (global) - $COHR (global) - $FN (Thai) - $AVGO (global) - Innolight (China), https://t.co/xhqPPmyz9B https://t.co/lMvDhR8GOQ"
+        },
+        {
+          "created_at": "2026-02-27T20:36:05.000Z",
+          "hits": [
+            "earnings"
+          ],
+          "text": "@PhotonCap Yes! The most direct play is $AAOI, they just dropped a $SNDK-style earnings projecting 10x revenue growth.    But of course there's going to be other beneficiaries not priced in too upstream as you mentioned."
+        },
+        {
+          "created_at": "2026-02-27T20:58:38.000Z",
+          "hits": [
+            "earnings",
+            "earnings call",
+            "customers"
+          ],
+          "text": "$AAOI looks like an early $SNDK. And is likely going much higher than a $5.5B MC over the next year.   On their earnings call:  - 3 hyperscale customers (probably $GOOGL, $AMZN, $MSFT)  - \"they would like to buy all the transceiver we can make for 800G and 1.6\". - completely sold https://t.co/lnLyRri6ue https://t.co/VXjqt29hFo"
+        },
+        {
+          "created_at": "2026-02-27T21:02:29.000Z",
+          "hits": [
+            "price hikes"
+          ],
+          "text": "@pablocuellar_3 Yes I'm buying at these levels and increasing my exposure as much as possible for $AAOI.   If they hit their $4.3B ARR* (ARR should be added to post) 2027 mid-year target. It's undervalued, even factoring in short term ATMs.   This is not factoring in price hikes either, which is"
+        },
+        {
+          "created_at": "2026-02-27T21:23:05.000Z",
+          "hits": [
+            "earnings"
+          ],
+          "text": "@siflower earnings was a result of their capex cycle from buildout. theyre profitable on the products they sell. $AAOI will most definitely be profitable at scale."
+        },
+        {
+          "created_at": "2026-02-28T19:35:24.000Z",
+          "hits": [
+            "earnings"
+          ],
+          "text": "Second order effects from $AAOI earnings:   -&gt; Extreme demand for MBE/MOCVD reactors.  They're needed for epiwafers.   This signals two things for \"manufacturing\":   - $IQE is sitting on an absolute gold mine  - Huge capex cycle to ( $VECO $1.85B, Aixtron $AIXXF  $3.7B).  Quote: https://t.co/47Uy40FRaJ"
+        },
+        {
+          "created_at": "2026-02-28T19:35:44.000Z",
+          "hits": [
+            "earnings"
+          ],
+          "text": "Second order effects from $AAOI earnings:   -&gt; Extreme demand for MBE/MOCVD reactors.  They're needed for epiwafers.   This signals two things for \"manufacturing\":   - $IQE is sitting on an absolute gold mine  - capex cycle to ( $VECO $1.85B, Aixtron $AIXXF  $3.7B) type players. https://t.co/yhuKTq6QFY"
+        },
+        {
+          "created_at": "2026-02-28T20:14:55.000Z",
+          "hits": [
+            "report",
+            "earnings"
+          ],
+          "text": "$AAOI feels like must-have photonics exposure to me.   Their earnings report is genuinely black magic.  $LITE ($50B MC): FY 2026 est. ~$2.91B $AAOI ($5.6B MC) H2 2027: $4.35B ARR.   Their growth projections literally leapfrogged $LITE for 2026.   Not even kidding.   Gross margins https://t.co/R6BSOngtMK"
+        },
+        {
+          "created_at": "2026-03-02T13:40:46.000Z",
+          "hits": [
+            "supply chain"
+          ],
+          "text": "$NVDA has just invested $2 billion into $COHR for advanced laser and optical networking products.  This is an extremely bullish tailwind for $AXTI (substrate provider), other optical networking companies like $AAOI, and the entire photonics supply chain.  And most of all the https://t.co/Za29eT624V https://t.co/kvKzhcCuMH"
+        },
+        {
+          "created_at": "2026-03-02T13:42:11.000Z",
+          "hits": [
+            "supply chain"
+          ],
+          "text": "@anhecdote Anytime! Yeah the entire photonics supply chain that I've mentioned from $AXTI, $LITE, $COHR, $IQE, and $AAOI has been a straight green line up."
+        },
+        {
+          "created_at": "2026-03-02T14:07:22.000Z",
+          "hits": [
+            "thesis"
+          ],
+          "text": "@invspoter I'm happy if I was able to help!   Glad I got this part spot on from my thesis last year though. $NVDA ended up investing in both of $LITE and $COHR. Then $AAOI ended up popping off this year. https://t.co/gVDuPdkRrf"
+        },
+        {
+          "created_at": "2026-03-03T08:48:27.000Z",
+          "hits": [
+            "earnings"
+          ],
+          "text": "The two largest photonics epiwafer fabs   - $IQE ( $LITE supplier) is up 62.53% this week  - Landmark is up 23.95% this week.  And they’re both on a tear.   Both are up 7-9% today so far.   Markets are probably pricing in the optical transceiver boom signaled from $AAOI earnings https://t.co/GyDna0OnTy"
+        },
+        {
+          "created_at": "2026-03-03T08:48:59.000Z",
+          "hits": [
+            "earnings"
+          ],
+          "text": "The two largest photonics epiwafer fabs   - $IQE ( $LITE supplier) is up 62.53% this week  - Landmark is up 23.95% this week.  And they’re both on a tear.   Both are up 7-9% today so far.   Markets are probably pricing in the optical transceiver boom signaled from $AAOI earnings https://t.co/ruwj4RRlCS"
+        },
+        {
+          "created_at": "2026-03-04T11:44:02.000Z",
+          "hits": [
+            "analyst",
+            "analyst note",
+            "needham"
+          ],
+          "text": "$GOOGL rejecting CPO is a massive structural win for the entire pluggable optics ecosystem.    Most people missed this in the Needham analyst note on the $LITE $850 PT upgrade today:  Large beneficiaries: $AAOI, $FN, Innolight, transceiver companies.   Secondary beneficiaries https://t.co/oe4DnLHdEH"
+        },
+        {
+          "created_at": "2026-03-04T15:44:33.000Z",
+          "hits": [
+            "qualification"
+          ],
+          "text": "@hombre242051283 I was actually in $AAOI since $28-ish last year, so it's 3x'd since then.  But didn't really have high conviction in it, just thought it had potential given Made in America supply chains + hyperscaler qualification at the time.   But management projections recently sealed the"
+        },
+        {
+          "created_at": "2026-03-04T15:50:49.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@pablocuellar_3 If 3 hyperscalers say they will buy any transceivers you can possibly ever make. It's not really a demand problem with $AAOI, just how much they can capacity they can buildout.   $250m is pennies considering it's used for that reason (and not just hoarding like $GME or $POET)."
+        },
+        {
+          "created_at": "2026-03-04T23:38:58.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@Orcawellian If $AAOI reveals there's three hyperscaler clients (maybe $META or $ORCL) + $AMZN + $MSFT) buying out any capacity they make.   Then they do end-to-end from $COHR lasers to design to assembly...   And then they're projecting revenue to leapfrog the other $55B US company in $LITE."
+        },
+        {
+          "created_at": "2026-03-05T09:48:39.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@pappu_yar11820 Every retail on X seems to be buying $IREN that is diluting $6B for $3.4B cloud ARR.  Then you have $AAOI with a tiny $250M ATM to triple laser capacity in Texas and hit the $378/M ramp that is backlogged by hyperscalers."
+        },
+        {
+          "created_at": "2026-03-05T09:56:27.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@jamesonmarkets You do realize markets look toward forward projections for hypergrowth companies like $AAOI? Especially when there’s a capex cycle to buildout capacity for 2027.  This is not a value investing type company"
+        },
+        {
+          "created_at": "2026-03-05T10:21:31.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@daniel_koss The base case I’ve seen from $AAOI short sellers was that the $250m ATM doesn’t cover the capacity ramp and they needed $50m-$278m more (which is pennies given scale)   The main argument is always around execution and potential headwinds:  - whether they can reshore Taiwan https://t.co/SIkY8Ok8XF"
+        },
+        {
+          "created_at": "2026-03-07T23:16:58.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@Oscar69969 Sentiment (eg. War/Oil/LNG) dictates short term prices, fundamentals dictate prices in the long run.  I see zero slowdown from the hyperscaler capex that matters ( $GOOGL, $MSFT, $AMZN, etc).  And before the ramp for optical all their capacity from $AAOI to $LITE are already"
+        },
+        {
+          "created_at": "2026-03-09T11:47:17.000Z",
+          "hits": [
+            "customer",
+            "capacity"
+          ],
+          "text": "$AAOI Receives First Volume Order of 1.6T Data Center Transceivers from Major Hyperscale Customer”  “We expect that we will soon have the largest production capacity for 800G and 1.6T transceivers in the U.S”  This is gradual confirmation of $378m/month revenue from their https://t.co/E6zGJklX3u"
+        },
+        {
+          "created_at": "2026-03-09T11:47:47.000Z",
+          "hits": [
+            "customer",
+            "capacity"
+          ],
+          "text": "$AAOI Receives First $200M Volume Order of 1.6T Data Center Transceivers from Major Hyperscale Customer”  “We expect that we will soon have the largest production capacity for 800G and 1.6T transceivers in the U.S”  This is gradual confirmation of $378m/month revenue from their https://t.co/hmfg9ma3aE"
+        },
+        {
+          "created_at": "2026-03-09T12:00:06.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@Blazedsin I mean $AAOI basically signaled their US production capacity is bigger than $COHR, which is pretty big news"
+        },
+        {
+          "created_at": "2026-03-10T03:13:12.000Z",
+          "hits": [
+            "thesis",
+            "analyst",
+            "earnings"
+          ],
+          "text": "$ORCL likely $AAOI hyperscaler client per   Rosenblatt analyst.  When I first posted about $AAOI everyone had extreme doubts like on my thesis post on $AXTI.  But don’t take it from me.  My exact same sentiment is shared with after earnings is now echoed by other institutional https://t.co/wgcsHvTk9h"
+        },
+        {
+          "created_at": "2026-03-10T03:13:42.000Z",
+          "hits": [
+            "thesis",
+            "analyst",
+            "earnings"
+          ],
+          "text": "$ORCL likely $AAOI hyperscaler client per   Rosenblatt analyst.  When I first posted about $AAOI everyone had extreme doubts like on my thesis post on $AXTI.  But don’t take it from me.  My exact same sentiment I shared after earnings is now echoed by other institutional https://t.co/nzsX40bMGC"
+        },
+        {
+          "created_at": "2026-03-10T16:41:37.000Z",
+          "hits": [
+            "thesis"
+          ],
+          "text": "$AAOI is now up 4x since $30.  Every photonics name from $AXTI to $LITE I’ve done a thesis on increased 2x, 3x, or 4x if you listened anon?  Hope the Crude Oil to $200 or $IREN troll “insider sales” doomposters didn’t make you panic sell your positions at $80.  This is why you https://t.co/paJsby6HtA https://t.co/aHLgIQOnEr"
+        },
+        {
+          "created_at": "2026-03-11T20:13:01.000Z",
+          "hits": [
+            "supply chain"
+          ],
+          "text": "@demarscrypto There's nothing wrong with buying the entire photonics supply chain if you see it being the new paradigm of AI.  Substrates: $AXTI, $SOI Assembly/Laser/Transceivers/supply chain: $AAOI, $LITE, $COHR Foundry: $TSEM  Were the names I've liked."
+        },
+        {
+          "created_at": "2026-03-12T19:48:24.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@Sher_Lockknows Nothings changed with $AAOI and it looks like a buying opportunity.   I’d side with Rosenblatt analysts here where “The company’s sub-$8B market cap is too low when its 2027 revenue potential is $4B”.   Analysts can be bearish on execution, and scaling capacity was always the"
+        },
+        {
+          "created_at": "2026-03-12T21:08:57.000Z",
+          "hits": [
+            "supply chain",
+            "thesis"
+          ],
+          "text": "@ethaantran It doesn’t change my bullish thesis around $378/month US supply chain from laser -&gt; design -&gt; assembly being very mispriced at $8B with $AAOI.  But it does change some views on share appreciation, as ATMs are very net negative way to get there ($250m was fine after projections)."
+        },
+        {
+          "created_at": "2026-03-12T23:59:47.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@KaneCapz General rule of thumb:   Lower the MC eg. $IQE -&gt; $SOI -&gt; $AXTI -&gt; $AAOI -&gt; $LITE -&gt; $COHR, etc.   Higher upside from re-rating. That's unless you 10x revenue like $AAOI if they hit capacity projections, but we'll see if they do."
+        },
+        {
+          "created_at": "2026-03-15T00:13:59.000Z",
+          "hits": [
+            "dd"
+          ],
+          "text": "Wow, thank you all for 4300 subscribers this month!  I recently set it up, and never made a formal post about it.  This is my first one!  But, I've been getting floods of DMs about it.  So just to clarify things with a quick PSA:  Any DD I do ( $SOI to $AAOI) will always end up https://t.co/ltlD0DCXuX"
+        },
+        {
+          "created_at": "2026-03-18T02:30:30.000Z",
+          "hits": [
+            "model",
+            "capacity"
+          ],
+          "text": "$AAOI looks very undervalued at $6.49B.   If we model ASP and their newest capacity projections today:  Revenue from Capacity:  Q2 2026: ~$312.1M Q4 2026: ~$1.41B  Q2-2027: ~$1.53B Q4-2027: ~$1.97B  This is absurd ramp (off ~34-40% est. gross margins).   ASP modeled off https://t.co/351g7Csz9J"
+        },
+        {
+          "created_at": "2026-03-18T02:33:53.000Z",
+          "hits": [
+            "supply chain",
+            "model"
+          ],
+          "text": "@traderofstox I try to model in forward fundamentals (revenue, profit) before markets price the company in with stuff like $AAOI.   Or with $SIVE, looking at supply chain end users like $AMZN or $MSFT for light sources.   That's how most of the money is to be made in markets finding alpha, not"
+        },
+        {
+          "created_at": "2026-03-18T03:21:30.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@k_a_y_b_e_e_ I bought $AAOI $28-32. And I’m a heavier buyer at $88-$90.  I don’t see how this company should be worth anywhere close to $6.4B if they get even close to these capacity targets."
+        }
+      ]
+    },
+    "LITE": {
+      "match_count": 73,
+      "term_counts": {
+        "thesis": 17,
+        "capacity": 14,
+        "supply chain": 14,
+        "bom": 12,
+        "earnings": 9,
+        "research": 8,
+        "mapping": 4,
+        "report": 3,
+        "analyst": 2,
+        "analyst note": 2,
+        "dd": 2,
+        "model": 2,
+        "conference": 1,
+        "needham": 1,
+        "ubs": 1
+      },
+      "matches": [
+        {
+          "created_at": "2025-12-05T06:02:31.000Z",
+          "hits": [
+            "supply chain"
+          ],
+          "text": "@YuxianShii I've actually posted a breakdown + talked about each individual stock up there before if you follow what I normally post. This is just a consolidated list from history.   For example I posted a deeper dive on TPU v7 ironwood supply chain not too long ago ( $COHR, $AMKR, $LITE,"
+        },
+        {
+          "created_at": "2025-12-08T19:18:09.000Z",
+          "hits": [
+            "supply chain",
+            "research"
+          ],
+          "text": "@itsthesquonky Round the time I did supply chain research on TPU v7 for $LITE!   Incredibly promising but a tad overextended right now  https://t.co/QFojyOiXXP"
+        },
+        {
+          "created_at": "2025-12-11T22:10:45.000Z",
+          "hits": [
+            "thesis"
+          ],
+          "text": "I entered $ALAB, $NBIS, $TSM, and $LITE because of Mag7 funneling revenue numbers into them.  Lite uniquely because of its role in GOOGL TPU v7, AMZN Trainium v3/4, and NVDA Blackwell.  But there's a new one I found out about.  A small cap &lt;$3B player that fits the thesis:  Name https://t.co/uhDf5dVrbY https://t.co/sjPvXBWbH9"
+        },
+        {
+          "created_at": "2025-12-12T19:42:26.000Z",
+          "hits": [
+            "earnings"
+          ],
+          "text": "@DigestingX I'm researching $AVGO earnings right now and ASIC demand spillover to photonics like $LITE!  I wanted to add to my $LITE position since that was my lowest right now, so might be a buying opportunity as you mentioned."
+        },
+        {
+          "created_at": "2025-12-12T20:22:06.000Z",
+          "hits": [
+            "earnings"
+          ],
+          "text": "Broadcom [ $AVGO ] earnings results and its effect on the AI sector like $LITE and $NBIS:  Broadcom's ER was \"double beat\" with $18.02B revenue (+28% Y/Y) and $1.95 EPS, beating consensus.  But AVGO dropped -11.64% and brought down the AI sector.   Is this a buying opportunity? https://t.co/UPTcRXzKaw https://t.co/sjPvXBWbH9"
+        },
+        {
+          "created_at": "2025-12-14T23:58:49.000Z",
+          "hits": [
+            "earnings"
+          ],
+          "text": "Falling Knife or Dip Buy?   What a brutal Friday for stocks after $ORCL and $AVGO earnings.  Popular FinX names that dropped in just 1 day:  $FRMI | -34.1% $SNDK | -15.89% $SEI | -15.3% $OKLO | -15.13% $MOD | -14.67% $ALAB | -14.31% $FLNC | -13.96% $LITE | -12.83% $GLXY | -11.73% https://t.co/zldoXZLZMp https://t.co/61J35cNl2y"
+        },
+        {
+          "created_at": "2025-12-21T23:40:06.000Z",
+          "hits": [
+            "research",
+            "conference"
+          ],
+          "text": "@itsthesquonky I’ll do some research today on it, thanks for the shout.  I’m already into quite a bit of micro caps like $AAOI which is leveraged $LITE imo just for the $MSFT Maia ramp.  There’s the conference Jan 6-8 I think which should be a catalyst if Microsoft reveals more news about it"
+        },
+        {
+          "created_at": "2025-12-22T08:27:15.000Z",
+          "hits": [
+            "thesis"
+          ],
+          "text": "The $LITE thesis: The hidden monopoly in the AI.   Lumentum is up 316% YTD, but might be 1000%+ by 2027.   Micron ($300B) or TSM ($1.5T) sit in the center of every TPU/GPU deployed.   But same with $LITE, but it's a $26B MC.   In Every, Single, TPU from Google, $LITE makes https://t.co/qSDQrISbv4 https://t.co/GXcrxjPWQq"
+        },
+        {
+          "created_at": "2025-12-22T08:47:44.000Z",
+          "hits": [
+            "bom"
+          ],
+          "text": "@manukafirth \"Late\".   $LITE is a $26B MC in the center of every future $GOOGL TPU deployment, $NVDA/ $AMZN / other GPU/ASICs.   8-12% BOM share of every Google TPU v7. This is like saying $NVDA was \"late\" when price it was a $1T MC.  But if you want want another player, $AAOI.   $MSFT is https://t.co/pzOSHyzuwk"
+        },
+        {
+          "created_at": "2025-12-22T15:56:03.000Z",
+          "hits": [
+            "bom",
+            "model"
+          ],
+          "text": "@i_Drohi Yeah $LITE is incredible after seeing how it's in every single ASIC + $NVDA blackwell deployments.   Then once you do BOM analysis and model TPU/GPU deployments, it looks undervalued even at ATHs.  Then there's $AAOI, which is similar to LITE but levered toward AMZN | MSFT ASICs."
+        },
+        {
+          "created_at": "2025-12-22T23:20:19.000Z",
+          "hits": [
+            "bom"
+          ],
+          "text": "@munchPRMR Not really! Markets are starting to realize $LITE's role in every single hyperscaler ASIC deployment + blackwell and when you look at BOM, it's a whopping amount, especially in TPU v7.  Lite is the photonics leader but many there's others like  $AAOI, which are levered to MSFT"
+        },
+        {
+          "created_at": "2025-12-23T00:22:48.000Z",
+          "hits": [
+            "bom",
+            "thesis"
+          ],
+          "text": "$AAOI is up 24% and $LITE is 5% since my thesis today.  From BOM analysis, LITE ($27B) is levered toward TPU Ironwood due to OCS but benefits from NVDA + all ASICs.  AAOI ($2.5B), is levered toward MSFT MAIA ramp and Amazon Trainium.  InP like HBM, will be a bottleneck for 2026 https://t.co/TcZ6FUXRkx https://t.co/L5JgLLamg3"
+        },
+        {
+          "created_at": "2025-12-23T13:14:58.000Z",
+          "hits": [
+            "thesis"
+          ],
+          "text": "@bricked_trades $MRVL is a great long, I'll write a separate thesis on their role in maia 300.   This thesis was about $LITE though... So two different stocks."
+        },
+        {
+          "created_at": "2025-12-24T22:44:42.000Z",
+          "hits": [
+            "bom",
+            "research",
+            "ubs"
+          ],
+          "text": "@jvthed210725 $LITE is personally my favorite since it’s central to every ASIC + gets much higher BOM share with OCS architectures like TPU.  $AAOI is levered Maia and Trainium ramp and we should get Maia 1M+ ramp 2026-2027 as per UBS note + other research firms, so it’s hidden opportunity"
+        },
+        {
+          "created_at": "2025-12-29T05:59:16.000Z",
+          "hits": [
+            "research"
+          ],
+          "text": "@RyanMDorsey23 This is a research note on point failure of the entire AI buildout in $AXTI/China from both substrate production and laser-grade Indium Phosphide. I’m not doing valuation analysis on individual companies   But if this flow stops, $LITE, $COHR, $AVGO to $GOOGL, $MSFT faces extreme"
+        },
+        {
+          "created_at": "2026-01-02T21:27:07.000Z",
+          "hits": [
+            "research",
+            "capacity"
+          ],
+          "text": "The InP substrate shortage and \"Spread\" Arbitrage - $AXTI  Market research is showing InP and optical components to become analogous to the HBM shortage and price craze.  The initial bottleneck was caused by $NVDA monopolizing of the production capacity of EML from $COHR to $LITE https://t.co/rX6szc1DNk https://t.co/f6UYQyJY8v"
+        },
+        {
+          "created_at": "2026-01-02T22:02:08.000Z",
+          "hits": [
+            "supply chain"
+          ],
+          "text": "@GekkoNY If $GOOGL wants to build more TPUs, they need $LITE’s for OCS. $LITE needs $AXTI substrates (est. 30% of merchant market, CEO says 40% of InP supply chain). $AXTI needs the chemicals and materials from that happened to be owned by AXT.  $AXTI is the bottom of the entire AI supply"
+        },
+        {
+          "created_at": "2026-01-06T11:30:26.000Z",
+          "hits": [
+            "research"
+          ],
+          "text": "@ManglaniAkshay @LogicalThesis So I actually like $COHR more than $LITE right now and sold my LITE positions at ~$385.   I did some internal research the other day and found some potential issues but didn't publish it yet.  That being said it's still a good long but not as high conviction as $NBIS."
+        },
+        {
+          "created_at": "2026-01-06T17:28:31.000Z",
+          "hits": [
+            "supply chain",
+            "capacity"
+          ],
+          "text": "@miketxpatriot This is definitely not a good thing for the AI buildout because the whole AI supply chain eg. $LITE, $COHR -&gt; $GOOGL, $NVDA others suddenly became dependent on a single source $AXTI for the next two years.     Companies like $LITE will probably shift capacity from Sumitomo, JX to"
+        },
+        {
+          "created_at": "2026-01-07T12:43:54.000Z",
+          "hits": [
+            "thesis"
+          ],
+          "text": "@itsDanielWu That's fair, I see the entire industry moving to photonics as well with $LITE and others.   But in regards to photonic ramp, I've had my own thesis on InP substrates bottlenecks, so I'm personally more bearish on getting this to scale  https://t.co/d6eDk7K204"
+        },
+        {
+          "created_at": "2026-01-08T22:39:15.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@DivGuru They can, and this bottleneck flows downstream and hurts $COHR to $LITE capacity ramp into $GOOGL to $MSFT.  Especially given $AXTI will be monopoly status in a few quarter once Sumitomo/JX face shortages from material export controls.  People illogically reacting to former"
+        },
+        {
+          "created_at": "2026-01-09T09:40:53.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@WitnessDecline @moninvestor I don’t short sell + didn’t want to publish bear posts about optical companies but I sold my other photonic positions short term because Sumitomo got export controlled so by second order effect $LITE, $AAOI and others would have capacity issues downstream.   $COHR is kinda the"
+        },
+        {
+          "created_at": "2026-01-09T10:06:41.000Z",
+          "hits": [
+            "supply chain"
+          ],
+          "text": "We’re seeing third order effects in markets with $LITE, $AAOI, and photonics having a bloodbath, dropping 10%+.  It’s multifaceted, with sector drop from Sandisk -10%+ and others selling off as well.  But my nuance take is that the entire Japanese supply chain will likely run out https://t.co/skKeBRXtlb"
+        },
+        {
+          "created_at": "2026-01-12T10:04:23.000Z",
+          "hits": [
+            "supply chain"
+          ],
+          "text": "@hamsarris6 @grok LLMs are terrible at analyzing second-third order effects.   Basically it stems from supply chain shock after China's export controls on Japan.   Sumitomo -&gt; $LITE -&gt; $GOOGL (but now Sumitomo might face shortages, so less material supply for Lite -&gt; less revenue).   But this"
+        },
+        {
+          "created_at": "2026-01-13T01:46:41.000Z",
+          "hits": [
+            "research",
+            "analyst",
+            "analyst note"
+          ],
+          "text": "@jukan05 Interesting analyst note regarding InP supply chains for $AXTI and $LITE.  It does provide the counter argument for the recent export control’s lack of disruptions on optical makers.   I’ve noted the stockpiles too in my research but I find it this very optimistic that it’s"
+        },
+        {
+          "created_at": "2026-02-04T22:48:03.000Z",
+          "hits": [
+            "earnings"
+          ],
+          "text": "$GOOGL reported earnings and their CapEX spend was enormous.  $175-$185 Billion vs. $120 Billion.  This is bullish for AI buildout.   Follow the money flow down to:  - $AVGO, Mediatek, $TSM (design / foundry) - Sk hynix, Samsung, $MU, $SNDK (memory) - $ANET, $LITE, $COHR, $VRT https://t.co/2QCmwmEPXO"
+        },
+        {
+          "created_at": "2026-02-11T04:25:03.000Z",
+          "hits": [
+            "bom"
+          ],
+          "text": "@mhayavkay You do realize a lot of the ramp happens 2028 right?   For stuff like $LITE which is ~8-12 of Google TPU BOM, I don't quite think it's priced in long term yet (short term yes, it rallied 70% 1M). https://t.co/ZFfhiLTrXI"
+        },
+        {
+          "created_at": "2026-02-12T03:08:09.000Z",
+          "hits": [
+            "supply chain",
+            "mapping"
+          ],
+          "text": "The \"Bottleneck ETF\" from supply chain mapping.   Not a single name red.  Equal weighted results 1W: +12.83%.  List: $LITE: +31.68% $AMKR: +28.7% Disco: +24.35% $GLW: +23.57% $COHR: +23.5% $ONTO: +18.4% $CAMT: +17.7% $TSM: +15.8% $ON: +15.8% Samsung: +15.4% $KLAC: +12.7% $APH: https://t.co/oE7cauGuPU https://t.co/NQzRUpBGf2"
+        },
+        {
+          "created_at": "2026-02-16T09:22:43.000Z",
+          "hits": [
+            "bom"
+          ],
+          "text": "@yianisz Yeah pretty sad to see people get laid off from AI displacement. So only thing people can do now is ride the wave or get left behind.   Biggest hedge against this is AI equities and looking into BOM spend.  Biggest is memory like $MU or $SNDK. Photonics from $LITE to $AAOI"
+        },
+        {
+          "created_at": "2026-02-25T14:21:59.000Z",
+          "hits": [
+            "bom",
+            "mapping"
+          ],
+          "text": "-&gt; $LITE is a known $GOOGL supplier.   -&gt; $IQE is a known $LITE supplier.   -&gt; $AXTI is a known $IQE supplier.   Google TPU + Hyperscaler ASIC BOM are extremely confidential.   But you can kinda guess from relationship mapping even though nobody will say $AXTI or $IQE supplies to https://t.co/eZafObkMlx https://t.co/DtQmKLhNYn"
+        },
+        {
+          "created_at": "2026-02-25T14:49:38.000Z",
+          "hits": [
+            "thesis"
+          ],
+          "text": "This aged well.   Every photonics name I’ve done a thesis post on from $LITE to $AXTI has doubled or increased a few hundred percent. https://t.co/uOKGPFpJha"
+        },
+        {
+          "created_at": "2026-02-25T15:09:41.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@yomattyboi Maybe $IQE at these levels as a $LITE supplier at a $150M MC.  Their closest friend over in Taiwan landmark optoelectronics was rerated to $3.85B (IQE has more capacity but debt, and legacy segments dragging it down).  If they sell their Taiwan segment (legacy) then use that to"
+        },
+        {
+          "created_at": "2026-02-25T15:47:51.000Z",
+          "hits": [
+            "mapping"
+          ],
+          "text": "@yianisz Yep, that’s a good analysis! $AXTI is basically a duopoly in two different bottlenecks (upstream feedstock processing and InP substrates).  $IQE is really critical but most people don’t really do the mapping to $LITE to other hyperscalers.  It’s probably the largest western"
+        },
+        {
+          "created_at": "2026-02-26T19:57:55.000Z",
+          "hits": [
+            "bom",
+            "model"
+          ],
+          "text": "@singhsurya1012 $LITE is directly tied to $GOOGL TPU programs and is ~8-12% of BOM value  Other hyperscaler ASICs is likely low single digit %.  Google hiked projected capex numbers a lot.   And the assumption is that trickles down into $LITE. I don’t think you should model based on arbitrary https://t.co/Mfs7jjGKVB"
+        },
+        {
+          "created_at": "2026-02-27T06:50:57.000Z",
+          "hits": [
+            "bom"
+          ],
+          "text": "$AAOI is another photonics name that has just doubled in the last two months!  Feels like every photonics company from $AXTI and $AAOI has been doubling or tripling recently?  I’ve dubbed this the “Elite Four” for photonics exposure:  1. $LITE (High BOM of the TPU) 2. $AXTI https://t.co/EGWuQGrMop https://t.co/aHLgIQNPOT"
+        },
+        {
+          "created_at": "2026-02-27T07:49:42.000Z",
+          "hits": [
+            "dd",
+            "thesis"
+          ],
+          "text": "@InitialY23 I’m just celebrating some of the DD I did two months ago!  Seeing it play out with stock prices from $AXTI, $AAOI, and $LITE all hitting triple digit returns is very fun to see (and helps validate my original thesis on photonics).  Obviously not telling others to take positions,"
+        },
+        {
+          "created_at": "2026-02-27T09:43:07.000Z",
+          "hits": [
+            "dd"
+          ],
+          "text": "Here's a deeper look into $IQE ($179M):  IQE's hidden InP optionality versus LandMark's $3.5B valuation. And the $IREN / $CRWV \"miner\" pivot to photonics:   Before I did a high-level shower thought overview eg. $AXTI -&gt; $IQE -&gt; $LITE -&gt; $GOOGL TPUs, but this is slightly more DD. https://t.co/61c7B5NADt"
+        },
+        {
+          "created_at": "2026-02-27T10:11:04.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@BNAibex1628 If I had to guess, probably extreme interest by companies like $COHR and $LITE.  But $IQE probably wants to stay standalone and sell off their drag only, rather than their entire inp epiwafer capacity, so this makes things a little more challenging.   Also the acquisition pool"
+        },
+        {
+          "created_at": "2026-02-27T17:47:34.000Z",
+          "hits": [
+            "earnings"
+          ],
+          "text": "@Pacheca12345 Probably tripling my $AAOI position size after earnings.  4.5B ARR for photonics(which usually has a premium like $LITE ), ~40% margins, $5.5B MC.  Again idk, this is just unheard of guidance scale up."
+        },
+        {
+          "created_at": "2026-02-27T18:14:21.000Z",
+          "hits": [
+            "earnings"
+          ],
+          "text": "After earnings, $AAOI could easily be a $25B-$30B company next year from $5B if they hit their projections.   And they're one of the only \"Made in America\"  (Sugarland, Texas) companies out of  - $LITE (global) - $COHR (global) - $FN (Thai) - $AVGO (global) - Innolight (China), https://t.co/xhqPPmyz9B https://t.co/lMvDhR8GOQ"
+        },
+        {
+          "created_at": "2026-02-28T19:53:25.000Z",
+          "hits": [
+            "supply chain",
+            "capacity"
+          ],
+          "text": "@Mellokhai $IQE is inherently dangerous because of debt. I'm just saying they're sitting on a gold mine of capacity as a known $LITE supplier and large contributor to the hyperscaler photonics supply chain.     If they do manage to restructure by selling off their Taiwan business wouldn't"
+        },
+        {
+          "created_at": "2026-02-28T20:14:55.000Z",
+          "hits": [
+            "report",
+            "earnings"
+          ],
+          "text": "$AAOI feels like must-have photonics exposure to me.   Their earnings report is genuinely black magic.  $LITE ($50B MC): FY 2026 est. ~$2.91B $AAOI ($5.6B MC) H2 2027: $4.35B ARR.   Their growth projections literally leapfrogged $LITE for 2026.   Not even kidding.   Gross margins https://t.co/R6BSOngtMK"
+        },
+        {
+          "created_at": "2026-03-02T11:25:53.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@Compounds365 Three to four hyperscaler orders for all the capacity they can make a year out doesn’t mean risk of cancellation? Not sure where you’re getting that from.   What 20% margin ceiling? They cited 40%.   Also they’re Made in America supply chains which is rare, $LITE and $COHR do"
+        },
+        {
+          "created_at": "2026-03-02T13:42:11.000Z",
+          "hits": [
+            "supply chain"
+          ],
+          "text": "@anhecdote Anytime! Yeah the entire photonics supply chain that I've mentioned from $AXTI, $LITE, $COHR, $IQE, and $AAOI has been a straight green line up."
+        },
+        {
+          "created_at": "2026-03-02T14:07:22.000Z",
+          "hits": [
+            "thesis"
+          ],
+          "text": "@invspoter I'm happy if I was able to help!   Glad I got this part spot on from my thesis last year though. $NVDA ended up investing in both of $LITE and $COHR. Then $AAOI ended up popping off this year. https://t.co/gVDuPdkRrf"
+        },
+        {
+          "created_at": "2026-03-02T17:54:47.000Z",
+          "hits": [
+            "bom",
+            "mapping"
+          ],
+          "text": "@Gubloinvestor I’m flattered lol. But I’m happy with the performance even with a relatively flat index!  A large part of it is mapping where all the spend goes.  Eg. $GOOGL $180B capex -&gt; TPU program -&gt; BOM of TPU -&gt; 8-12% $LITE -&gt; upstream materials from $AXTI or epiwafers from $IQE.  Or just https://t.co/xf35eQRrc0"
+        },
+        {
+          "created_at": "2026-03-02T18:13:54.000Z",
+          "hits": [
+            "bom"
+          ],
+          "text": "@yuntungshieh It’s just bottleneck hunting as upstream as you can go.  Even $LITE was considered really early few months ago when I found out it was a large part of $GOOGL TPU BOM.   Since then it’s already doubled. But most people stop there and then don’t try and find who supplies epiwafers"
+        },
+        {
+          "created_at": "2026-03-02T21:21:01.000Z",
+          "hits": [
+            "thesis"
+          ],
+          "text": "Holy ****, this thesis was perhaps the most legendary one on X this year.   $AXTI is now at $46.7 after Nvidia funneled $4B into photonics players $LITE and $COHR today.  Guess who controls all the materials?  Did you listen anon? https://t.co/7Sm08hOQPA https://t.co/nm5cMhxz01"
+        },
+        {
+          "created_at": "2026-03-03T08:48:27.000Z",
+          "hits": [
+            "earnings"
+          ],
+          "text": "The two largest photonics epiwafer fabs   - $IQE ( $LITE supplier) is up 62.53% this week  - Landmark is up 23.95% this week.  And they’re both on a tear.   Both are up 7-9% today so far.   Markets are probably pricing in the optical transceiver boom signaled from $AAOI earnings https://t.co/GyDna0OnTy"
+        },
+        {
+          "created_at": "2026-03-03T08:48:59.000Z",
+          "hits": [
+            "earnings"
+          ],
+          "text": "The two largest photonics epiwafer fabs   - $IQE ( $LITE supplier) is up 62.53% this week  - Landmark is up 23.95% this week.  And they’re both on a tear.   Both are up 7-9% today so far.   Markets are probably pricing in the optical transceiver boom signaled from $AAOI earnings https://t.co/ruwj4RRlCS"
+        }
+      ]
+    },
+    "IQE": {
+      "match_count": 26,
+      "term_counts": {
+        "capacity": 10,
+        "earnings": 5,
+        "bom": 4,
+        "supply chain": 4,
+        "dd": 3,
+        "mapping": 3
+      },
+      "matches": [
+        {
+          "created_at": "2026-02-25T11:52:37.000Z",
+          "hits": [
+            "bom"
+          ],
+          "text": "Was the first to talk about $AXTI in relation to photonics BOM/supply chains.   Now it's up 300%+ or so since the bottom 2M ago.   $IQE is very interesting too as one of the only Western suppliers.   Basically if you look at photonics flow on $GOOGL TPU, kinda looks like this: https://t.co/ob94gSJv52"
+        },
+        {
+          "created_at": "2026-02-25T12:41:36.000Z",
+          "hits": [
+            "bom"
+          ],
+          "text": "Was the first to talk about $AXTI in relation to photonics BOM/supply chains:  $IQE is very interesting too as one of the only Western suppliers.   Basically if you look at photonics flow on $GOOGL TPU/hyperscaler ASICs kinda looks like this (very likely, but undisclosed): https://t.co/551UViJErr"
+        },
+        {
+          "created_at": "2026-02-25T13:52:03.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@hareng_rouge Yes landmark is an amazing name! Basically like $IQE for InP epiwafer for 800/1.6t transcievers but without the balance sheet drag.  Landmark's a $3.75B MC company while $IQE is a $135m company but IQE Is significantly larger production capacity (not as pure play though)  So just"
+        },
+        {
+          "created_at": "2026-02-25T14:21:59.000Z",
+          "hits": [
+            "bom",
+            "mapping"
+          ],
+          "text": "-&gt; $LITE is a known $GOOGL supplier.   -&gt; $IQE is a known $LITE supplier.   -&gt; $AXTI is a known $IQE supplier.   Google TPU + Hyperscaler ASIC BOM are extremely confidential.   But you can kinda guess from relationship mapping even though nobody will say $AXTI or $IQE supplies to https://t.co/eZafObkMlx https://t.co/DtQmKLhNYn"
+        },
+        {
+          "created_at": "2026-02-25T14:27:44.000Z",
+          "hits": [
+            "earnings"
+          ],
+          "text": "@Crawfordbro11 No way to 100% know if it's correct or not.   It would probably just show up as a increase in revenue in the earnings for $AXTI or $IQE in the future without a company like Google or Microsoft saying \"we use x supplier\" https://t.co/HCsGhaPbqJ"
+        },
+        {
+          "created_at": "2026-02-25T15:09:41.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@yomattyboi Maybe $IQE at these levels as a $LITE supplier at a $150M MC.  Their closest friend over in Taiwan landmark optoelectronics was rerated to $3.85B (IQE has more capacity but debt, and legacy segments dragging it down).  If they sell their Taiwan segment (legacy) then use that to"
+        },
+        {
+          "created_at": "2026-02-25T15:47:51.000Z",
+          "hits": [
+            "mapping"
+          ],
+          "text": "@yianisz Yep, that’s a good analysis! $AXTI is basically a duopoly in two different bottlenecks (upstream feedstock processing and InP substrates).  $IQE is really critical but most people don’t really do the mapping to $LITE to other hyperscalers.  It’s probably the largest western"
+        },
+        {
+          "created_at": "2026-02-27T07:06:14.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@01010001x Landmark is the most pure play inp epiwafer foundry at $3.85B MC for sure.   It has lower capacity than their ~$200M $IQE competitor but has no legacy drag exposure and a better balance sheet."
+        },
+        {
+          "created_at": "2026-02-27T09:43:07.000Z",
+          "hits": [
+            "dd"
+          ],
+          "text": "Here's a deeper look into $IQE ($179M):  IQE's hidden InP optionality versus LandMark's $3.5B valuation. And the $IREN / $CRWV \"miner\" pivot to photonics:   Before I did a high-level shower thought overview eg. $AXTI -&gt; $IQE -&gt; $LITE -&gt; $GOOGL TPUs, but this is slightly more DD. https://t.co/61c7B5NADt"
+        },
+        {
+          "created_at": "2026-02-27T09:54:29.000Z",
+          "hits": [
+            "supply chain"
+          ],
+          "text": "@CapSimplified Thanks! Just publishing my personal thought process on $IQE.   Epiwafer foundries are a fascinating supply chain chokepoint to learn about in photonics, regardless if you take the trade or not.  But of course, extremely high-risk, binary outcome, not recommending anyone to take"
+        },
+        {
+          "created_at": "2026-02-27T09:58:39.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@Lee_Trades No, the risks around the debt are real. Their current gross debt is ~£45M. Plus, if $IQE repurposes their epiwafer capacity towards transceivers for the AI trade, it will take even more capital to refactor the hardware.   Hence why the Taiwan sale is critical, if it falls"
+        },
+        {
+          "created_at": "2026-02-27T10:11:04.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@BNAibex1628 If I had to guess, probably extreme interest by companies like $COHR and $LITE.  But $IQE probably wants to stay standalone and sell off their drag only, rather than their entire inp epiwafer capacity, so this makes things a little more challenging.   Also the acquisition pool"
+        },
+        {
+          "created_at": "2026-02-27T20:34:52.000Z",
+          "hits": [
+            "dd"
+          ],
+          "text": "@PhotonCap Thanks! I know a some followers recommended Aixtorn, but there's other interesting suppliers like Oxford Instruments out there.   I already did more DD into $IQE and the epiwafer merchant foundries, but there's the $ASML's of the photonics world too.   Surprisingly $VECO was up"
+        },
+        {
+          "created_at": "2026-02-27T22:08:31.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@UncleAlpha007 Thanks! $IQE is definitely one of those moonshots “why didn’t you tell me this earlier” if it ends up going 10x type picks.   But reason for a lot of upside is materially higher risk from debt and execution -&gt; refactoring capacity toward InP epiwafers.   Just wanted to put my"
+        },
+        {
+          "created_at": "2026-02-28T19:35:24.000Z",
+          "hits": [
+            "earnings"
+          ],
+          "text": "Second order effects from $AAOI earnings:   -&gt; Extreme demand for MBE/MOCVD reactors.  They're needed for epiwafers.   This signals two things for \"manufacturing\":   - $IQE is sitting on an absolute gold mine  - Huge capex cycle to ( $VECO $1.85B, Aixtron $AIXXF  $3.7B).  Quote: https://t.co/47Uy40FRaJ"
+        },
+        {
+          "created_at": "2026-02-28T19:35:44.000Z",
+          "hits": [
+            "earnings"
+          ],
+          "text": "Second order effects from $AAOI earnings:   -&gt; Extreme demand for MBE/MOCVD reactors.  They're needed for epiwafers.   This signals two things for \"manufacturing\":   - $IQE is sitting on an absolute gold mine  - capex cycle to ( $VECO $1.85B, Aixtron $AIXXF  $3.7B) type players. https://t.co/yhuKTq6QFY"
+        },
+        {
+          "created_at": "2026-02-28T19:53:25.000Z",
+          "hits": [
+            "supply chain",
+            "capacity"
+          ],
+          "text": "@Mellokhai $IQE is inherently dangerous because of debt. I'm just saying they're sitting on a gold mine of capacity as a known $LITE supplier and large contributor to the hyperscaler photonics supply chain.     If they do manage to restructure by selling off their Taiwan business wouldn't"
+        },
+        {
+          "created_at": "2026-03-02T13:42:11.000Z",
+          "hits": [
+            "supply chain"
+          ],
+          "text": "@anhecdote Anytime! Yeah the entire photonics supply chain that I've mentioned from $AXTI, $LITE, $COHR, $IQE, and $AAOI has been a straight green line up."
+        },
+        {
+          "created_at": "2026-03-02T17:54:47.000Z",
+          "hits": [
+            "bom",
+            "mapping"
+          ],
+          "text": "@Gubloinvestor I’m flattered lol. But I’m happy with the performance even with a relatively flat index!  A large part of it is mapping where all the spend goes.  Eg. $GOOGL $180B capex -&gt; TPU program -&gt; BOM of TPU -&gt; 8-12% $LITE -&gt; upstream materials from $AXTI or epiwafers from $IQE.  Or just https://t.co/xf35eQRrc0"
+        },
+        {
+          "created_at": "2026-03-03T08:48:27.000Z",
+          "hits": [
+            "earnings"
+          ],
+          "text": "The two largest photonics epiwafer fabs   - $IQE ( $LITE supplier) is up 62.53% this week  - Landmark is up 23.95% this week.  And they’re both on a tear.   Both are up 7-9% today so far.   Markets are probably pricing in the optical transceiver boom signaled from $AAOI earnings https://t.co/GyDna0OnTy"
+        },
+        {
+          "created_at": "2026-03-03T08:48:59.000Z",
+          "hits": [
+            "earnings"
+          ],
+          "text": "The two largest photonics epiwafer fabs   - $IQE ( $LITE supplier) is up 62.53% this week  - Landmark is up 23.95% this week.  And they’re both on a tear.   Both are up 7-9% today so far.   Markets are probably pricing in the optical transceiver boom signaled from $AAOI earnings https://t.co/ruwj4RRlCS"
+        },
+        {
+          "created_at": "2026-03-12T23:59:47.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@KaneCapz General rule of thumb:   Lower the MC eg. $IQE -&gt; $SOI -&gt; $AXTI -&gt; $AAOI -&gt; $LITE -&gt; $COHR, etc.   Higher upside from re-rating. That's unless you 10x revenue like $AAOI if they hit capacity projections, but we'll see if they do."
+        },
+        {
+          "created_at": "2026-03-14T22:17:13.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@MarketsOnSpaces $IQE is my $IREN equivalent for photonics.  They have the reactors and capacity. And they’re not some unknown company as they’re a known $LITE supplier.  They just need to completely restructure away from legacy drag, restructure debt from Taiwan asset sales, and pivot to"
+        },
+        {
+          "created_at": "2026-03-14T22:31:13.000Z",
+          "hits": [
+            "capacity"
+          ],
+          "text": "@Lee_Trades Yes, I’m obviously oversimplifying things but they literally have 100+ reactor capacity. Landmark probably ~28-30 but they’re more pure play.  Takes time and money to refactor a lot of these to InP epiwafer production but it’s certainly doable for $IQE"
+        },
+        {
+          "created_at": "2026-03-18T11:05:20.000Z",
+          "hits": [
+            "supply chain"
+          ],
+          "text": "Well that was a fast 100%+ return with $IQE in 1 month.  Turns out when you map it to $LITE and the hyperscaler supply chain at the epiwafer level…   Markets start pricing it in with the new $LITE projections… https://t.co/TA3xbSGfbX https://t.co/DtQmKLhNYn"
+        },
+        {
+          "created_at": "2026-03-18T18:48:20.000Z",
+          "hits": [
+            "dd"
+          ],
+          "text": "@papaD__ Yep! I'm familiar with them after doing DD on refactoring reactors for inp epiwafers $IQE.   Personally not a fan of equipment sellers like $AXIA or Oxford.   They have material revenue acceleration, but they don't really derive the same value from the photonics supercycle as the"
+        }
+      ]
+    }
+  },
+  "global_term_counts": {
+    "earnings": 166,
+    "thesis": 148,
+    "capacity": 110,
+    "supply chain": 81,
+    "research": 63,
+    "dd": 47,
+    "report": 34,
+    "analyst": 31,
+    "model": 29,
+    "customer": 24,
+    "bom": 23,
+    "customers": 21,
+    "price hikes": 19,
+    "mapping": 13,
+    "smm": 12,
+    "earnings call": 9,
+    "morgan stanley": 8,
+    "northland": 8,
+    "filing": 7,
+    "qualification": 6,
+    "benchmark": 5,
+    "conference": 5,
+    "analyst note": 3,
+    "counterpoint": 3,
+    "semianalysis": 3,
+    "digitimes": 2,
+    "trendforce": 2,
+    "ubs": 2,
+    "bill of materials": 1,
+    "lightcounting": 1,
+    "needham": 1
+  }
+}

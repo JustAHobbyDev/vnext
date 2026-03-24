@@ -1,0 +1,3357 @@
+{
+  "fetched_at": "2026-03-20T01:25:03.424411+00:00",
+  "mode": "search-all-daily",
+  "username": "aleabitoreddit",
+  "user": {
+    "public_metrics": {
+      "followers_count": 114445,
+      "following_count": 89,
+      "tweet_count": 4432,
+      "listed_count": 2080,
+      "like_count": 5708,
+      "media_count": 1190
+    },
+    "description": "That famous @Reddit /r/WSB trader on @X \n\nAI/Semi Supply Chain Analyst from substrates to photonics\n\nTrading mispriced derivatives and unknown AI bottlenecks",
+    "created_at": "2025-07-02T10:44:15.000Z",
+    "username": "aleabitoreddit",
+    "name": "Serenity",
+    "verified": false,
+    "id": "1940360837547565056"
+  },
+  "start_date": "2026-02-24",
+  "end_date": "2026-02-25",
+  "days_completed": [
+    "2026-02-24",
+    "2026-02-25"
+  ],
+  "stopped_early": false,
+  "stop_reason": "",
+  "posts": [
+    {
+      "id": "2026120730409332798",
+      "created_at": "2026-02-24T02:23:20.000Z",
+      "text": "lol https://t.co/8i18XOIKK7 https://t.co/4CaNLkSHt1",
+      "conversation_id": "2026120730409332798",
+      "lang": "und",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 8,
+        "reply_count": 18,
+        "like_count": 385,
+        "quote_count": 1,
+        "bookmark_count": 134,
+        "impression_count": 77047
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "2015549311732658520"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026120730409332798/photo/1",
+          "https://twitter.com/aleabitoreddit/status/2015549311732658520"
+        ]
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026124450350133671",
+      "created_at": "2026-02-24T02:38:07.000Z",
+      "text": "@bilbooo__ $MU - ended up liking SK Hynix more but safer made in America play\n\n$AXTI long way to go, 1 year wait until extreme shortage hits. Prob my favorite in photonics sector for return potential\n\n$EWY - tail end of Vega expansion, IV will likely send it a tad higher. But if you’re",
+      "conversation_id": "2026120730409332798",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 4,
+        "like_count": 42,
+        "quote_count": 0,
+        "bookmark_count": 27,
+        "impression_count": 4104
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026122443811647756"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "MU",
+          "AXTI",
+          "EWY"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "bilbooo__"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026125089255866749",
+      "created_at": "2026-02-24T02:40:39.000Z",
+      "text": "@dubiousnoob Best hedge against AGI and general AI is buying AI stocks, not sitting on cash imo. \n\nBut not late, things will make new ATHs every day. Just in the middle of the cycle right now for some things (memory) and at the start of others (like photonics)",
+      "conversation_id": "2026120730409332798",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 19,
+        "quote_count": 0,
+        "bookmark_count": 4,
+        "impression_count": 1238
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026122758191792129"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "dubiousnoob"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026126285668565392",
+      "created_at": "2026-02-24T02:45:24.000Z",
+      "text": "@otium33 @dubiousnoob Good question for photonics you can see major scale up 2028 onward. It’s 2026 now and things are just getting priced in anticipation ( $LITE profits aren’t exactly high, but they’re expected to balloon in a few years as Google TPU programs and others scale up).\n\nFor memory you https://t.co/E5yjUGvE8P",
+      "conversation_id": "2026120730409332798",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 1,
+        "like_count": 20,
+        "quote_count": 0,
+        "bookmark_count": 13,
+        "impression_count": 1805
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026125292885148010"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "LITE"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "otium33",
+          "dubiousnoob"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026126285668565392/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026145776003408348",
+      "created_at": "2026-02-24T04:02:51.000Z",
+      "text": "Took a closer look: Yamamura glass (TYO: 5210) is a banger. \n\nYou’re basically buying the business for free?\n\nAnd their photonics division is growing 91% Y/Y for optical communication caps.\n\nYou are paying $240M for a company that does $500M sales with $360M+ in actual book value https://t.co/mlHtUaL2xH https://t.co/sV95cwnTEn",
+      "conversation_id": "2026145776003408348",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 100,
+        "reply_count": 48,
+        "like_count": 1587,
+        "quote_count": 17,
+        "bookmark_count": 1867,
+        "impression_count": 491060
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "2025477620713001147"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026145776003408348/photo/1",
+          "https://twitter.com/kjnkjp/status/2025477620713001147"
+        ]
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026147961034682439",
+      "created_at": "2026-02-24T04:11:32.000Z",
+      "text": "@jimcx0 Supposed to be the other way around…",
+      "conversation_id": "2026147514798195131",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 5,
+        "like_count": 122,
+        "quote_count": 0,
+        "bookmark_count": 7,
+        "impression_count": 13641
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026147514798195131"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "jimcx0"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026148865217642588",
+      "created_at": "2026-02-24T04:15:08.000Z",
+      "text": "@OngJunJieOJJ Value was kept inside the company (hoarding).   \n\nBut the biggest signal markets probably missed was the structural dividends to return value back to shareholders.\n\nSo at current prices, it looks like you’re buying the company for free then waiting for value to be returned over",
+      "conversation_id": "2026145776003408348",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 19,
+        "quote_count": 0,
+        "bookmark_count": 11,
+        "impression_count": 7823
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026148205571035433"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "OngJunJieOJJ"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026149977710596140",
+      "created_at": "2026-02-24T04:19:33.000Z",
+      "text": "@OngJunJieOJJ Yeah, this not even including their other growing divisions lol",
+      "conversation_id": "2026145776003408348",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1561
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026149748236079257"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "OngJunJieOJJ"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026154810769285228",
+      "created_at": "2026-02-24T04:38:45.000Z",
+      "text": "@Ren_aramb Stocks are a positive sum game long term where everyone benefits from value creation.\n\nMy preference is just to distribute information for free. Can’t help it if markets like the analysis.",
+      "conversation_id": "2026145776003408348",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 85,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 7149
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026152662559777191"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "Ren_aramb"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026156737058029777",
+      "created_at": "2026-02-24T04:46:24.000Z",
+      "text": "@sedonaroxx Yamamura is a new company I just discovered after looking at the quoted post.\n\nI’m just publishing my findings on it",
+      "conversation_id": "2026145776003408348",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 11,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 4052
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026156434241831140"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "sedonaroxx"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026160668643414047",
+      "created_at": "2026-02-24T05:02:02.000Z",
+      "text": "@simonjung00 Maybe Warren Buffet is watching my posts for deep value Japanese companies lol. \n\nThis is more up my alley though, deep value + photonics play.",
+      "conversation_id": "2026145776003408348",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 47,
+        "quote_count": 0,
+        "bookmark_count": 4,
+        "impression_count": 6931
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026159201056075898"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "simonjung00"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026166459635011767",
+      "created_at": "2026-02-24T05:25:02.000Z",
+      "text": "@MaoBaoBaomby I feel like I’m hard carrying $IBKR in terms of giving them record numbers of users.\n\nBut that brokerage has access to international stocks.",
+      "conversation_id": "2026163267551584332",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 6,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 930
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026165776579727808"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "IBKR"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "MaoBaoBaomby"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026166893594505716",
+      "created_at": "2026-02-24T05:26:46.000Z",
+      "text": "@pulseandpen I mean even if it increased 15% it still trades at like $270m MC vs $360m in assets, not even factoring in any of their other businesses. \n\nSo basically, liquidation company would be returning $360m.\n\nJust needed dividends for the green light.",
+      "conversation_id": "2026163267551584332",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 8,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 744
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026166289295970339"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "pulseandpen"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026167340925329698",
+      "created_at": "2026-02-24T05:28:33.000Z",
+      "text": "@jimcx0 Remind me later to claim that Porsche lol",
+      "conversation_id": "2026166603553849460",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 2,
+        "like_count": 92,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 7011
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026166603553849460"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "jimcx0"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026169893289345285",
+      "created_at": "2026-02-24T05:38:41.000Z",
+      "text": "@crypticTooth $AXTI is my favorite just because of their strategic value to the photonics supply chains.\n\nOtherwise $LITE is runner up, and largely undervalued if you fast forward two years. But as of now it looks a little overextended.\n\nProb $COHR #3 and $AAOI #4 as another moonshot with",
+      "conversation_id": "2026163267551584332",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 22,
+        "quote_count": 0,
+        "bookmark_count": 21,
+        "impression_count": 2441
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026164472734536070"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AXTI",
+          "LITE",
+          "COHR",
+          "AAOI"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "crypticTooth"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026181180463501314",
+      "created_at": "2026-02-24T06:23:32.000Z",
+      "text": "@hanbonjovi There’s definitely parallels to Toto the toilet maker for memory. \n\nBut Yamamura, the bottlemaker for photonics. https://t.co/mGg5BReQw7",
+      "conversation_id": "2026145776003408348",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 9,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 4420
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026151559101546912"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "hanbonjovi"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026181180463501314/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026186542633635851",
+      "created_at": "2026-02-24T06:44:51.000Z",
+      "text": "This is Japan’s largest Bottlemaker by the way.\n\nUp 20.3% after my post today. \n\n&gt; Seeing parallels like Toto the toilet maker with Memory vs. Yamamura the bottle maker with Photonics. \n\nEven after the increase, it’s still trading at $295M vs. $360M book value. \n\nLooks like https://t.co/xrV0ct70BF https://t.co/A4JO2BRCPk",
+      "conversation_id": "2026186542633635851",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 30,
+        "reply_count": 29,
+        "like_count": 592,
+        "quote_count": 13,
+        "bookmark_count": 305,
+        "impression_count": 242034
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "2026145776003408348"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026186542633635851/photo/1",
+          "https://twitter.com/aleabitoreddit/status/2026145776003408348"
+        ]
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026191160411382010",
+      "created_at": "2026-02-24T07:03:12.000Z",
+      "text": "The media labeled “Meme Stock” $RPI has held its gains, and is up 46.12% this month. \n\nEver stop to wonder if there’s something structural with OpenClaw demand if everyone in Silicon Valley is dressing up in Lobster Costumes? https://t.co/IkR5BXn2dd https://t.co/OlXrmIaHpo",
+      "conversation_id": "2026191160411382010",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 12,
+        "reply_count": 12,
+        "like_count": 173,
+        "quote_count": 2,
+        "bookmark_count": 31,
+        "impression_count": 67852
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "2025274299746251190"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "RPI"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026191160411382010/photo/1",
+          "https://x.com/aleabitoreddit/status/2026191160411382010/photo/1",
+          "https://twitter.com/aleabitoreddit/status/2025274299746251190"
+        ]
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026196965634326730",
+      "created_at": "2026-02-24T07:26:16.000Z",
+      "text": "It’s just an endless sea of green. \n\nSK Hynix, Samsung (and likely $EWY) are all time highs today.\n\nAI is bringing generational wealth to the future owners of compute (Power, Bottlenecks, and Semis). https://t.co/igFzY9whEB",
+      "conversation_id": "2026196965634326730",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 52,
+        "reply_count": 38,
+        "like_count": 806,
+        "quote_count": 4,
+        "bookmark_count": 202,
+        "impression_count": 82247
+      },
+      "referenced_tweets": [],
+      "entities": {
+        "cashtags": [
+          "EWY"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026196965634326730/photo/1",
+          "https://x.com/aleabitoreddit/status/2026196965634326730/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026197992102092859",
+      "created_at": "2026-02-24T07:30:20.000Z",
+      "text": "@darydayani Power, Semis, and other bottlenecks*.\n\nBut appreciate the semantics",
+      "conversation_id": "2026196965634326730",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 25,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 4467
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026197647670001932"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "darydayani"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026219122250707433",
+      "created_at": "2026-02-24T08:54:18.000Z",
+      "text": "@nikitabier Pls have ur openclaw instance make the max height of the subscriber buttons like 80% of what it is now pls.\n\nWay too big! https://t.co/gXnqcoYuXz",
+      "conversation_id": "2026218412507316282",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 20,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 9012
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026218412507316282"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "nikitabier"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026219122250707433/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026220009169772678",
+      "created_at": "2026-02-24T08:57:50.000Z",
+      "text": "@nikitabier Also something is breaking the notification scroll (this is the very top of the scroll), most of the posts get cut off https://t.co/rfQ67C6Iuk",
+      "conversation_id": "2026218412507316282",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 2749
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026219122250707433"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "nikitabier"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026220009169772678/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026226744701931525",
+      "created_at": "2026-02-24T09:24:36.000Z",
+      "text": "@arstr9876 Yeah it’s forward p/e is like 4 at a $500b mc. sk hynix is projected to do $160B operating income next year, which is more than $AAPL ($3.8T company)",
+      "conversation_id": "2026196965634326730",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 33,
+        "quote_count": 0,
+        "bookmark_count": 3,
+        "impression_count": 3245
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026225938862854623"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AAPL"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "arstr9876"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026259534550126971",
+      "created_at": "2026-02-24T11:34:53.000Z",
+      "text": "There's a reason why your Chinese robot vacuum follows your girlfriend into the shower. https://t.co/3h5PV66MYu",
+      "conversation_id": "2026259534550126971",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 18,
+        "reply_count": 20,
+        "like_count": 409,
+        "quote_count": 6,
+        "bookmark_count": 30,
+        "impression_count": 50295
+      },
+      "referenced_tweets": [],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026259534550126971/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026308296743997714",
+      "created_at": "2026-02-24T14:48:39.000Z",
+      "text": "Is it just me or is everything going up 15-20% a day in this market?\n\n$AXTI https://t.co/umqkqUvK0T",
+      "conversation_id": "2026308296743997714",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 40,
+        "reply_count": 55,
+        "like_count": 552,
+        "quote_count": 4,
+        "bookmark_count": 57,
+        "impression_count": 63239
+      },
+      "referenced_tweets": [],
+      "entities": {
+        "cashtags": [
+          "AXTI"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026308296743997714/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026309516594438538",
+      "created_at": "2026-02-24T14:53:30.000Z",
+      "text": "@crux_capital_ It is… I’m up 233% on one of my $AXTI positions, should have put more concentration into it… \n\nI’ll probably cost avg up with shares. https://t.co/1ruvbUIJj9",
+      "conversation_id": "2026308296743997714",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 7,
+        "like_count": 68,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 6854
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026308413622452695"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AXTI"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "crux_capital_"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026309516594438538/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026309839555817983",
+      "created_at": "2026-02-24T14:54:47.000Z",
+      "text": "@otium33 Maybe, but even the media branded “meme stock” $RPI is up 13.6% today.\n\nSeems like other themes like software and cybersecurity aren’t doing too well https://t.co/wUISCQP55H",
+      "conversation_id": "2026308296743997714",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 4,
+        "like_count": 23,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 3948
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026308441539809618"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "RPI"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "otium33"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026309839555817983/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026314925149483021",
+      "created_at": "2026-02-24T15:14:59.000Z",
+      "text": "@ZeroKnowledger_ They’re going to get their positions nuked on $SNDK? Zero clue, just adds fuel to the fire for the rally",
+      "conversation_id": "2026308296743997714",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 28,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 4100
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026313684130124047"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "SNDK"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "ZeroKnowledger_"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026341976942195152",
+      "created_at": "2026-02-24T17:02:29.000Z",
+      "text": "Year to Date: 412.72%\n\nLot of it is just picking the right sector, profiting off of Jane Street algos weekly, and a bit of luck. \n\nIn terms of bottleneck longs, these are currently my favorite: \n\n1. Memory -  Samsung, Sk Hynix, $SNDK, $MU, $SIMO \n\n2. Photonics - $LITE, $COHR, https://t.co/3DkN332VlO",
+      "conversation_id": "2026341976942195152",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 181,
+        "reply_count": 206,
+        "like_count": 3901,
+        "quote_count": 19,
+        "bookmark_count": 3972,
+        "impression_count": 977746
+      },
+      "referenced_tweets": [],
+      "entities": {
+        "cashtags": [
+          "SNDK",
+          "MU",
+          "SIMO",
+          "LITE",
+          "COHR"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026341976942195152/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026345783403098571",
+      "created_at": "2026-02-24T17:17:37.000Z",
+      "text": "@MansaTrader Jane Street is the likely counterparty of the Blackrock’s South Korea Index.\n\nThey mispriced IV on the 2028 option chain. \n\nVega expansion alone would have doubled option values in a week and rapid IV increases typically cause a loss to MMs.",
+      "conversation_id": "2026341976942195152",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 3,
+        "like_count": 58,
+        "quote_count": 0,
+        "bookmark_count": 43,
+        "impression_count": 22331
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026342152939139330"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "MansaTrader"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026346537488679110",
+      "created_at": "2026-02-24T17:20:36.000Z",
+      "text": "@BlessedFrLife https://t.co/uvEVWCAY4D",
+      "conversation_id": "2026341976942195152",
+      "lang": "qme",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 10,
+        "like_count": 84,
+        "quote_count": 3,
+        "bookmark_count": 6,
+        "impression_count": 20148
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026342433521361118"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "BlessedFrLife"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026346537488679110/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026350228497117206",
+      "created_at": "2026-02-24T17:35:16.000Z",
+      "text": "@bulldogcapital9 Thanks! It's really fun to see the news coverage around $RPI. \n\nHope OpenClaw serves as a good long term catalyst. https://t.co/rTgP8DNDZn",
+      "conversation_id": "2026341976942195152",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 14,
+        "quote_count": 0,
+        "bookmark_count": 14,
+        "impression_count": 12160
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026349269897326679"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "RPI"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "bulldogcapital9"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026350228497117206/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026351469688226004",
+      "created_at": "2026-02-24T17:40:12.000Z",
+      "text": "@Veeshalnarote12 @BlessedFrLife $IBKR inflates trades a bit. But point still stands that it's a decent amount though",
+      "conversation_id": "2026341976942195152",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 3,
+        "like_count": 11,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 7282
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026351239206940693"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "IBKR"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "Veeshalnarote12",
+          "BlessedFrLife"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026351797267476615",
+      "created_at": "2026-02-24T17:41:30.000Z",
+      "text": "@DaSteeringWheel I did make a bottleneck ETF earlier of names from $ONTO to $GLW!\n\nhttps://t.co/9RsyIarQgM",
+      "conversation_id": "2026341976942195152",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 5,
+        "like_count": 81,
+        "quote_count": 0,
+        "bookmark_count": 99,
+        "impression_count": 24762
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "2021783355076026581"
+        },
+        {
+          "type": "replied_to",
+          "id": "2026349719044108524"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "ONTO",
+          "GLW"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "DaSteeringWheel"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2021783355076026581?s=20"
+        ]
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026353801100407194",
+      "created_at": "2026-02-24T17:49:28.000Z",
+      "text": "@Investmnt_Eagle I still think so! Ideal would be 14-16% IV not the elevated strikes you're looking at ~21-23% IV. \n\nPoint was $XLU was a directional long on US power/grid over the next two years (that benefits from low IV).",
+      "conversation_id": "2026341976942195152",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 5,
+        "like_count": 28,
+        "quote_count": 0,
+        "bookmark_count": 10,
+        "impression_count": 11560
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026347318459383935"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "XLU"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "Investmnt_Eagle"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026365675133088228",
+      "created_at": "2026-02-24T18:36:39.000Z",
+      "text": "@ishkunreborn I like to tell all the people who draw charts that stocks are more about fundamentals and catalysts. \n\nI'm still buying into SK Hynix for example even after the 300% 1Y rise at $500B because their operating income (~$156B) is projected to surpass $AAPL ($3.8T) next year.",
+      "conversation_id": "2026341976942195152",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 3,
+        "like_count": 59,
+        "quote_count": 0,
+        "bookmark_count": 26,
+        "impression_count": 7038
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026364977108697455"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AAPL"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "ishkunreborn"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-24"
+    },
+    {
+      "id": "2026488864748228736",
+      "created_at": "2026-02-25T02:46:10.000Z",
+      "text": "Trump's State of the Union is now ongoing. \n\nThe President is expected to announce \"data center energy deals\" during his speech. \n\nThis is a positive tailwind for the Power/Grid sector as there's:   \n\n1. Reduced Regulatory and Political Risk\n\n- Regulated utilities in $XLU are https://t.co/frV7u0xgFM",
+      "conversation_id": "2026488864748228736",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 11,
+        "reply_count": 17,
+        "like_count": 258,
+        "quote_count": 1,
+        "bookmark_count": 63,
+        "impression_count": 46925
+      },
+      "referenced_tweets": [],
+      "entities": {
+        "cashtags": [
+          "XLU"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026488864748228736/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026490944783265837",
+      "created_at": "2026-02-25T02:54:26.000Z",
+      "text": "@moderndayvenom Yep it seems like a positive catalyst neocloud sector as well like $NBIS, $IREN and $CIFR.   \n\nThe actual policies haven't been announced yet (Aside from White House officials confirming some pledges before the speech), but we'll see.",
+      "conversation_id": "2026488864748228736",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 29,
+        "quote_count": 0,
+        "bookmark_count": 4,
+        "impression_count": 3874
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026489275697836097"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "NBIS",
+          "IREN",
+          "CIFR"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "moderndayvenom"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026492637876989993",
+      "created_at": "2026-02-25T03:01:09.000Z",
+      "text": "@coloene I was in largely in the space trade last year with $RKLB and other companies. I do think a lot of the valuations are a bit stretched.\n\nAs for robotics, I do think we're near the inflection point (probably 2028 for mass production of humanoids). $VPG was my robotics exposure of",
+      "conversation_id": "2026341976942195152",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 26,
+        "quote_count": 0,
+        "bookmark_count": 18,
+        "impression_count": 7682
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026369096523137117"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "RKLB",
+          "VPG"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "coloene"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026494385010123144",
+      "created_at": "2026-02-25T03:08:06.000Z",
+      "text": "@beauty_oe フォトニクス、メモリ、先端パッケージング、それに米国の電力／グリッドセクター、個人的にめちゃくちゃ期待してます！",
+      "conversation_id": "2026493593427624305",
+      "lang": "ja",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 4,
+        "like_count": 89,
+        "quote_count": 2,
+        "bookmark_count": 23,
+        "impression_count": 21690
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026493593427624305"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "beauty_oe"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026498900404981933",
+      "created_at": "2026-02-25T03:26:03.000Z",
+      "text": "@beauty_oe 本当にあなたのおかげ、ありがとう！引用してくれたから、初めての投稿がバズったよ。",
+      "conversation_id": "2026493593427624305",
+      "lang": "ja",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 13,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2160
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026498432148582715"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "beauty_oe"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026499255045861767",
+      "created_at": "2026-02-25T03:27:27.000Z",
+      "text": "@LandoInvests Thanks for the kind words! \n\nI think you flatter me too much, a lot of it is definitely due to luck with timing",
+      "conversation_id": "2026342824698843234",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 46,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 3998
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026342824698843234"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "LandoInvests"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026500698364588169",
+      "created_at": "2026-02-25T03:33:11.000Z",
+      "text": "I feel like as my account grows, I have my own hate poster community now.\n\nMarkets are the final arbiter, which makes it funny to see posts like these age like milk.\n\n$AXTI is now up triple digits since I first posted about it (and another 50% this week)\n\nI do think most of my https://t.co/gB1MQ2ilyv",
+      "conversation_id": "2026500698364588169",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 17,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 3183
+      },
+      "referenced_tweets": [],
+      "entities": {
+        "cashtags": [
+          "AXTI"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026500698364588169/photo/1",
+          "https://x.com/aleabitoreddit/status/2026500698364588169/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026500828606116348",
+      "created_at": "2026-02-25T03:33:42.000Z",
+      "text": "I feel like as my account grows, I have my own dedicated hate poster fanclub now.\n\nMarkets are the final arbiter, which makes it funny to these things age like milk.\n\n$AXTI is now up triple digits since I first posted about it (and another 50% this week)\n\nI do think most of my https://t.co/r4cMdCqZvW",
+      "conversation_id": "2026500828606116348",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 10,
+        "reply_count": 68,
+        "like_count": 678,
+        "quote_count": 1,
+        "bookmark_count": 82,
+        "impression_count": 63470
+      },
+      "referenced_tweets": [],
+      "entities": {
+        "cashtags": [
+          "AXTI"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026500828606116348/photo/1",
+          "https://x.com/aleabitoreddit/status/2026500828606116348/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026503397780992346",
+      "created_at": "2026-02-25T03:43:55.000Z",
+      "text": "@theincomewheel Thanks! It’s mainly X but I did get a fair share of stuff on Reddit too. Still remember $AXTI was $12-$13 after the 20% drop, I made a comment about it and got a lot of negative reactions.\n\nIt’s basically tripled since then, so it does feel good when markets vindicate my thesis https://t.co/QaJ5OAYPxf",
+      "conversation_id": "2026500828606116348",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 21,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 2495
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026500936319795431"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AXTI"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "theincomewheel"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026503397780992346/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026504134774632491",
+      "created_at": "2026-02-25T03:46:51.000Z",
+      "text": "@Vcondry84 Congrats on the triple digit return for $EWY! \n\nI do think short term volatility was more accurate compared to long term so that was mainly my directional thesis on memory rather than volatility expansion. But glad I got the latter part right in such a short timeframe",
+      "conversation_id": "2026500828606116348",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 15,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 2371
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026501645866049699"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "EWY"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "Vcondry84"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026505768925864251",
+      "created_at": "2026-02-25T03:53:20.000Z",
+      "text": "@crypgreen123 Yeah no way to win unfortunately, even if I do try and help. \n\nI post my stuff for free so maybe that just invites the most public debate and insults?\n\nCompared to people who do it behind substacks or paywalls (nothing against these models).\n\nIt’s funny reading posts like this https://t.co/DICmNDa54p",
+      "conversation_id": "2026500828606116348",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 6,
+        "like_count": 27,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2729
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026501208337535196"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "crypgreen123"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026505768925864251/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026506654951551187",
+      "created_at": "2026-02-25T03:56:51.000Z",
+      "text": "@arsenalfccg This was the only question you’ve asked me… https://t.co/quNDDtN563",
+      "conversation_id": "2026500828606116348",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 20,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1626
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026501018427785704"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "arsenalfccg"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026506654951551187/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026508309386387784",
+      "created_at": "2026-02-25T04:03:26.000Z",
+      "text": "@platochi The thing is I’m just sharing my own ideas and hoping it helps others… for free.\n\nMy hope is that the conviction I build myself (and the thought process) on photonic supply chains or different bottlenecks is something others can learn from.\n\nSo people can build their own",
+      "conversation_id": "2026500828606116348",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 5,
+        "like_count": 41,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1812
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026503736604934573"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "platochi"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026511301682569619",
+      "created_at": "2026-02-25T04:15:19.000Z",
+      "text": "@MrHase0 Congrats on 67% YTD! \n\nYeah $SNDK and $AXTI have been hard outperforming the market both up over 100%+ in the last two months.\n\nI think the recent Citron shorts to Sandisk will just add fuel to the rally. https://t.co/s15nu19khI",
+      "conversation_id": "2026500828606116348",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 23,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2197
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026509794077716827"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "SNDK",
+          "AXTI"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "MrHase0"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026511301682569619/photo/1",
+          "https://x.com/aleabitoreddit/status/2026511301682569619/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026512506374795595",
+      "created_at": "2026-02-25T04:20:06.000Z",
+      "text": "@k_a_y_b_e_e_ $AVAV and Oil like $CVX are hedges for war. If US and Iran end up fighting (can be anytime as seen with the sudden invasion of Venezulea) those two sectors would likely go up.\n\nIf they don’t, then other sectors would likely outperform and defense might underperform.\n\nThis is a",
+      "conversation_id": "2026500828606116348",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 18,
+        "quote_count": 0,
+        "bookmark_count": 4,
+        "impression_count": 3644
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026501564689727885"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AVAV",
+          "CVX"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "k_a_y_b_e_e_"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026522160727310650",
+      "created_at": "2026-02-25T04:58:28.000Z",
+      "text": "@charleswangb it’s fun reading a third party analysis about my trading style, thanks for the write up",
+      "conversation_id": "2026500828606116348",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 6,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1044
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026515806700568810"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "charleswangb"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026522651431415903",
+      "created_at": "2026-02-25T05:00:25.000Z",
+      "text": "@SL2056 Yeah $AXTI moves 20% a day which is why I say it’s really important to build conviction yourself before you enter a trade + size positions correctly.\n\nIf you can stomach the volatility, I think AXT is a great bottleneck play for the AI buildout with photonics",
+      "conversation_id": "2026500828606116348",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 8,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1336
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026522235264184485"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AXTI"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "SL2056"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026523547607380342",
+      "created_at": "2026-02-25T05:03:59.000Z",
+      "text": "@Clyfe1 Mostly portfolio margin with shares (on any major drop). But usually keep leverage around 1.3-1.4x. \n\nI do options if the IV is extremely low like on indexes or if there’s an arbitrage play.",
+      "conversation_id": "2026341976942195152",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 10,
+        "quote_count": 0,
+        "bookmark_count": 7,
+        "impression_count": 11023
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026355708606951623"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "Clyfe1"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026524142007365675",
+      "created_at": "2026-02-25T05:06:21.000Z",
+      "text": "@marcuswerther I still feel like $VLN is undervalued just because assets make up majority of MC. It’s like ~$110M vs $158M and you’re basically buying a fabless semi for $48m?\n\nBut markets heavily discount Israeli companies for some reason like $ETOR. Even after Etoro earnings it barely",
+      "conversation_id": "2026500828606116348",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 4,
+        "like_count": 17,
+        "quote_count": 0,
+        "bookmark_count": 5,
+        "impression_count": 1971
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026522951768481804"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "VLN",
+          "ETOR"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "marcuswerther"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026529571990839302",
+      "created_at": "2026-02-25T05:27:55.000Z",
+      "text": "My mind is blown on Samsung and Sk Hynix projections - $EWY?\n\nMacquarie projects Samsung Electronics to make: \n\nFY2026: ~$210.8 billion USD (+73% increase from prior KRW 172.1 trillion)\nFY2027: ~$333.7 billion USD (+82% from KRW 260.1 trillion)\n\nSk Hynix:\n\nFY2026: ~$190.5 billion https://t.co/61be2LVZIn",
+      "conversation_id": "2026529571990839302",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 79,
+        "reply_count": 36,
+        "like_count": 846,
+        "quote_count": 16,
+        "bookmark_count": 407,
+        "impression_count": 282220
+      },
+      "referenced_tweets": [],
+      "entities": {
+        "cashtags": [
+          "EWY"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026529571990839302/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026532965988409850",
+      "created_at": "2026-02-25T05:41:24.000Z",
+      "text": "@elicapitalgroup Morgan Stanley's projections here seem a bit more grounded on Sk Hynix/Samsung. \n\nMS vs. Macquarie on Samsung\n2026: ~$182.0B USD vs.  ~$210.8B USD \n2027: ~$235.1B USD vs.  ~$333.7B USD\n\nSK Hynix:\n~$132.9B USD vs. ~$190.5B USD\n~$167.0B USD vs. ~$312.8B USD (wow)\n\nMacquarie is https://t.co/m9Zd9f6p5p",
+      "conversation_id": "2026529571990839302",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 3,
+        "like_count": 44,
+        "quote_count": 2,
+        "bookmark_count": 20,
+        "impression_count": 7371
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026530327301394589"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "elicapitalgroup"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026532965988409850/photo/1",
+          "https://x.com/aleabitoreddit/status/2026532965988409850/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026533083835740249",
+      "created_at": "2026-02-25T05:41:53.000Z",
+      "text": "@SavaSavvich https://t.co/UtyMdrXnpq",
+      "conversation_id": "2026529571990839302",
+      "lang": "qme",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 61,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 4649
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026530064578531422"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "SavaSavvich"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026533083835740249/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026534475044393328",
+      "created_at": "2026-02-25T05:47:24.000Z",
+      "text": "@k_a_y_b_e_e_ @elicapitalgroup If you go long calls, it’s manly benefiting from price appreciation on leverage rather than volatility expansion since the volatility part is more priced in now (still think it benefits though)  \n\nTypically things at 45% IV don’t move up and down 5% a day. https://t.co/DSJU4JrqzJ",
+      "conversation_id": "2026529571990839302",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 3,
+        "like_count": 12,
+        "quote_count": 0,
+        "bookmark_count": 4,
+        "impression_count": 1554
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026533580118306850"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "k_a_y_b_e_e_",
+          "elicapitalgroup"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026534475044393328/photo/1",
+          "https://x.com/aleabitoreddit/status/2026534475044393328/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026536274241401156",
+      "created_at": "2026-02-25T05:54:33.000Z",
+      "text": "@ChenPaul Energy/Power/Grid sector will be a massive theme in 2026 onward as inference/training require GW scale DCs.\n\n$BE is a large beneficary and likely at the center of it. I personally ended up going with the $XLU sector as a whole rather than picking individual names (mainly because",
+      "conversation_id": "2026341976942195152",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 5,
+        "like_count": 44,
+        "quote_count": 0,
+        "bookmark_count": 20,
+        "impression_count": 7059
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026532613868126637"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "BE",
+          "XLU"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "ChenPaul"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026547815384756399",
+      "created_at": "2026-02-25T06:40:25.000Z",
+      "text": "@DrPaulyDeSantis Operating profits, but I should have labeled at the beginning too.\n\nAppreciate your enthusiasm https://t.co/ZHFuKoNfqE",
+      "conversation_id": "2026529571990839302",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 18,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 3613
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026544922216857701"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "DrPaulyDeSantis"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026547815384756399/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026565774857613477",
+      "created_at": "2026-02-25T07:51:47.000Z",
+      "text": "Last year I shared my 1 year return: \n\n630.44% before I even joined X.\n\nLot of conspiracy theorists out there.\n\nBut I do happen to be a decent discretionary trader. \n\nLarge part of it was \n\n&gt; front-running halving\n&gt; buying $RKLB in the 10’s\n&gt; buying $HOOD in the 10’s\n&gt; catalyst https://t.co/S0HHzrqvEV https://t.co/zz9oRKTHCT",
+      "conversation_id": "2026565774857613477",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 42,
+        "reply_count": 86,
+        "like_count": 1021,
+        "quote_count": 5,
+        "bookmark_count": 334,
+        "impression_count": 167403
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "2026341976942195152"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "RKLB",
+          "HOOD"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026565774857613477/photo/1",
+          "https://twitter.com/aleabitoreddit/status/2026341976942195152"
+        ]
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026594433207259237",
+      "created_at": "2026-02-25T09:45:39.000Z",
+      "text": "@DonkeyCapital69 Lot of my copper longs last year like $CRDO and $ALAB ended up becoming pure play photonics/cpo positions this year.\n\nI swing trade them and think they’re still great longs but stocks like $CRDO lose that de-facto leadership status that gives them premiums as you see with $LITE",
+      "conversation_id": "2026565774857613477",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 4,
+        "like_count": 25,
+        "quote_count": 0,
+        "bookmark_count": 6,
+        "impression_count": 6554
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026566391776600432"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "CRDO",
+          "ALAB",
+          "CRDO",
+          "LITE"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "DonkeyCapital69"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026595168179404907",
+      "created_at": "2026-02-25T09:48:35.000Z",
+      "text": "@YieldKrakers If you wait for actual earnings most of the times you’re a little late. \n\nAll the signals are from derivatives like 7n indium nonstandard prices on SMM for $AXTI, finding alpha in news, or correlated earnings from other companies.",
+      "conversation_id": "2026565774857613477",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 22,
+        "quote_count": 0,
+        "bookmark_count": 15,
+        "impression_count": 3038
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026567753411203148"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AXTI"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "YieldKrakers"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026597625408139705",
+      "created_at": "2026-02-25T09:58:20.000Z",
+      "text": "@Alex84Crypto $NBIS major ramp up to $8B ARR is q4 earnings so maybe Feb of next year? Still one of my favorite longs but right now is just silent buildout phase. \n\nShould see acceleration toward end of this year and past midterms. \n\nI think in recent history post-midterm, 100% of the time",
+      "conversation_id": "2026565774857613477",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 35,
+        "quote_count": 0,
+        "bookmark_count": 9,
+        "impression_count": 3590
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026596986003325058"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "NBIS"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "Alex84Crypto"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026600808561914311",
+      "created_at": "2026-02-25T10:10:59.000Z",
+      "text": "@ekszentrik Wow 102% is insane, congrats!",
+      "conversation_id": "2026600606622728528",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 74,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 9989
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026600606622728528"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "ekszentrik"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026626382504272279",
+      "created_at": "2026-02-25T11:52:37.000Z",
+      "text": "Was the first to talk about $AXTI in relation to photonics BOM/supply chains. \n\nNow it's up 300%+ or so since the bottom 2M ago. \n\n$IQE is very interesting too as one of the only Western suppliers. \n\nBasically if you look at photonics flow on $GOOGL TPU, kinda looks like this: https://t.co/ob94gSJv52",
+      "conversation_id": "2026626382504272279",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 13,
+        "reply_count": 28,
+        "like_count": 145,
+        "quote_count": 3,
+        "bookmark_count": 102,
+        "impression_count": 18763
+      },
+      "referenced_tweets": [],
+      "entities": {
+        "cashtags": [
+          "AXTI",
+          "IQE",
+          "GOOGL"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026626382504272279/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026627698165166145",
+      "created_at": "2026-02-25T11:57:50.000Z",
+      "text": "@Lostvoyageur $IQE is on LSE.   \n\nIt's basically a bet that they sell their Taiwan operations to get out of debt. Then their epiwafer foundry hard carries valuation (which I think it will as long as they figure out finances).  \n\nRisk is future excessive dilution. \n\nBut either way it's https://t.co/gzchGkbm6r",
+      "conversation_id": "2026626382504272279",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 26,
+        "quote_count": 0,
+        "bookmark_count": 6,
+        "impression_count": 7037
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026626952723927166"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "IQE"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "Lostvoyageur"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026627698165166145/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026634230344933400",
+      "created_at": "2026-02-25T12:23:48.000Z",
+      "text": "@tme5s Yes, just wanted to add a disclaimer: this is an extremely oversimplified mapping of the likely supply chain. \n\n$COHR, Eoptolink, or Fabrinet are likely too. Alongside JX/Sumitomo/AXTI on the inp side. Maybe Vital if you go one level higher upstream. \n\n$GOOGL definitely uses many",
+      "conversation_id": "2026626382504272279",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 9,
+        "quote_count": 0,
+        "bookmark_count": 3,
+        "impression_count": 1437
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026628604658913321"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "COHR",
+          "GOOGL"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "tme5s"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026638711941902461",
+      "created_at": "2026-02-25T12:41:36.000Z",
+      "text": "Was the first to talk about $AXTI in relation to photonics BOM/supply chains:\n\n$IQE is very interesting too as one of the only Western suppliers. \n\nBasically if you look at photonics flow on $GOOGL TPU/hyperscaler ASICs kinda looks like this (very likely, but undisclosed): https://t.co/551UViJErr",
+      "conversation_id": "2026638711941902461",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 86,
+        "reply_count": 45,
+        "like_count": 789,
+        "quote_count": 12,
+        "bookmark_count": 763,
+        "impression_count": 488571
+      },
+      "referenced_tweets": [],
+      "entities": {
+        "cashtags": [
+          "AXTI",
+          "IQE",
+          "GOOGL"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026638711941902461/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026639505453887846",
+      "created_at": "2026-02-25T12:44:45.000Z",
+      "text": "@Cheva28789724 $AXTI is $1.9B, around 300% return from the bottom of the day when I posted! https://t.co/yIIUyXHxKd",
+      "conversation_id": "2026638711941902461",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 19,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 3736
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026639240457535803"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AXTI"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "Cheva28789724"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026639505453887846/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026646245868196079",
+      "created_at": "2026-02-25T13:11:32.000Z",
+      "text": "@AtlasShrug1 Yeah they have other segments too, but I personally would only care about photonics for AI DC usage for $IQE. https://t.co/Rvt8RjzTD8",
+      "conversation_id": "2026638711941902461",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 9,
+        "quote_count": 0,
+        "bookmark_count": 4,
+        "impression_count": 5712
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026644944782242282"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "IQE"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "AtlasShrug1"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026646245868196079/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026647347237966298",
+      "created_at": "2026-02-25T13:15:55.000Z",
+      "text": "@ravietweet Not exactly! I'm just a tad more familiar with photonic supply chains than I am with energy so I like picking potential winners.\n\nJust wanted to introduce $IQE into the equation like i did with $AXTI, so I could do a \"Did you Listen Anon?\" post 3 months later if it turns out https://t.co/yGoVCwTr9p",
+      "conversation_id": "2026638711941902461",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 23,
+        "quote_count": 0,
+        "bookmark_count": 5,
+        "impression_count": 5625
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026639477356069142"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "IQE",
+          "AXTI"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "ravietweet"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026647347237966298/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026650013447954904",
+      "created_at": "2026-02-25T13:26:31.000Z",
+      "text": "@Huyster11 I’ve made a few hundred % on $AXTI so I’m doing fine!\n\nJust wanted to talk about $IQE which is a known $LITE supplier. And $AXTI is a known $IQE supplier.\n\nEveryone’s buying up the photonic trade tied with Google capex but feels like markets might have missed one or two names",
+      "conversation_id": "2026638711941902461",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 20,
+        "quote_count": 0,
+        "bookmark_count": 6,
+        "impression_count": 3203
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026644995508261174"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AXTI",
+          "IQE",
+          "LITE",
+          "AXTI",
+          "IQE"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "Huyster11"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026656439658582472",
+      "created_at": "2026-02-25T13:52:03.000Z",
+      "text": "@hareng_rouge Yes landmark is an amazing name! Basically like $IQE for InP epiwafer for 800/1.6t transcievers but without the balance sheet drag.\n\nLandmark's a $3.75B MC company while $IQE is a $135m company but IQE Is significantly larger production capacity (not as pure play though)\n\nSo just",
+      "conversation_id": "2026638711941902461",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 2,
+        "like_count": 15,
+        "quote_count": 1,
+        "bookmark_count": 7,
+        "impression_count": 4866
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026654216471613675"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "IQE",
+          "IQE"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "hareng_rouge"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026663975145164937",
+      "created_at": "2026-02-25T14:21:59.000Z",
+      "text": "-&gt; $LITE is a known $GOOGL supplier. \n\n-&gt; $IQE is a known $LITE supplier. \n\n-&gt; $AXTI is a known $IQE supplier. \n\nGoogle TPU + Hyperscaler ASIC BOM are extremely confidential. \n\nBut you can kinda guess from relationship mapping even though nobody will say $AXTI or $IQE supplies to https://t.co/eZafObkMlx https://t.co/DtQmKLhNYn",
+      "conversation_id": "2026663975145164937",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 102,
+        "reply_count": 43,
+        "like_count": 1123,
+        "quote_count": 6,
+        "bookmark_count": 876,
+        "impression_count": 161393
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "2026638711941902461"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "LITE",
+          "GOOGL",
+          "IQE",
+          "LITE",
+          "AXTI",
+          "IQE",
+          "AXTI",
+          "IQE"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026663975145164937/photo/1",
+          "https://twitter.com/aleabitoreddit/status/2026638711941902461"
+        ]
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026665421076836611",
+      "created_at": "2026-02-25T14:27:44.000Z",
+      "text": "@Crawfordbro11 No way to 100% know if it's correct or not. \n\nIt would probably just show up as a increase in revenue in the earnings for $AXTI or $IQE in the future without a company like Google or Microsoft saying \"we use x supplier\" https://t.co/HCsGhaPbqJ",
+      "conversation_id": "2026663975145164937",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 12,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 5709
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026664354834268209"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AXTI",
+          "IQE"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "Crawfordbro11"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026665421076836611/photo/1",
+          "https://x.com/aleabitoreddit/status/2026665421076836611/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026665785855557975",
+      "created_at": "2026-02-25T14:29:11.000Z",
+      "text": "@SharestepAI bill of materials (meaning components, suppliers, cost breakdown) of the custom chips (ASICs) a hyperscaler (google, amazon, microsoft, meta) makes.",
+      "conversation_id": "2026663975145164937",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 17,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 3230
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026665565784305832"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "SharestepAI"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026670930966229323",
+      "created_at": "2026-02-25T14:49:38.000Z",
+      "text": "This aged well. \n\nEvery photonics name I’ve done a thesis post on from $LITE to $AXTI has doubled or increased a few hundred percent. https://t.co/uOKGPFpJha",
+      "conversation_id": "2026670930966229323",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 18,
+        "reply_count": 58,
+        "like_count": 644,
+        "quote_count": 2,
+        "bookmark_count": 114,
+        "impression_count": 56022
+      },
+      "referenced_tweets": [],
+      "entities": {
+        "cashtags": [
+          "LITE",
+          "AXTI"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026670930966229323/photo/1",
+          "https://x.com/aleabitoreddit/status/2026670930966229323/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026675978869874722",
+      "created_at": "2026-02-25T15:09:41.000Z",
+      "text": "@yomattyboi Maybe $IQE at these levels as a $LITE supplier at a $150M MC.\n\nTheir closest friend over in Taiwan landmark optoelectronics was rerated to $3.85B (IQE has more capacity but debt, and legacy segments dragging it down).\n\nIf they sell their Taiwan segment (legacy) then use that to",
+      "conversation_id": "2026670930966229323",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 3,
+        "like_count": 38,
+        "quote_count": 0,
+        "bookmark_count": 25,
+        "impression_count": 5105
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026671211527245989"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "IQE",
+          "LITE"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "yomattyboi"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026678235594109358",
+      "created_at": "2026-02-25T15:18:39.000Z",
+      "text": "@martijnde_boer $ALMU and $POET feel more like science projects while $AXTI, $IQE, $LITE and others are all actively used in hyperscaler supply chains. \n\n$POET has a better chance given they’re well funded and have backdoors via Celestial.",
+      "conversation_id": "2026670930966229323",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 3,
+        "like_count": 64,
+        "quote_count": 2,
+        "bookmark_count": 27,
+        "impression_count": 12947
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026677821494440411"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "ALMU",
+          "POET",
+          "AXTI",
+          "IQE",
+          "LITE",
+          "POET"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "martijnde_boer"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026678612817227826",
+      "created_at": "2026-02-25T15:20:09.000Z",
+      "text": "@sslickith Yeah I forgot about my second best friend $COHR. Unfortunately didn’t do a thesis post distinctly on that name so I can’t brag.",
+      "conversation_id": "2026670930966229323",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 8,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 1982
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026676627011150130"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "COHR"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "sslickith"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026679668414493065",
+      "created_at": "2026-02-25T15:24:21.000Z",
+      "text": "@JohnPenisini Yep I went through it. Looks deeply discounted.\n\nTotal assets $134m, MC is $154m, $76m guidance off 60% margins, -$29.7m liabilities.\n\nIdk why markets dislike Israeli companies like $ETOR or $VLN",
+      "conversation_id": "2026670930966229323",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 10,
+        "quote_count": 0,
+        "bookmark_count": 3,
+        "impression_count": 2598
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026671855919067585"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "ETOR",
+          "VLN"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "JohnPenisini"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026679839865082114",
+      "created_at": "2026-02-25T15:25:02.000Z",
+      "text": "@BowtiedPandaBr Why do I need a substack when I can post on X for free?",
+      "conversation_id": "2026670930966229323",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 57,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2285
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026678643502756083"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "BowtiedPandaBr"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026683292679024811",
+      "created_at": "2026-02-25T15:38:45.000Z",
+      "text": "I love going back in history to see how well the comment section ages.\n\n$CRCL up 20% today. https://t.co/E47K80CRG4 https://t.co/MIkrlmUkH6",
+      "conversation_id": "2026683292679024811",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 25,
+        "reply_count": 52,
+        "like_count": 608,
+        "quote_count": 0,
+        "bookmark_count": 77,
+        "impression_count": 100944
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "2018724759262085467"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "CRCL"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026683292679024811/photo/1",
+          "https://twitter.com/aleabitoreddit/status/2018724759262085467"
+        ]
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026685584190898595",
+      "created_at": "2026-02-25T15:47:51.000Z",
+      "text": "@yianisz Yep, that’s a good analysis! $AXTI is basically a duopoly in two different bottlenecks (upstream feedstock processing and InP substrates).\n\n$IQE is really critical but most people don’t really do the mapping to $LITE to other hyperscalers.\n\nIt’s probably the largest western",
+      "conversation_id": "2026638711941902461",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 32,
+        "quote_count": 0,
+        "bookmark_count": 10,
+        "impression_count": 6971
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026684647652888843"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AXTI",
+          "IQE",
+          "LITE"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "yianisz"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026686065537610034",
+      "created_at": "2026-02-25T15:49:46.000Z",
+      "text": "@Cheva28789724 I don’t think there was a single positive comment on $AXTI on my original Reddit post lol! Half of them called it a scam.\n\nHope they enjoy seeing it go up 3x 2 months later",
+      "conversation_id": "2026683292679024811",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 24,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2631
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026685871022579937"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AXTI"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "Cheva28789724"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026688361692553602",
+      "created_at": "2026-02-25T15:58:54.000Z",
+      "text": "@c_hadjikyriacou Yeah I’m up 310% on my $AXTI position in 2 months lol. https://t.co/wm237iEqHT",
+      "conversation_id": "2026638711941902461",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 11,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 3993
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026639675079774328"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AXTI"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "c_hadjikyriacou"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026688361692553602/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026689989871022120",
+      "created_at": "2026-02-25T16:05:22.000Z",
+      "text": "@yianisz Great writeup! Was a fun read. Agreed on the point $IQE is largely undiscovered.",
+      "conversation_id": "2026638711941902461",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 9,
+        "quote_count": 0,
+        "bookmark_count": 3,
+        "impression_count": 4707
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026686362661863727"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "IQE"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "yianisz"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026702628802158761",
+      "created_at": "2026-02-25T16:55:35.000Z",
+      "text": "@boogienator2988 Photonics probably extreme bottleneck next two years like memory. Markets are just frontrunning now. https://t.co/IpjQ3bKP3D",
+      "conversation_id": "2026663975145164937",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 19,
+        "quote_count": 0,
+        "bookmark_count": 4,
+        "impression_count": 1916
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026686535802749237"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "boogienator2988"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026702628802158761/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026713998281027594",
+      "created_at": "2026-02-25T17:40:46.000Z",
+      "text": "Don’t think people realize how big this move on one of the \n\nSlowest. Moving. Sectors.\n\nIn the world is.\n\n2.56% in a week on $XLU.\n\nEspecially if IV is 14%.\n\nAll time return since year 2000 is 79.73% for the boring power/grid sector (not including dividends).\n\nOption values are https://t.co/LkBse64sud https://t.co/M9DB8hAa8H",
+      "conversation_id": "2026713998281027594",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 36,
+        "reply_count": 67,
+        "like_count": 689,
+        "quote_count": 2,
+        "bookmark_count": 465,
+        "impression_count": 150021
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "2025220219602706881"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "XLU"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026713998281027594/photo/1",
+          "https://x.com/aleabitoreddit/status/2026713998281027594/photo/1",
+          "https://twitter.com/aleabitoreddit/status/2025220219602706881"
+        ]
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026715701357264914",
+      "created_at": "2026-02-25T17:47:32.000Z",
+      "text": "@bennybigbull Yeah probably stay away from overpriced IV. \n\nMMs probably just don’t want be the counterparty on $XLU OTM since you can leverage 72x notational or so, so they’re raising premiums a lot.",
+      "conversation_id": "2026713998281027594",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 3,
+        "like_count": 16,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 4489
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026715016494199184"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "XLU"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "bennybigbull"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026716218758205704",
+      "created_at": "2026-02-25T17:49:35.000Z",
+      "text": "@tradesidious Sorry I didn’t account for my follower tradesidious having Siri read my posts out loud for alerts. \n\nShould have been my priority, my bad.",
+      "conversation_id": "2026713998281027594",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 30,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 3703
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026714307174740320"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "tradesidious"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026721711560024475",
+      "created_at": "2026-02-25T18:11:25.000Z",
+      "text": "@christianoboria It’s in the London Stock Exchange, not US but $IQE https://t.co/d9XmdIuUUC",
+      "conversation_id": "2026663975145164937",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 5,
+        "like_count": 22,
+        "quote_count": 0,
+        "bookmark_count": 4,
+        "impression_count": 8683
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026721313876807888"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "IQE"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "christianoboria"
+        ],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026721711560024475/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026755002514157818",
+      "created_at": "2026-02-25T20:23:42.000Z",
+      "text": "$AXTI has now reached the Moon if you listened anon? \n\nMarkets are scrambling to get exposure to photonics supply chains following $GOOGL record capex numbers.\n\nIf you ask an AI: “Is AXT or IQE part of Google TPU supply chains”:\n\n- It will say no due to obscured multi-hop https://t.co/WlLiMEMTyw https://t.co/nm5cMhxz01",
+      "conversation_id": "2026755002514157818",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 45,
+        "reply_count": 86,
+        "like_count": 786,
+        "quote_count": 4,
+        "bookmark_count": 360,
+        "impression_count": 151317
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "2004569946492453003"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AXTI",
+          "GOOGL"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026755002514157818/photo/1",
+          "https://twitter.com/aleabitoreddit/status/2004569946492453003"
+        ]
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026757232344576080",
+      "created_at": "2026-02-25T20:32:34.000Z",
+      "text": "@SingularityRes LOL, I still can’t believe my returns beat the 3x leveraged ETF of a stock going green every day.",
+      "conversation_id": "2026757017701068993",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 6,
+        "like_count": 149,
+        "quote_count": 0,
+        "bookmark_count": 5,
+        "impression_count": 11506
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026757017701068993"
+        }
+      ],
+      "entities": {
+        "cashtags": [],
+        "hashtags": [],
+        "mentions": [
+          "SingularityRes"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026757468261593570",
+      "created_at": "2026-02-25T20:33:30.000Z",
+      "text": "@demarscrypto Thank you demarscrypto, let me know if you change your mind on $AXTI so I know when to sell.",
+      "conversation_id": "2026755002514157818",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 4,
+        "like_count": 53,
+        "quote_count": 0,
+        "bookmark_count": 3,
+        "impression_count": 4507
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026755890880094407"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "AXTI"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "demarscrypto"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026757923016487005",
+      "created_at": "2026-02-25T20:35:18.000Z",
+      "text": "@Racetoamilly IMO $ALMU and quantum dot is prob a few years out. Probably better to look at existing bottlenecks used in hyperscaler supply chains",
+      "conversation_id": "2026755002514157818",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 18,
+        "quote_count": 0,
+        "bookmark_count": 6,
+        "impression_count": 6059
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026756714746532136"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "ALMU"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "Racetoamilly"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026771308860813478",
+      "created_at": "2026-02-25T21:28:30.000Z",
+      "text": "@beauty_oe $IQE は時価総額1億5,000万ドルの注目銘柄で,  $LITE （ルメンタム）や",
+      "conversation_id": "2026770333026635931",
+      "lang": "ja",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 5,
+        "like_count": 80,
+        "quote_count": 1,
+        "bookmark_count": 31,
+        "impression_count": 20393
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026770333026635931"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "IQE",
+          "LITE"
+        ],
+        "hashtags": [],
+        "mentions": [
+          "beauty_oe"
+        ],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026772377636581700",
+      "created_at": "2026-02-25T21:32:45.000Z",
+      "text": "@CigCapital I did mention $IQE which could be a potential banger or dilution disaster. \n\nSeems like a binary event here but they were pretty critical to Western supply chains and $LITE.",
+      "conversation_id": "2026755002514157818",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 30,
+        "quote_count": 0,
+        "bookmark_count": 7,
+        "impression_count": 5072
+      },
+      "referenced_tweets": [
+        {
+          "type": "replied_to",
+          "id": "2026755514600919340"
+        }
+      ],
+      "entities": {
+        "cashtags": [
+          "IQE",
+          "LITE"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": []
+      },
+      "bucket_date": "2026-02-25"
+    },
+    {
+      "id": "2026794830416982339",
+      "created_at": "2026-02-25T23:01:58.000Z",
+      "text": "It's really amazing that there's people out there with $8.3M gains on $NVDA. \n\nTheir initial investment: ~$200K. \n\nMarkets can easily change lives and mint new millionaires if you choose the right winner. https://t.co/0HL93Fd6NJ",
+      "conversation_id": "2026794830416982339",
+      "lang": "en",
+      "author_id": "1940360837547565056",
+      "public_metrics": {
+        "retweet_count": 56,
+        "reply_count": 92,
+        "like_count": 1837,
+        "quote_count": 5,
+        "bookmark_count": 192,
+        "impression_count": 167011
+      },
+      "referenced_tweets": [],
+      "entities": {
+        "cashtags": [
+          "NVDA"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://x.com/aleabitoreddit/status/2026794830416982339/photo/1"
+        ]
+      },
+      "bucket_date": "2026-02-25"
+    }
+  ]
+}

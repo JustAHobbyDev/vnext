@@ -10,7 +10,7 @@ Purpose:
 
 Primary inputs:
 
-- `aleabitoreddit-daily-archive-v1.json` (referenced by the source doc but not found in the mirrored upstream repo snapshot)
+- [aleabitoreddit-daily-archive-v1.json](/home/d/codex/vnext/research/analysis/aleabitoreddit-daily-archive-v1.json)
 - [extract_x_expression_context.py](/home/d/codex/vnext/scripts/extract_x_expression_context.py)
 - local derived context file: `research/analysis/aleabitoreddit-expression-context-cohr-poet-sive-v1.json`
 - prior archaeology notes:
