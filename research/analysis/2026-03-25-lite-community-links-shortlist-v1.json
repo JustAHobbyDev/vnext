@@ -1,0 +1,83 @@
+{
+  "schema_version": "v1",
+  "generated_at": "2026-03-25T20:17:08.046516+00:00",
+  "source_artifact": "research/analysis/2026-03-25-lite-community-leads-v1.json",
+  "purpose": "Actionable community entry-point shortlist derived from the Grok LITE source sweep.",
+  "links": [
+    {
+      "platform": "discord",
+      "destination_url": "https://discord.com/invite/GZ3Xc87eub",
+      "confidence": "high",
+      "sighting_count": 3,
+      "source_accounts": [
+        "Signal_Trader09",
+        "Toby_Garvan"
+      ],
+      "source_post_urls": [
+        "https://x.com/Signal_Trader09/status/1984307335821750494",
+        "https://x.com/Toby_Garvan/status/1984301045946687780",
+        "https://x.com/Signal_Trader09/status/2027300185077150044"
+      ]
+    },
+    {
+      "platform": "discord",
+      "destination_url": "https://discord.com/invite/vU3rnrCBhg",
+      "confidence": "high",
+      "sighting_count": 1,
+      "source_accounts": [
+        "ProTrader111"
+      ],
+      "source_post_urls": [
+        "https://x.com/ProTrader111/status/2035185522906472721"
+      ]
+    },
+    {
+      "platform": "discord",
+      "destination_url": "https://discord.com/invite/jjbT64yGmJ",
+      "confidence": "high",
+      "sighting_count": 1,
+      "source_accounts": [
+        "Signal_Trader09"
+      ],
+      "source_post_urls": [
+        "https://x.com/Signal_Trader09/status/2029264974561067135"
+      ]
+    },
+    {
+      "platform": "discord",
+      "destination_url": "https://discord.com/invite/ZduUQqZXyD",
+      "confidence": "high",
+      "sighting_count": 1,
+      "source_accounts": [
+        "MehmetK39182552"
+      ],
+      "source_post_urls": [
+        "https://x.com/MehmetK39182552/status/1928837510781616392"
+      ]
+    },
+    {
+      "platform": "discord",
+      "destination_url": "https://discord.com/invite/3KN5mquQMv",
+      "confidence": "high",
+      "sighting_count": 1,
+      "source_accounts": [
+        "stocket_rocket"
+      ],
+      "source_post_urls": [
+        "https://x.com/stocket_rocket/status/2021632374027542945"
+      ]
+    },
+    {
+      "platform": "whatsapp",
+      "destination_url": "https://api.whatsapp.com/send/?phone=16232124300",
+      "confidence": "high",
+      "sighting_count": 1,
+      "source_accounts": [
+        "RexCarroll82"
+      ],
+      "source_post_urls": [
+        "https://x.com/RexCarroll82/status/2017716015862583678"
+      ]
+    }
+  ]
+}

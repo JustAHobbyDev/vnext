@@ -1,0 +1,960 @@
+{
+  "schema_version": "v1",
+  "generated_at": "2026-03-25T11:30:12.118248+00:00",
+  "source_candidates": "research/analysis/aleabitoreddit-clue-candidates-v1.json",
+  "summary": {
+    "queue_size": 30,
+    "theme_counts": {
+      "photonics": 28,
+      "memory": 2
+    },
+    "evidence_mode_counts": {
+      "manual_evidence_search": 30
+    },
+    "priority_counts": {
+      "high": 30
+    }
+  },
+  "queue": [
+    {
+      "queue_id": "grounding-queue-2003083807273152736",
+      "candidate_id": "archive-clue-2003083807273152736",
+      "post_id": "2003083807273152736",
+      "created_at": "2025-12-22T12:42:49.000Z",
+      "theme": "photonics",
+      "theme_priority": 3,
+      "queue_score": 18,
+      "heuristic_score": 10,
+      "review_priority": "high",
+      "recommended_evidence_mode": "manual_evidence_search",
+      "queue_reason": [
+        "photonics-like relational post",
+        "contains dependency language",
+        "contains bottleneck language"
+      ],
+      "clue_types": [
+        "multi_entity_signal",
+        "conversation_signal",
+        "dependency_signal",
+        "bottleneck_signal",
+        "relationship_signal"
+      ],
+      "cashtags": [
+        "LITE",
+        "COHR"
+      ],
+      "mentioned_users": [
+        "Kaizen_Investor"
+      ],
+      "external_urls": [],
+      "text_excerpt": "@Kaizen_Investor $LITE is in the goldilocks moment where every single GOOGL TPU + hyperscaler ASIC + NVDA blackwell depends on it. Right now they're supply constrained from demand (similar to Micron). From what I understand, photonics right now is a duopoly ( $COHR and Lite). However, for"
+    },
+    {
+      "queue_id": "grounding-queue-1949825690960023810",
+      "candidate_id": "archive-clue-1949825690960023810",
+      "post_id": "1949825690960023810",
+      "created_at": "2025-07-28T13:34:05.000Z",
+      "theme": "photonics",
+      "theme_priority": 3,
+      "queue_score": 17,
+      "heuristic_score": 10,
+      "review_priority": "high",
+      "recommended_evidence_mode": "manual_evidence_search",
+      "queue_reason": [
+        "photonics-like relational post",
+        "contains dependency language",
+        "contains bottleneck language"
+      ],
+      "clue_types": [
+        "multi_entity_signal",
+        "conversation_signal",
+        "dependency_signal",
+        "bottleneck_signal",
+        "specificity_signal"
+      ],
+      "cashtags": [
+        "ALAB",
+        "GOOGL",
+        "MSFT",
+        "NVDA",
+        "META",
+        "AMZN"
+      ],
+      "mentioned_users": [],
+      "external_urls": [],
+      "text_excerpt": "The reason why $ALAB is taking off is because Astera is the only small cap company in existence with systemic exposure to 5 of the Mag7. 1. ALAB's customer base is literally Mag 7: $GOOGL, $MSFT, $NVDA, $META, and $AMZN. 2. They're growing at astounding rates ~150%+ y/y, https://t.co/yJRZrPnfhE https://t.co/6mPlrt2NNR"
+    },
+    {
+      "queue_id": "grounding-queue-2032944164439208062",
+      "candidate_id": "archive-clue-2032944164439208062",
+      "post_id": "2032944164439208062",
+      "created_at": "2026-03-14T22:17:13.000Z",
+      "theme": "photonics",
+      "theme_priority": 3,
+      "queue_score": 16,
+      "heuristic_score": 9,
+      "review_priority": "high",
+      "recommended_evidence_mode": "manual_evidence_search",
+      "queue_reason": [
+        "photonics-like relational post",
+        "contains dependency language",
+        "contains bottleneck language"
+      ],
+      "clue_types": [
+        "multi_entity_signal",
+        "conversation_signal",
+        "dependency_signal",
+        "bottleneck_signal"
+      ],
+      "cashtags": [
+        "IQE",
+        "IREN",
+        "LITE"
+      ],
+      "mentioned_users": [
+        "MarketsOnSpaces"
+      ],
+      "external_urls": [],
+      "text_excerpt": "@MarketsOnSpaces $IQE is my $IREN equivalent for photonics. They have the reactors and capacity. And they\u2019re not some unknown company as they\u2019re a known $LITE supplier. They just need to completely restructure away from legacy drag, restructure debt from Taiwan asset sales, and pivot to"
+    },
+    {
+      "queue_id": "grounding-queue-2029223044208832707",
+      "candidate_id": "archive-clue-2029223044208832707",
+      "post_id": "2029223044208832707",
+      "created_at": "2026-03-04T15:50:49.000Z",
+      "theme": "photonics",
+      "theme_priority": 3,
+      "queue_score": 16,
+      "heuristic_score": 9,
+      "review_priority": "high",
+      "recommended_evidence_mode": "manual_evidence_search",
+      "queue_reason": [
+        "photonics-like relational post",
+        "contains dependency language",
+        "contains bottleneck language"
+      ],
+      "clue_types": [
+        "multi_entity_signal",
+        "conversation_signal",
+        "dependency_signal",
+        "bottleneck_signal"
+      ],
+      "cashtags": [
+        "AAOI",
+        "GME",
+        "POET"
+      ],
+      "mentioned_users": [
+        "pablocuellar_3"
+      ],
+      "external_urls": [],
+      "text_excerpt": "@pablocuellar_3 If 3 hyperscalers say they will buy any transceivers you can possibly ever make. It's not really a demand problem with $AAOI, just how much they can capacity they can buildout. $250m is pennies considering it's used for that reason (and not just hoarding like $GME or $POET)."
+    },
+    {
+      "queue_id": "grounding-queue-2026675978869874722",
+      "candidate_id": "archive-clue-2026675978869874722",
+      "post_id": "2026675978869874722",
+      "created_at": "2026-02-25T15:09:41.000Z",
+      "theme": "photonics",
+      "theme_priority": 3,
+      "queue_score": 16,
+      "heuristic_score": 9,
+      "review_priority": "high",
+      "recommended_evidence_mode": "manual_evidence_search",
+      "queue_reason": [
+        "photonics-like relational post",
+        "contains dependency language",
+        "contains bottleneck language"
+      ],
+      "clue_types": [
+        "multi_entity_signal",
+        "conversation_signal",
+        "dependency_signal",
+        "bottleneck_signal",
+        "specificity_signal"
+      ],
+      "cashtags": [
+        "IQE",
+        "LITE"
+      ],
+      "mentioned_users": [
+        "yomattyboi"
+      ],
+      "external_urls": [],
+      "text_excerpt": "@yomattyboi Maybe $IQE at these levels as a $LITE supplier at a $150M MC. Their closest friend over in Taiwan landmark optoelectronics was rerated to $3.85B (IQE has more capacity but debt, and legacy segments dragging it down). If they sell their Taiwan segment (legacy) then use that to"
+    },
+    {
+      "queue_id": "grounding-queue-2014500318827168215",
+      "candidate_id": "archive-clue-2014500318827168215",
+      "post_id": "2014500318827168215",
+      "created_at": "2026-01-23T00:47:58.000Z",
+      "theme": "photonics",
+      "theme_priority": 3,
+      "queue_score": 16,
+      "heuristic_score": 9,
+      "review_priority": "high",
+      "recommended_evidence_mode": "manual_evidence_search",
+      "queue_reason": [
+        "photonics-like relational post",
+        "contains dependency language",
+        "contains bottleneck language"
+      ],
+      "clue_types": [
+        "multi_entity_signal",
+        "conversation_signal",
+        "dependency_signal",
+        "bottleneck_signal"
+      ],
+      "cashtags": [
+        "AXTI"
+      ],
+      "mentioned_users": [
+        "PhotonCap",
+        "jukan05"
+      ],
+      "external_urls": [],
+      "text_excerpt": "@PhotonCap @jukan05 If the moonshot (which is massive price hikes on InP like HBM) fails, then $AXTI increases revenue from capacity expansion from Northland's $100m raise and it becomes re-rated anyway. There's two separate bottlenecks, one is all the precursors and feedstock (which $AXTI /"
+    },
+    {
+      "queue_id": "grounding-queue-2012964500702642525",
+      "candidate_id": "archive-clue-2012964500702642525",
+      "post_id": "2012964500702642525",
+      "created_at": "2026-01-18T19:05:10.000Z",
+      "theme": "photonics",
+      "theme_priority": 3,
+      "queue_score": 16,
+      "heuristic_score": 9,
+      "review_priority": "high",
+      "recommended_evidence_mode": "manual_evidence_search",
+      "queue_reason": [
+        "photonics-like relational post",
+        "contains dependency language",
+        "contains bottleneck language"
+      ],
+      "clue_types": [
+        "multi_entity_signal",
+        "conversation_signal",
+        "dependency_signal",
+        "bottleneck_signal",
+        "specificity_signal"
+      ],
+      "cashtags": [
+        "FEIM",
+        "LMT"
+      ],
+      "mentioned_users": [
+        "RKLBMan"
+      ],
+      "external_urls": [],
+      "text_excerpt": "@RKLBMan I'm sure you would like $FEIM given its space exposure. It's already up 241% this year so I'm sure markets have slowly started to realize the bottleneck They're heavily used for Nasa, $LMT. And my guess was SpaceX's Starshield for atomic clocks and time if GPS is"
+    },
+    {
+      "queue_id": "grounding-queue-2011725997096518098",
+      "candidate_id": "archive-clue-2011725997096518098",
+      "post_id": "2011725997096518098",
+      "created_at": "2026-01-15T09:03:48.000Z",
+      "theme": "photonics",
+      "theme_priority": 3,
+      "queue_score": 16,
+      "heuristic_score": 9,
+      "review_priority": "high",
+      "recommended_evidence_mode": "manual_evidence_search",
+      "queue_reason": [
+        "photonics-like relational post",
+        "contains dependency language",
+        "contains bottleneck language"
+      ],
+      "clue_types": [
+        "multi_entity_signal",
+        "conversation_signal",
+        "dependency_signal",
+        "bottleneck_signal"
+      ],
+      "cashtags": [
+        "LPTH",
+        "KRKNF"
+      ],
+      "mentioned_users": [
+        "Kowalski_Mark_",
+        "pennycheck"
+      ],
+      "external_urls": [],
+      "text_excerpt": "@Kowalski_Mark_ @pennycheck Appreciate the source on Andruil being a customer of $LPTH. It\u2019s interesting ppl buy $KRKNF for single customer exposure in Andruil at $2b+. But you have a pure play contractor that involves majority of US defense contractors and addresses the China bottleneck at $700m"
+    },
+    {
+      "queue_id": "grounding-queue-2009423554547487107",
+      "candidate_id": "archive-clue-2009423554547487107",
+      "post_id": "2009423554547487107",
+      "created_at": "2026-01-09T00:34:43.000Z",
+      "theme": "photonics",
+      "theme_priority": 3,
+      "queue_score": 16,
+      "heuristic_score": 9,
+      "review_priority": "high",
+      "recommended_evidence_mode": "manual_evidence_search",
+      "queue_reason": [
+        "photonics-like relational post",
+        "contains dependency language",
+        "contains bottleneck language"
+      ],
+      "clue_types": [
+        "multi_entity_signal",
+        "conversation_signal",
+        "dependency_signal",
+        "bottleneck_signal"
+      ],
+      "cashtags": [
+        "AXTI"
+      ],
+      "mentioned_users": [
+        "MRWahdy",
+        "beauty_oe"
+      ],
+      "external_urls": [],
+      "text_excerpt": "@MRWahdy @beauty_oe $AXTI secured $100m from Northland for capex expansion, deferred FCF from $5m of contracted revenue from 2024 or early 2025 does not make a material difference. Stock runup was multifaceted: -&gt; Recognition that InP substrates would bottleneck the AI industry deployment with"
+    },
+    {
+      "queue_id": "grounding-queue-2011333482144731617",
+      "candidate_id": "archive-clue-2011333482144731617",
+      "post_id": "2011333482144731617",
+      "created_at": "2026-01-14T07:04:05.000Z",
+      "theme": "photonics",
+      "theme_priority": 3,
+      "queue_score": 15,
+      "heuristic_score": 9,
+      "review_priority": "high",
+      "recommended_evidence_mode": "manual_evidence_search",
+      "queue_reason": [
+        "photonics-like relational post",
+        "contains dependency language"
+      ],
+      "clue_types": [
+        "multi_entity_signal",
+        "conversation_signal",
+        "dependency_signal",
+        "relationship_signal",
+        "specificity_signal"
+      ],
+      "cashtags": [
+        "UMAC",
+        "AIRO",
+        "AVAV",
+        "RCAT",
+        "POET",
+        "MRVL"
+      ],
+      "mentioned_users": [
+        "grigory_azaryan"
+      ],
+      "external_urls": [],
+      "text_excerpt": "@grigory_azaryan Great choice. $UMAC is a great long. I ended up going with $AIRO when I looked into it earlier but it\u2019s rare you have a $520m mc manufacturer that has - $133m cash, no debt - 40% gross margins - growing 55%+ y/y As a supplier to $AVAV through $RCAT. Similar to $POET $MRVL"
+    },
+    {
+      "queue_id": "grounding-queue-2027834543341015477",
+      "candidate_id": "archive-clue-2027834543341015477",
+      "post_id": "2027834543341015477",
+      "created_at": "2026-02-28T19:53:25.000Z",
+      "theme": "photonics",
+      "theme_priority": 3,
+      "queue_score": 15,
+      "heuristic_score": 8,
+      "review_priority": "high",
+      "recommended_evidence_mode": "manual_evidence_search",
+      "queue_reason": [
+        "photonics-like relational post",
+        "contains dependency language",
+        "contains bottleneck language"
+      ],
+      "clue_types": [
+        "multi_entity_signal",
+        "conversation_signal",
+        "dependency_signal",
+        "bottleneck_signal"
+      ],
+      "cashtags": [
+        "IQE",
+        "LITE"
+      ],
+      "mentioned_users": [
+        "Mellokhai"
+      ],
+      "external_urls": [],
+      "text_excerpt": "@Mellokhai $IQE is inherently dangerous because of debt. I'm just saying they're sitting on a gold mine of capacity as a known $LITE supplier and large contributor to the hyperscaler photonics supply chain. If they do manage to restructure by selling off their Taiwan business wouldn't"
+    },
+    {
+      "queue_id": "grounding-queue-2009399797271417276",
+      "candidate_id": "archive-clue-2009399797271417276",
+      "post_id": "2009399797271417276",
+      "created_at": "2026-01-08T23:00:19.000Z",
+      "theme": "photonics",
+      "theme_priority": 3,
+      "queue_score": 15,
+      "heuristic_score": 8,
+      "review_priority": "high",
+      "recommended_evidence_mode": "manual_evidence_search",
+      "queue_reason": [
+        "photonics-like relational post",
+        "contains dependency language",
+        "contains bottleneck language"
+      ],
+      "clue_types": [
+        "multi_entity_signal",
+        "conversation_signal",
+        "dependency_signal",
+        "bottleneck_signal"
+      ],
+      "cashtags": [
+        "AXTI"
+      ],
+      "mentioned_users": [
+        "itsdsha"
+      ],
+      "external_urls": [],
+      "text_excerpt": "@itsdsha It\u2019s been a solid 13 days since posting about the substrate bottleneck happening now. I\u2019m seeing something different with SMM prices and increased future pricing power with $AXTI, but people are free to sell if they want to react to deferred revenue from contracts made in 2024. https://t.co/Sxuw0B3rez"
+    },
+    {
+      "queue_id": "grounding-queue-2004572018327572855",
+      "candidate_id": "archive-clue-2004572018327572855",
+      "post_id": "2004572018327572855",
+      "created_at": "2025-12-26T15:16:26.000Z",
+      "theme": "photonics",
+      "theme_priority": 3,
+      "queue_score": 15,
+      "heuristic_score": 8,
+      "review_priority": "high",
+      "recommended_evidence_mode": "manual_evidence_search",
+      "queue_reason": [
+        "photonics-like relational post",
+        "contains dependency language",
+        "contains bottleneck language"
+      ],
+      "clue_types": [
+        "multi_entity_signal",
+        "conversation_signal",
+        "dependency_signal",
+        "bottleneck_signal"
+      ],
+      "cashtags": [
+        "MU"
+      ],
+      "mentioned_users": [
+        "HyperAICapital"
+      ],
+      "external_urls": [],
+      "text_excerpt": "@HyperAICapital HBM was a critical bottleneck in 2025 and we've seen that with $MU and SK Hynix. Just researching components used for future hyperscaler ASIC deployments, the whole industry is moving to photonics. If we go to the bottom of that supply chain it's just two companies for INP"
+    },
+    {
+      "queue_id": "grounding-queue-2034341704388796588",
+      "candidate_id": "archive-clue-2034341704388796588",
+      "post_id": "2034341704388796588",
+      "created_at": "2026-03-18T18:50:33.000Z",
+      "theme": "photonics",
+      "theme_priority": 3,
+      "queue_score": 14,
+      "heuristic_score": 8,
+      "review_priority": "high",
+      "recommended_evidence_mode": "manual_evidence_search",
+      "queue_reason": [
+        "photonics-like relational post",
+        "contains bottleneck language"
+      ],
+      "clue_types": [
+        "multi_entity_signal",
+        "conversation_signal",
+        "bottleneck_signal",
+        "relationship_signal",
+        "specificity_signal"
+      ],
+      "cashtags": [
+        "LITE"
+      ],
+      "mentioned_users": [
+        "tweet_tj"
+      ],
+      "external_urls": [],
+      "text_excerpt": "@tweet_tj I mean $LITE went from $17 to $709? Every companies gotta start somewhere. Just the trajectory, definitely not $50B MC by next year. However, they're positioned well as the upstream laser bottleneck for the next architectural shift, similar to what $LITE is in current EML"
+    },
+    {
+      "queue_id": "grounding-queue-2034095067586326982",
+      "candidate_id": "archive-clue-2034095067586326982",
+      "post_id": "2034095067586326982",
+      "created_at": "2026-03-18T02:30:30.000Z",
+      "theme": "photonics",
+      "theme_priority": 3,
+      "queue_score": 14,
+      "heuristic_score": 7,
+      "review_priority": "high",
+      "recommended_evidence_mode": "manual_evidence_search",
+      "queue_reason": [
+        "photonics-like relational post",
+        "contains dependency language",
+        "contains bottleneck language"
+      ],
+      "clue_types": [
+        "dependency_signal",
+        "bottleneck_signal",
+        "specificity_signal"
+      ],
+      "cashtags": [
+        "AAOI"
+      ],
+      "mentioned_users": [],
+      "external_urls": [],
+      "text_excerpt": "$AAOI looks very undervalued at $6.49B. If we model ASP and their newest capacity projections today: Revenue from Capacity: Q2 2026: ~$312.1M Q4 2026: ~$1.41B Q2-2027: ~$1.53B Q4-2027: ~$1.97B This is absurd ramp (off ~34-40% est. gross margins). ASP modeled off https://t.co/351g7Csz9J"
+    },
+    {
+      "queue_id": "grounding-queue-2009407689349341557",
+      "candidate_id": "archive-clue-2009407689349341557",
+      "post_id": "2009407689349341557",
+      "created_at": "2026-01-08T23:31:40.000Z",
+      "theme": "photonics",
+      "theme_priority": 3,
+      "queue_score": 14,
+      "heuristic_score": 7,
+      "review_priority": "high",
+      "recommended_evidence_mode": "manual_evidence_search",
+      "queue_reason": [
+        "photonics-like relational post",
+        "contains dependency language",
+        "contains bottleneck language"
+      ],
+      "clue_types": [
+        "conversation_signal",
+        "dependency_signal",
+        "bottleneck_signal"
+      ],
+      "cashtags": [
+        "AXTI"
+      ],
+      "mentioned_users": [],
+      "external_urls": [],
+      "text_excerpt": "$AXTI TLDR: people are overreacting to contracted revenue from over a year ago being deferred by a quarter. There was no forward revenue guidance reported here. I care more about the real-time substrate bottleneck and increasing InP prices than 2024 contracted revenue. https://t.co/8M2WmLiCV1"
+    },
+    {
+      "queue_id": "grounding-queue-1996964360087031854",
+      "candidate_id": "archive-clue-1996964360087031854",
+      "post_id": "1996964360087031854",
+      "created_at": "2025-12-05T15:26:19.000Z",
+      "theme": "memory",
+      "theme_priority": 2,
+      "queue_score": 14,
+      "heuristic_score": 8,
+      "review_priority": "high",
+      "recommended_evidence_mode": "manual_evidence_search",
+      "queue_reason": [
+        "memory-like relational post",
+        "contains dependency language",
+        "contains bottleneck language"
+      ],
+      "clue_types": [
+        "multi_entity_signal",
+        "conversation_signal",
+        "dependency_signal",
+        "bottleneck_signal"
+      ],
+      "cashtags": [
+        "ASML",
+        "TSM"
+      ],
+      "mentioned_users": [
+        "TacticzH"
+      ],
+      "external_urls": [],
+      "text_excerpt": "@TacticzH I didn't include $ASML since they track fab cycles rather than the whole AI capex trade which $TSM or Samsung Electronics does (foundry + memory + misc) But it's a good long term compounder as the sole EUV supplier vs. chasing the most direct beneficaries of the next"
+    },
+    {
+      "queue_id": "grounding-queue-1975691406149910690",
+      "candidate_id": "archive-clue-1975691406149910690",
+      "post_id": "1975691406149910690",
+      "created_at": "2025-10-07T22:35:12.000Z",
+      "theme": "photonics",
+      "theme_priority": 3,
+      "queue_score": 13,
+      "heuristic_score": 8,
+      "review_priority": "high",
+      "recommended_evidence_mode": "manual_evidence_search",
+      "queue_reason": [
+        "photonics-like relational post",
+        "contains bottleneck language"
+      ],
+      "clue_types": [
+        "multi_entity_signal",
+        "conversation_signal",
+        "bottleneck_signal",
+        "specificity_signal"
+      ],
+      "cashtags": [
+        "NBIS",
+        "CIFR",
+        "IREN",
+        "WYFI"
+      ],
+      "mentioned_users": [
+        "DeepValueBagger",
+        "__visionxry__"
+      ],
+      "external_urls": [],
+      "text_excerpt": "@DeepValueBagger @__visionxry__ Makes sense, top three favorites for me were $NBIS, $CIFR being Nebius-lite in terms of Mag7 + funding, and then $IREN just for the GW capacity + future mag7 deals. I just thought I'd add some more down the Neocloud line like $WYFI."
+    },
+    {
+      "queue_id": "grounding-queue-2030973822514712627",
+      "candidate_id": "archive-clue-2030973822514712627",
+      "post_id": "2030973822514712627",
+      "created_at": "2026-03-09T11:47:47.000Z",
+      "theme": "photonics",
+      "theme_priority": 3,
+      "queue_score": 13,
+      "heuristic_score": 6,
+      "review_priority": "high",
+      "recommended_evidence_mode": "manual_evidence_search",
+      "queue_reason": [
+        "photonics-like relational post",
+        "contains dependency language",
+        "contains bottleneck language"
+      ],
+      "clue_types": [
+        "dependency_signal",
+        "bottleneck_signal"
+      ],
+      "cashtags": [
+        "AAOI"
+      ],
+      "mentioned_users": [],
+      "external_urls": [],
+      "text_excerpt": "$AAOI Receives First $200M Volume Order of 1.6T Data Center Transceivers from Major Hyperscale Customer\u201d \u201cWe expect that we will soon have the largest production capacity for 800G and 1.6T transceivers in the U.S\u201d This is gradual confirmation of $378m/month revenue from their https://t.co/hmfg9ma3aE"
+    },
+    {
+      "queue_id": "grounding-queue-2030973698019373384",
+      "candidate_id": "archive-clue-2030973698019373384",
+      "post_id": "2030973698019373384",
+      "created_at": "2026-03-09T11:47:17.000Z",
+      "theme": "photonics",
+      "theme_priority": 3,
+      "queue_score": 13,
+      "heuristic_score": 6,
+      "review_priority": "high",
+      "recommended_evidence_mode": "manual_evidence_search",
+      "queue_reason": [
+        "photonics-like relational post",
+        "contains dependency language",
+        "contains bottleneck language"
+      ],
+      "clue_types": [
+        "dependency_signal",
+        "bottleneck_signal"
+      ],
+      "cashtags": [
+        "AAOI"
+      ],
+      "mentioned_users": [],
+      "external_urls": [],
+      "text_excerpt": "$AAOI Receives First Volume Order of 1.6T Data Center Transceivers from Major Hyperscale Customer\u201d \u201cWe expect that we will soon have the largest production capacity for 800G and 1.6T transceivers in the U.S\u201d This is gradual confirmation of $378m/month revenue from their https://t.co/E6zGJklX3u"
+    },
+    {
+      "queue_id": "grounding-queue-2030429110707892563",
+      "candidate_id": "archive-clue-2030429110707892563",
+      "post_id": "2030429110707892563",
+      "created_at": "2026-03-07T23:43:18.000Z",
+      "theme": "memory",
+      "theme_priority": 2,
+      "queue_score": 13,
+      "heuristic_score": 8,
+      "review_priority": "high",
+      "recommended_evidence_mode": "manual_evidence_search",
+      "queue_reason": [
+        "memory-like relational post",
+        "contains bottleneck language"
+      ],
+      "clue_types": [
+        "multi_entity_signal",
+        "conversation_signal",
+        "bottleneck_signal",
+        "relationship_signal"
+      ],
+      "cashtags": [],
+      "mentioned_users": [
+        "Chrysos079",
+        "jvthed210725"
+      ],
+      "external_urls": [],
+      "text_excerpt": "@Chrysos079 @jvthed210725 There haven't been much price hikes to my knowledge since hyperscalers were thinking 800g/1.6T are commodities + getting volume discounts earlier. But similar to memory transforming to something structural + extreme demand from hyperscalers securing capacity. Would not be"
+    },
+    {
+      "queue_id": "grounding-queue-2034584155036828052",
+      "candidate_id": "archive-clue-2034584155036828052",
+      "post_id": "2034584155036828052",
+      "created_at": "2026-03-19T10:53:57.000Z",
+      "theme": "photonics",
+      "theme_priority": 3,
+      "queue_score": 12,
+      "heuristic_score": 7,
+      "review_priority": "high",
+      "recommended_evidence_mode": "manual_evidence_search",
+      "queue_reason": [
+        "photonics-like relational post",
+        "contains dependency language"
+      ],
+      "clue_types": [
+        "multi_entity_signal",
+        "conversation_signal",
+        "dependency_signal",
+        "specificity_signal"
+      ],
+      "cashtags": [
+        "SIVE",
+        "SIVEF",
+        "MRVL",
+        "GOOGL",
+        "MSFT"
+      ],
+      "mentioned_users": [],
+      "external_urls": [],
+      "text_excerpt": "$SIVE &lt;&gt; $SIVEF is now up 165% this week. Valuation? ~$300M MC. However; either I\u2019m dumb or Sivers is one of the best opportunities in photonics today. You get the laser supplier for Jabil, Ayar, Poet ( $MRVL Celestial ), O-Net, and others: That end up in $GOOGL, $MSFT, https://t.co/NPledNKp3G https://t.co/wGdKU4ToQI"
+    },
+    {
+      "queue_id": "grounding-queue-2032476428005220449",
+      "candidate_id": "archive-clue-2032476428005220449",
+      "post_id": "2032476428005220449",
+      "created_at": "2026-03-13T15:18:36.000Z",
+      "theme": "photonics",
+      "theme_priority": 3,
+      "queue_score": 12,
+      "heuristic_score": 7,
+      "review_priority": "high",
+      "recommended_evidence_mode": "manual_evidence_search",
+      "queue_reason": [
+        "photonics-like relational post",
+        "contains bottleneck language"
+      ],
+      "clue_types": [
+        "multi_entity_signal",
+        "conversation_signal",
+        "bottleneck_signal",
+        "specificity_signal"
+      ],
+      "cashtags": [
+        "TSEM",
+        "AXTI",
+        "NVDA"
+      ],
+      "mentioned_users": [],
+      "external_urls": [],
+      "text_excerpt": "There\u2019s $TSEM, my safer photonics compounder. Then there\u2019s my race horse on steroids, with a rocket ship attached: $AXTI. My positions are up over 550%+. And AXT is up another 10.38% today. $NVDA returns got left in the dust, as identifying AXT as the InP bottleneck few https://t.co/gJx7FQR2mn https://t.co/WsnAVdx9RK"
+    },
+    {
+      "queue_id": "grounding-queue-2028524172121719168",
+      "candidate_id": "archive-clue-2028524172121719168",
+      "post_id": "2028524172121719168",
+      "created_at": "2026-03-02T17:33:45.000Z",
+      "theme": "photonics",
+      "theme_priority": 3,
+      "queue_score": 12,
+      "heuristic_score": 7,
+      "review_priority": "high",
+      "recommended_evidence_mode": "manual_evidence_search",
+      "queue_reason": [
+        "photonics-like relational post",
+        "contains bottleneck language"
+      ],
+      "clue_types": [
+        "multi_entity_signal",
+        "conversation_signal",
+        "bottleneck_signal",
+        "specificity_signal"
+      ],
+      "cashtags": [
+        "AXTI",
+        "AAOI",
+        "LITE"
+      ],
+      "mentioned_users": [
+        "Whatathingtodo1"
+      ],
+      "external_urls": [],
+      "text_excerpt": "@Whatathingtodo1 Both. Cost averaging up on $AXTI since it\u2019s the bottleneck of the entire AI industry for many years to come, even at a small $2.4B MC. $AAOI probably has a long way to go, it leapfrogged $LITE 2026 revenue + growth midyear 2027 at 1/10th the valuation. I did enter new longs"
+    },
+    {
+      "queue_id": "grounding-queue-2028466744642469898",
+      "candidate_id": "archive-clue-2028466744642469898",
+      "post_id": "2028466744642469898",
+      "created_at": "2026-03-02T13:45:33.000Z",
+      "theme": "photonics",
+      "theme_priority": 3,
+      "queue_score": 12,
+      "heuristic_score": 7,
+      "review_priority": "high",
+      "recommended_evidence_mode": "manual_evidence_search",
+      "queue_reason": [
+        "photonics-like relational post",
+        "contains dependency language"
+      ],
+      "clue_types": [
+        "multi_entity_signal",
+        "conversation_signal",
+        "dependency_signal",
+        "specificity_signal"
+      ],
+      "cashtags": [
+        "NVDA",
+        "LITE",
+        "IQE"
+      ],
+      "mentioned_users": [
+        "ryansfinance"
+      ],
+      "external_urls": [],
+      "text_excerpt": "@ryansfinance So $NVDA investing $2B into $LITE is probably the biggest beneficiary for $IQE since they're a massive $LITE supplier as their epiwafer foundry. I was wondering why IQE was up 28% today... This was probably the reason"
+    },
+    {
+      "queue_id": "grounding-queue-2020920592250368235",
+      "candidate_id": "archive-clue-2020920592250368235",
+      "post_id": "2020920592250368235",
+      "created_at": "2026-02-09T17:59:50.000Z",
+      "theme": "photonics",
+      "theme_priority": 3,
+      "queue_score": 12,
+      "heuristic_score": 7,
+      "review_priority": "high",
+      "recommended_evidence_mode": "manual_evidence_search",
+      "queue_reason": [
+        "photonics-like relational post",
+        "contains bottleneck language"
+      ],
+      "clue_types": [
+        "multi_entity_signal",
+        "conversation_signal",
+        "bottleneck_signal",
+        "specificity_signal"
+      ],
+      "cashtags": [
+        "AXTI"
+      ],
+      "mentioned_users": [
+        "platochi",
+        "soulbiri1"
+      ],
+      "external_urls": [],
+      "text_excerpt": "@platochi @soulbiri1 Thanks! Everyone was saying I was wrong when $AXTI was $13 and a small cap shtco. But it ended up close to doubling 2 months later. AXT genuinely is an upstream photonics bottleneck, lot of times they\u2019re found in small, unknown companies."
+    },
+    {
+      "queue_id": "grounding-queue-2009561002958782514",
+      "candidate_id": "archive-clue-2009561002958782514",
+      "post_id": "2009561002958782514",
+      "created_at": "2026-01-09T09:40:53.000Z",
+      "theme": "photonics",
+      "theme_priority": 3,
+      "queue_score": 12,
+      "heuristic_score": 7,
+      "review_priority": "high",
+      "recommended_evidence_mode": "manual_evidence_search",
+      "queue_reason": [
+        "photonics-like relational post",
+        "contains bottleneck language"
+      ],
+      "clue_types": [
+        "multi_entity_signal",
+        "conversation_signal",
+        "bottleneck_signal"
+      ],
+      "cashtags": [
+        "LITE",
+        "AAOI",
+        "COHR"
+      ],
+      "mentioned_users": [
+        "WitnessDecline",
+        "moninvestor"
+      ],
+      "external_urls": [],
+      "text_excerpt": "@WitnessDecline @moninvestor I don\u2019t short sell + didn\u2019t want to publish bear posts about optical companies but I sold my other photonic positions short term because Sumitomo got export controlled so by second order effect $LITE, $AAOI and others would have capacity issues downstream. $COHR is kinda the"
+    },
+    {
+      "queue_id": "grounding-queue-2033848250101616646",
+      "candidate_id": "archive-clue-2033848250101616646",
+      "post_id": "2033848250101616646",
+      "created_at": "2026-03-17T10:09:44.000Z",
+      "theme": "photonics",
+      "theme_priority": 3,
+      "queue_score": 12,
+      "heuristic_score": 6,
+      "review_priority": "high",
+      "recommended_evidence_mode": "manual_evidence_search",
+      "queue_reason": [
+        "photonics-like relational post",
+        "contains bottleneck language"
+      ],
+      "clue_types": [
+        "multi_entity_signal",
+        "bottleneck_signal",
+        "relationship_signal"
+      ],
+      "cashtags": [
+        "LITE",
+        "INTC"
+      ],
+      "mentioned_users": [],
+      "external_urls": [],
+      "text_excerpt": "Photonics is the next bottleneck after memory. If you're not convinced yet? $LITE CEO went out and said: \"We're sold out really until the end of 2027. We see no end in sight.\" This is eerily similar to $INTC CEO saying \"No Relief\" on Memory Shortage Until 2028. But https://t.co/AydIQcEhfs"
+    },
+    {
+      "queue_id": "grounding-queue-2007211984409034941",
+      "candidate_id": "archive-clue-2007211984409034941",
+      "post_id": "2007211984409034941",
+      "created_at": "2026-01-02T22:06:43.000Z",
+      "theme": "photonics",
+      "theme_priority": 3,
+      "queue_score": 12,
+      "heuristic_score": 6,
+      "review_priority": "high",
+      "recommended_evidence_mode": "manual_evidence_search",
+      "queue_reason": [
+        "photonics-like relational post",
+        "contains bottleneck language"
+      ],
+      "clue_types": [
+        "conversation_signal",
+        "bottleneck_signal",
+        "relationship_signal"
+      ],
+      "cashtags": [],
+      "mentioned_users": [
+        "Nichola30641241"
+      ],
+      "external_urls": [],
+      "text_excerpt": "@Nichola30641241 So InP was always a permit bottleneck, don't see that changing. The gallium/germanium export policy is just a proxy of the semi materials sector. So if that is fine for a year, the InP will likely continue to flow through permitting."
+    },
+    {
+      "queue_id": "grounding-queue-2034531113574736053",
+      "candidate_id": "archive-clue-2034531113574736053",
+      "post_id": "2034531113574736053",
+      "created_at": "2026-03-19T07:23:11.000Z",
+      "theme": "photonics",
+      "theme_priority": 3,
+      "queue_score": 11,
+      "heuristic_score": 6,
+      "review_priority": "high",
+      "recommended_evidence_mode": "manual_evidence_search",
+      "queue_reason": [
+        "photonics-like relational post",
+        "contains dependency language"
+      ],
+      "clue_types": [
+        "multi_entity_signal",
+        "conversation_signal",
+        "dependency_signal"
+      ],
+      "cashtags": [
+        "SIVE",
+        "SIVEF",
+        "JBL",
+        "NVDA",
+        "AMZN",
+        "GOOGL",
+        "META"
+      ],
+      "mentioned_users": [],
+      "external_urls": [],
+      "text_excerpt": "Sivers &lt; $SIVE / $SIVEF &gt; powering Jabil ($27B MC) &lt; $JBL &gt; 1.6T LRO transcivers. As the laser light source. Is by far the biggest news from $NVDA GTC for Sivers ($280M MC) today... in history. Jabil brings in about $30B+ revenue from end users like $AMZN, $GOOGL, and $META. https://t.co/f5HGpvuQka https://t.co/a1CGxBSCAh"
+    }
+  ]
+}

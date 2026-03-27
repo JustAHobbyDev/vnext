@@ -1,0 +1,147 @@
+[
+  {
+    "id": "1089938288489549905",
+    "type": 4,
+    "flags": 0,
+    "guild_id": "1089938288489549904",
+    "name": "Text Channels",
+    "parent_id": null,
+    "position": 0,
+    "permission_overwrites": []
+  },
+  {
+    "id": "1089938288489549906",
+    "type": 4,
+    "flags": 0,
+    "guild_id": "1089938288489549904",
+    "name": "Voice Channels",
+    "parent_id": null,
+    "position": 0,
+    "permission_overwrites": []
+  },
+  {
+    "id": "1089938288489549907",
+    "type": 0,
+    "last_message_id": "1486633631295209552",
+    "flags": 0,
+    "guild_id": "1089938288489549904",
+    "name": "general",
+    "parent_id": "1089938288489549905",
+    "rate_limit_per_user": 0,
+    "topic": null,
+    "position": 0,
+    "permission_overwrites": [],
+    "nsfw": false
+  },
+  {
+    "id": "1089938288959295609",
+    "type": 2,
+    "last_message_id": null,
+    "flags": 0,
+    "guild_id": "1089938288489549904",
+    "name": "General",
+    "parent_id": "1089938288489549906",
+    "rate_limit_per_user": 0,
+    "bitrate": 64000,
+    "user_limit": 0,
+    "rtc_region": null,
+    "position": 0,
+    "permission_overwrites": [],
+    "nsfw": false
+  },
+  {
+    "id": "1189398948876648509",
+    "type": 0,
+    "last_message_id": null,
+    "flags": 0,
+    "guild_id": "1089938288489549904",
+    "name": "rules",
+    "parent_id": null,
+    "rate_limit_per_user": 0,
+    "topic": null,
+    "position": 0,
+    "permission_overwrites": [
+      {
+        "id": "1089938288489549904",
+        "type": 0,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "id": "1189398948876648511",
+    "type": 0,
+    "last_message_id": "1250365174292942933",
+    "flags": 0,
+    "guild_id": "1089938288489549904",
+    "name": "moderator-only",
+    "parent_id": null,
+    "rate_limit_per_user": 0,
+    "topic": null,
+    "position": 0,
+    "permission_overwrites": [
+      {
+        "id": "1089938288489549904",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "id": "1189401552755114044",
+    "type": 0,
+    "last_message_id": "1486634095411859466",
+    "flags": 0,
+    "guild_id": "1089938288489549904",
+    "name": "pets",
+    "parent_id": "1089938288489549905",
+    "rate_limit_per_user": 0,
+    "topic": null,
+    "position": 2,
+    "permission_overwrites": [],
+    "nsfw": false
+  },
+  {
+    "id": "1189401870930825286",
+    "type": 15,
+    "last_message_id": null,
+    "flags": 0,
+    "guild_id": "1089938288489549904",
+    "name": "forum",
+    "parent_id": "1089938288489549905",
+    "rate_limit_per_user": 0,
+    "topic": null,
+    "position": 0,
+    "permission_overwrites": [],
+    "nsfw": false,
+    "available_tags": [],
+    "default_reaction_emoji": null,
+    "default_sort_order": null,
+    "default_forum_layout": 0,
+    "default_tag_setting": "match_some",
+    "icon_emoji": null,
+    "theme_color": null,
+    "template": ""
+  },
+  {
+    "id": "1189402088145436723",
+    "type": 13,
+    "last_message_id": null,
+    "flags": 0,
+    "guild_id": "1089938288489549904",
+    "name": "stage",
+    "parent_id": "1089938288489549905",
+    "rate_limit_per_user": 0,
+    "bitrate": 64000,
+    "user_limit": 10000,
+    "rtc_region": null,
+    "topic": null,
+    "position": 0,
+    "permission_overwrites": [],
+    "nsfw": false
+  }
+]

@@ -1,0 +1,222 @@
+{
+  "graph_id": "meta_ach_adtech_seed_v1",
+  "graph_stage": "seed_hypothesis",
+  "graph": {
+    "benchmark_id": "meta_ach_adtech_seed",
+    "seed_clue": {
+      "clue_id": "meta-ach-ad-funding-community-clue-v1",
+      "clue_type": "community_platform_monetization_clue",
+      "observed_at": "2026-03-26T00:00:00+00:00",
+      "source_class": "community_post",
+      "source_url": null,
+      "text_span": "Ticker: META. New changes are being made to META that lets most people run ads via ACH transfers and not credit cards. Negative catalyst near term, but long-term one of the strongest social media/ad plays.",
+      "theme_hint": "meta_advertiser_payments",
+      "evidence_confidence": 0.34,
+      "evidence_artifact_ids": []
+    },
+    "nodes": [
+      {
+        "node_id": "meta",
+        "node_type": "company",
+        "canonical_name": "Meta Platforms, Inc.",
+        "market_type": "equity",
+        "source_support_count": 1,
+        "is_public": true
+      },
+      {
+        "node_id": "meta_ad_platform",
+        "node_type": "platform",
+        "canonical_name": "Meta Advertising Platform",
+        "market_type": "private",
+        "source_support_count": 1,
+        "is_public": false
+      },
+      {
+        "node_id": "advertiser_onboarding",
+        "node_type": "workflow",
+        "canonical_name": "Advertiser Onboarding",
+        "market_type": "private",
+        "source_support_count": 1,
+        "is_public": false
+      },
+      {
+        "node_id": "ach_ad_funding",
+        "node_type": "payment_workflow",
+        "canonical_name": "ACH Ad Funding",
+        "market_type": "private",
+        "source_support_count": 1,
+        "is_public": false
+      },
+      {
+        "node_id": "smb_advertiser_liquidity",
+        "node_type": "economic_driver",
+        "canonical_name": "SMB Advertiser Liquidity",
+        "market_type": "private",
+        "source_support_count": 1,
+        "is_public": false
+      },
+      {
+        "node_id": "campaign_launch_frequency",
+        "node_type": "behavioral_metric",
+        "canonical_name": "Campaign Launch Frequency",
+        "market_type": "private",
+        "source_support_count": 1,
+        "is_public": false
+      },
+      {
+        "node_id": "measurement_attribution",
+        "node_type": "service_layer",
+        "canonical_name": "Measurement and Attribution",
+        "market_type": "private",
+        "source_support_count": 1,
+        "is_public": false
+      },
+      {
+        "node_id": "marketing_automation",
+        "node_type": "service_layer",
+        "canonical_name": "Marketing Automation",
+        "market_type": "private",
+        "source_support_count": 1,
+        "is_public": false
+      },
+      {
+        "node_id": "merchant_smb_software",
+        "node_type": "software_layer",
+        "canonical_name": "Merchant and SMB Software",
+        "market_type": "private",
+        "source_support_count": 1,
+        "is_public": false
+      },
+      {
+        "node_id": "payment_rails",
+        "node_type": "infrastructure_layer",
+        "canonical_name": "Payment Rails",
+        "market_type": "private",
+        "source_support_count": 1,
+        "is_public": false
+      }
+    ],
+    "edges": [
+      {
+        "edge_id": "meta-owns-ad-platform",
+        "source_node_id": "meta",
+        "target_node_id": "meta_ad_platform",
+        "edge_type": "capacity_for",
+        "evidence_artifact_ids": [],
+        "confidence": 0.95
+      },
+      {
+        "edge_id": "ad-platform-depends-on-onboarding",
+        "source_node_id": "meta_ad_platform",
+        "target_node_id": "advertiser_onboarding",
+        "edge_type": "depends_on",
+        "evidence_artifact_ids": [],
+        "confidence": 0.81
+      },
+      {
+        "edge_id": "onboarding-enabled-by-ach-funding",
+        "source_node_id": "advertiser_onboarding",
+        "target_node_id": "ach_ad_funding",
+        "edge_type": "depends_on",
+        "evidence_artifact_ids": [],
+        "confidence": 0.42
+      },
+      {
+        "edge_id": "ach-funding-improves-smb-liquidity",
+        "source_node_id": "ach_ad_funding",
+        "target_node_id": "smb_advertiser_liquidity",
+        "edge_type": "capacity_for",
+        "evidence_artifact_ids": [],
+        "confidence": 0.37
+      },
+      {
+        "edge_id": "smb-liquidity-increases-campaign-frequency",
+        "source_node_id": "smb_advertiser_liquidity",
+        "target_node_id": "campaign_launch_frequency",
+        "edge_type": "capacity_for",
+        "evidence_artifact_ids": [],
+        "confidence": 0.34
+      },
+      {
+        "edge_id": "campaign-frequency-drives-meta-ad-platform",
+        "source_node_id": "campaign_launch_frequency",
+        "target_node_id": "meta_ad_platform",
+        "edge_type": "capacity_for",
+        "evidence_artifact_ids": [],
+        "confidence": 0.52
+      },
+      {
+        "edge_id": "meta-ad-platform-requires-measurement",
+        "source_node_id": "meta_ad_platform",
+        "target_node_id": "measurement_attribution",
+        "edge_type": "depends_on",
+        "evidence_artifact_ids": [],
+        "confidence": 0.67
+      },
+      {
+        "edge_id": "meta-ad-platform-integrates-marketing-automation",
+        "source_node_id": "meta_ad_platform",
+        "target_node_id": "marketing_automation",
+        "edge_type": "partner_of",
+        "evidence_artifact_ids": [],
+        "confidence": 0.64
+      },
+      {
+        "edge_id": "merchant-software-feeds-campaign-frequency",
+        "source_node_id": "merchant_smb_software",
+        "target_node_id": "campaign_launch_frequency",
+        "edge_type": "capacity_for",
+        "evidence_artifact_ids": [],
+        "confidence": 0.48
+      },
+      {
+        "edge_id": "payment-rails-enable-ach-funding",
+        "source_node_id": "payment_rails",
+        "target_node_id": "ach_ad_funding",
+        "edge_type": "depends_on",
+        "evidence_artifact_ids": [],
+        "confidence": 0.58
+      }
+    ]
+  },
+  "candidate_classes": [
+    {
+      "candidate_class": "payment_infrastructure",
+      "why_it_might_benefit": "If ACH-based advertiser funding expands participation or lowers friction, payment infrastructure adjacent to the workflow may see higher usage.",
+      "evidence_needed": [
+        "Proof that Meta supports or is expanding ACH-based ad funding",
+        "Evidence of named payment workflow dependencies or partners"
+      ]
+    },
+    {
+      "candidate_class": "marketing_automation",
+      "why_it_might_benefit": "If easier funding increases campaign velocity, automation vendors tied to SMB ad activation may benefit.",
+      "evidence_needed": [
+        "Proof that advertiser onboarding is a bottleneck",
+        "Evidence of Meta-linked automation workflows"
+      ]
+    },
+    {
+      "candidate_class": "measurement_attribution",
+      "why_it_might_benefit": "Higher campaign activity can increase demand for measurement and attribution tooling.",
+      "evidence_needed": [
+        "Proof that campaign volume or experimentation rises",
+        "Evidence of vendor exposure to Meta ad workflows"
+      ]
+    },
+    {
+      "candidate_class": "merchant_smb_software",
+      "why_it_might_benefit": "Merchant tools that route users into Meta campaign creation or budget workflows may benefit if ad funding becomes easier.",
+      "evidence_needed": [
+        "Proof of software workflow integration with Meta ads",
+        "Evidence of dependence on SMB ad spend growth"
+      ]
+    }
+  ],
+  "open_questions": [
+    "Is the ACH-based ad funding claim real, broad, and material?",
+    "Is the immediate market impact negative because of payment transition friction, collections risk, or something else?",
+    "Which named vendors or software layers actually participate in the advertiser funding and campaign activation workflow?",
+    "Does this graph produce a non-obvious public beneficiary, or does value accrue mostly to Meta itself?"
+  ]
+}

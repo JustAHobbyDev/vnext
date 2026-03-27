@@ -1,0 +1,226 @@
+{
+  "graph_id": "archive_photonics_grounded_v1",
+  "graph": {
+    "benchmark_id": "archive_photonics_grounded",
+    "seed_clue": {
+      "clue_id": "archive-clue-2003083807273152736",
+      "clue_type": "archive_relationship_clue",
+      "observed_at": "2025-12-22T12:42:49+00:00",
+      "source_class": "x_post_archive",
+      "source_url": "https://x.com/aleabitoreddit/status/2003083807273152736",
+      "text_span": "@Kaizen_Investor $LITE is in the goldilocks moment where every single GOOGL TPU + hyperscaler ASIC + NVDA blackwell depends on it. Right now they're supply constrained from demand (similar to Micron). From what I understand, photonics right now is a duopoly ( $COHR and Lite). However, for",
+      "theme_hint": "photonics",
+      "evidence_confidence": 0.8,
+      "evidence_artifact_ids": [
+        "grounded-pack-lite-cohr-ai-photonics-v1"
+      ]
+    },
+    "nodes": [
+      {
+        "node_id": "lumentum",
+        "node_type": "company",
+        "canonical_name": "Lumentum Holdings Inc.",
+        "market_type": "equity",
+        "source_support_count": 3,
+        "is_public": true
+      },
+      {
+        "node_id": "coherent",
+        "node_type": "company",
+        "canonical_name": "Coherent Corp.",
+        "market_type": "equity",
+        "source_support_count": 3,
+        "is_public": true
+      },
+      {
+        "node_id": "axt",
+        "node_type": "company",
+        "canonical_name": "AXT, Inc.",
+        "market_type": "equity",
+        "source_support_count": 4,
+        "is_public": true
+      },
+      {
+        "node_id": "iqe",
+        "node_type": "company",
+        "canonical_name": "IQE plc",
+        "market_type": "equity",
+        "source_support_count": 2,
+        "is_public": true
+      },
+      {
+        "node_id": "aoi",
+        "node_type": "company",
+        "canonical_name": "Applied Optoelectronics, Inc.",
+        "market_type": "equity",
+        "source_support_count": 2,
+        "is_public": true
+      },
+      {
+        "node_id": "ai_data_center_photonics",
+        "node_type": "theme",
+        "canonical_name": "AI Data Center Photonics",
+        "market_type": "private",
+        "source_support_count": 4,
+        "is_public": false
+      },
+      {
+        "node_id": "indium_phosphide",
+        "node_type": "material",
+        "canonical_name": "Indium Phosphide",
+        "market_type": "private",
+        "source_support_count": 2,
+        "is_public": false
+      }
+    ],
+    "edges": [
+      {
+        "edge_id": "lumentum-capacity-ai-photonics",
+        "source_node_id": "lumentum",
+        "target_node_id": "ai_data_center_photonics",
+        "edge_type": "capacity_for",
+        "evidence_artifact_ids": [
+          "grounded-pack-lite-cohr-ai-photonics-v1"
+        ],
+        "confidence": 0.82
+      },
+      {
+        "edge_id": "coherent-capacity-ai-photonics",
+        "source_node_id": "coherent",
+        "target_node_id": "ai_data_center_photonics",
+        "edge_type": "capacity_for",
+        "evidence_artifact_ids": [
+          "grounded-pack-lite-cohr-ai-photonics-v1"
+        ],
+        "confidence": 0.79
+      },
+      {
+        "edge_id": "aoi-capacity-ai-photonics",
+        "source_node_id": "aoi",
+        "target_node_id": "ai_data_center_photonics",
+        "edge_type": "capacity_for",
+        "evidence_artifact_ids": [
+          "grounded-pack-aaoi-ai-transceiver-capacity-v1"
+        ],
+        "confidence": 0.74
+      },
+      {
+        "edge_id": "indium-phosphide-bottleneck-ai-photonics",
+        "source_node_id": "indium_phosphide",
+        "target_node_id": "ai_data_center_photonics",
+        "edge_type": "bottleneck_to",
+        "evidence_artifact_ids": [
+          "grounded-pack-axti-inp-ai-interconnect-v1"
+        ],
+        "confidence": 0.85
+      },
+      {
+        "edge_id": "axt-proxy-indium-phosphide",
+        "source_node_id": "axt",
+        "target_node_id": "indium_phosphide",
+        "edge_type": "proxy_for",
+        "evidence_artifact_ids": [
+          "grounded-pack-axti-inp-ai-interconnect-v1"
+        ],
+        "confidence": 0.82
+      },
+      {
+        "edge_id": "axt-supplier-lumentum",
+        "source_node_id": "axt",
+        "target_node_id": "lumentum",
+        "edge_type": "supplier_of",
+        "evidence_artifact_ids": [
+          "grounded-pack-axti-inp-ai-interconnect-v1",
+          "grounded-pack-lite-cohr-ai-photonics-v1"
+        ],
+        "confidence": 0.73
+      },
+      {
+        "edge_id": "axt-supplier-coherent",
+        "source_node_id": "axt",
+        "target_node_id": "coherent",
+        "edge_type": "supplier_of",
+        "evidence_artifact_ids": [
+          "grounded-pack-axti-inp-ai-interconnect-v1",
+          "grounded-pack-lite-cohr-ai-photonics-v1"
+        ],
+        "confidence": 0.71
+      },
+      {
+        "edge_id": "iqe-supplier-lumentum",
+        "source_node_id": "iqe",
+        "target_node_id": "lumentum",
+        "edge_type": "supplier_of",
+        "evidence_artifact_ids": [
+          "grounded-pack-iqe-lumentum-supplier-v1"
+        ],
+        "confidence": 0.86
+      }
+    ]
+  },
+  "scores": [
+    {
+      "node_id": "axt",
+      "constraint_score": 0.96,
+      "sensitivity_score": 0.913,
+      "neglect_score": 0.33,
+      "expression_score": 0.92,
+      "composite_score": 0.783,
+      "score_notes": "outgoing=3 leverage_edges=3 dependency_edges=0 public=True"
+    },
+    {
+      "node_id": "iqe",
+      "constraint_score": 0.44,
+      "sensitivity_score": 0.529,
+      "neglect_score": 0.69,
+      "expression_score": 0.92,
+      "composite_score": 0.621,
+      "score_notes": "outgoing=1 leverage_edges=1 dependency_edges=0 public=True"
+    },
+    {
+      "node_id": "aoi",
+      "constraint_score": 0.44,
+      "sensitivity_score": 0.511,
+      "neglect_score": 0.69,
+      "expression_score": 0.92,
+      "composite_score": 0.616,
+      "score_notes": "outgoing=1 leverage_edges=1 dependency_edges=0 public=True"
+    },
+    {
+      "node_id": "lumentum",
+      "constraint_score": 0.44,
+      "sensitivity_score": 0.523,
+      "neglect_score": 0.51,
+      "expression_score": 0.96,
+      "composite_score": 0.582,
+      "score_notes": "outgoing=1 leverage_edges=1 dependency_edges=0 public=True"
+    },
+    {
+      "node_id": "coherent",
+      "constraint_score": 0.44,
+      "sensitivity_score": 0.518,
+      "neglect_score": 0.51,
+      "expression_score": 0.956,
+      "composite_score": 0.58,
+      "score_notes": "outgoing=1 leverage_edges=1 dependency_edges=0 public=True"
+    },
+    {
+      "node_id": "indium_phosphide",
+      "constraint_score": 0.44,
+      "sensitivity_score": 0.528,
+      "neglect_score": 0.69,
+      "expression_score": 0.191,
+      "composite_score": 0.475,
+      "score_notes": "outgoing=1 leverage_edges=1 dependency_edges=0 public=False"
+    },
+    {
+      "node_id": "ai_data_center_photonics",
+      "constraint_score": 0.18,
+      "sensitivity_score": 0.2,
+      "neglect_score": 0.23,
+      "expression_score": 0.19,
+      "composite_score": 0.2,
+      "score_notes": "outgoing=0 leverage_edges=0 dependency_edges=0 public=False"
+    }
+  ]
+}

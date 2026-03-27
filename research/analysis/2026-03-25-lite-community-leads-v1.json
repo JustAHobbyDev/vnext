@@ -1,0 +1,200 @@
+{
+  "schema_version": "v1",
+  "generated_at": "2026-03-25T20:17:08.046516+00:00",
+  "source_artifact": "research/analysis/2026-03-25-grok-lite-source-sweep-v1.json",
+  "summary": {
+    "ordered_url_count": 160,
+    "community_lead_count": 6,
+    "candidate_hub_count": 3,
+    "unresolved_shortlink_count": 0,
+    "platform_counts": {
+      "discord": 5,
+      "whatsapp": 1
+    },
+    "source_account_counts": {
+      "crux_capital_": 6,
+      "Signal_Trader09": 6,
+      "_samputnam": 4,
+      "stocket_rocket": 3,
+      "ProTrader111": 3,
+      "insane_analyst": 2,
+      "yukkeyo": 2,
+      "litecoin_bull": 2,
+      "gun_plug99476": 1,
+      "STaylor76084368": 1,
+      "SeekingAlpha": 1,
+      "AIMegaTrend": 1,
+      "JamesTrvdes": 1,
+      "usstockbot": 1,
+      "Ramal19259424": 1,
+      "finaxus": 1,
+      "RexCarroll82": 1,
+      "kahome_steve": 1,
+      "ns4r101": 1,
+      "Tickeron": 1
+    }
+  },
+  "community_leads": [
+    {
+      "lead_id": "community-lead-2",
+      "platform": "discord",
+      "destination_url": "https://discord.com/invite/GZ3Xc87eub",
+      "confidence": "high",
+      "lead_bucket": "community_leads",
+      "source_accounts": [
+        "Signal_Trader09",
+        "Toby_Garvan"
+      ],
+      "source_post_urls": [
+        "https://x.com/Signal_Trader09/status/1984307335821750494",
+        "https://x.com/Toby_Garvan/status/1984301045946687780",
+        "https://x.com/Signal_Trader09/status/2027300185077150044"
+      ],
+      "source_urls": [
+        "https://t.co/OjuuiTmXL7",
+        "https://t.co/c56reqioqi",
+        "https://t.co/CkhigCQUe5"
+      ],
+      "sighting_count": 3
+    },
+    {
+      "lead_id": "community-lead-5",
+      "platform": "discord",
+      "destination_url": "https://discord.com/invite/vU3rnrCBhg",
+      "confidence": "high",
+      "lead_bucket": "community_leads",
+      "source_accounts": [
+        "ProTrader111"
+      ],
+      "source_post_urls": [
+        "https://x.com/ProTrader111/status/2035185522906472721"
+      ],
+      "source_urls": [
+        "https://t.co/TQ5CezHboH"
+      ],
+      "sighting_count": 1
+    },
+    {
+      "lead_id": "community-lead-3",
+      "platform": "discord",
+      "destination_url": "https://discord.com/invite/jjbT64yGmJ",
+      "confidence": "high",
+      "lead_bucket": "community_leads",
+      "source_accounts": [
+        "Signal_Trader09"
+      ],
+      "source_post_urls": [
+        "https://x.com/Signal_Trader09/status/2029264974561067135"
+      ],
+      "source_urls": [
+        "https://t.co/ZgnDtQXYqz"
+      ],
+      "sighting_count": 1
+    },
+    {
+      "lead_id": "community-lead-6",
+      "platform": "discord",
+      "destination_url": "https://discord.com/invite/ZduUQqZXyD",
+      "confidence": "high",
+      "lead_bucket": "community_leads",
+      "source_accounts": [
+        "MehmetK39182552"
+      ],
+      "source_post_urls": [
+        "https://x.com/MehmetK39182552/status/1928837510781616392"
+      ],
+      "source_urls": [
+        "https://t.co/QXeM76q3yU"
+      ],
+      "sighting_count": 1
+    },
+    {
+      "lead_id": "community-lead-4",
+      "platform": "discord",
+      "destination_url": "https://discord.com/invite/3KN5mquQMv",
+      "confidence": "high",
+      "lead_bucket": "community_leads",
+      "source_accounts": [
+        "stocket_rocket"
+      ],
+      "source_post_urls": [
+        "https://x.com/stocket_rocket/status/2021632374027542945"
+      ],
+      "source_urls": [
+        "https://t.co/vzovqGkmA7"
+      ],
+      "sighting_count": 1
+    },
+    {
+      "lead_id": "community-lead-1",
+      "platform": "whatsapp",
+      "destination_url": "https://api.whatsapp.com/send/?phone=16232124300",
+      "confidence": "high",
+      "lead_bucket": "community_leads",
+      "source_accounts": [
+        "RexCarroll82"
+      ],
+      "source_post_urls": [
+        "https://x.com/RexCarroll82/status/2017716015862583678"
+      ],
+      "source_urls": [
+        "https://t.co/QJUWoSr1En"
+      ],
+      "sighting_count": 1
+    }
+  ],
+  "candidate_hubs": [
+    {
+      "lead_id": "community-lead-2",
+      "platform": "patreon",
+      "destination_url": "https://www.patreon.com/posts/149704116",
+      "confidence": "low",
+      "lead_bucket": "candidate_hubs",
+      "source_accounts": [
+        "LawrenceJHaye"
+      ],
+      "source_post_urls": [
+        "https://x.com/LawrenceJHaye/status/2023093934843637811"
+      ],
+      "source_urls": [
+        "https://t.co/402fVfwfyX"
+      ],
+      "sighting_count": 1
+    },
+    {
+      "lead_id": "community-lead-3",
+      "platform": "tru_sentiment",
+      "destination_url": "https://tru-sentiment.com/",
+      "confidence": "low",
+      "lead_bucket": "candidate_hubs",
+      "source_accounts": [
+        "historicalopt"
+      ],
+      "source_post_urls": [
+        "https://x.com/historicalopt/status/2036881142607929416"
+      ],
+      "source_urls": [
+        "https://t.co/SwYSgevDhf"
+      ],
+      "sighting_count": 1
+    },
+    {
+      "lead_id": "community-lead-1",
+      "platform": "quantcha",
+      "destination_url": "https://ideas.quantcha.com/",
+      "confidence": "low",
+      "lead_bucket": "candidate_hubs",
+      "source_accounts": [
+        "QuantchaIdeas"
+      ],
+      "source_post_urls": [
+        "https://x.com/QuantchaIdeas/status/1874140692769104376"
+      ],
+      "source_urls": [
+        "https://t.co/3sO8fpiQV9"
+      ],
+      "sighting_count": 1
+    }
+  ],
+  "unresolved_shortlinks": []
+}

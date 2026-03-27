@@ -1,0 +1,203 @@
+{
+  "schema_version": "v1",
+  "generated_at": "2026-03-25T11:45:00+00:00",
+  "source_queue": "research/analysis/aleabitoreddit-evidence-grounding-queue-v1.json",
+  "packs": [
+    {
+      "pack_id": "grounded-pack-lite-cohr-ai-photonics-v1",
+      "source_queue_id": "grounding-queue-2003083807273152736",
+      "theme": "photonics",
+      "status": "partially_grounded",
+      "focus_entities": [
+        "LITE",
+        "COHR"
+      ],
+      "grounded_claims": [
+        {
+          "claim": "Lumentum markets datacom transceivers for AI and cloud data centers and states that its data-center optical products are built on an indium phosphide platform.",
+          "support": [
+            {
+              "title": "Datacom Transceivers | Lumentum",
+              "date": "accessed 2026-03-25",
+              "url": "https://www.lumentum.com/en/products/data-center/datacom-transceivers"
+            },
+            {
+              "title": "Data Center Products | Lumentum",
+              "date": "accessed 2026-03-25",
+              "url": "https://www.lumentum.com/en/products/data-center"
+            },
+            {
+              "title": "Lumentum Showcases Next-Generation InP Chip Solutions Enabling Scalable AI Data Centers at OFC 2025",
+              "date": "2025-04-01",
+              "url": "https://investor.lumentum.com/financial-news-releases/news-details/2025/Lumentum-Showcases-Next-Generation-InP-Chip-Solutions-Enabling-Scalable-AI-Data-Centers-at-OFC-2025/default.aspx"
+            }
+          ]
+        },
+        {
+          "claim": "Coherent publicly markets datacom optical transceivers and InP optoelectronic devices for high-speed datacenter and AI-related optical connectivity.",
+          "support": [
+            {
+              "title": "Datacom Optical Transceivers | Coherent",
+              "date": "accessed 2026-03-25",
+              "url": "https://www.coherent.com/networking/transceivers/datacom.html"
+            },
+            {
+              "title": "Coherent Introduces 200G Indium Phosphide Electro-Absorption Modulated Lasers for High-Speed Datacenter Transceivers",
+              "date": "2022-09-15",
+              "url": "https://www.coherent.com/news/press-releases/coherent-introduces-200g-indium-phosphile-electro-absorption-modulated-lasers"
+            },
+            {
+              "title": "InP Optoelectronics | Coherent",
+              "date": "accessed 2026-03-25",
+              "url": "https://www.coherent.com/networking/optoelectronic-devices/inp-optoelectronics"
+            }
+          ]
+        }
+      ],
+      "unverified_archive_inferences": [
+        "The archive post's explicit duopoly framing is not directly stated in the cited primary sources.",
+        "The cited primary sources support AI/datacenter relevance and InP product positioning, but do not independently confirm present-tense supply constraint at the system level."
+      ],
+      "next_artifacts_to_collect": [
+        "Lumentum earnings-call or investor commentary on AI demand and product mix",
+        "Coherent investor materials tying InP datacom components to current AI demand and capacity",
+        "Industry or customer evidence narrowing the competitive field around specific AI interconnect building blocks"
+      ]
+    },
+    {
+      "pack_id": "grounded-pack-axti-inp-ai-interconnect-v1",
+      "source_queue_id": "grounding-queue-2014500318827168215",
+      "theme": "photonics",
+      "status": "grounded_core_claim",
+      "focus_entities": [
+        "AXTI"
+      ],
+      "grounded_claims": [
+        {
+          "claim": "AXT stated in May 2024 that customers were using its indium phosphide substrates for high-speed optical components in AI interconnects and that it was working with customers building next-generation lasers for datacenter transceivers.",
+          "support": [
+            {
+              "title": "AXT, Inc. Announces First Quarter 2024 Financial Results",
+              "date": "2024-05-02",
+              "url": "https://investors.axt.com/Investors/news/news-details/2024/AXT-Inc.-Announces-First-Quarter-2024-Financial-Results/default.aspx"
+            }
+          ]
+        },
+        {
+          "claim": "AXT stated in August 2024 that it expected indium phosphide to be required in optical transceivers for high-speed data transmission in AI-related applications.",
+          "support": [
+            {
+              "title": "AXT, Inc. Announces Second Quarter 2024 Financial Results",
+              "date": "2024-08-01",
+              "url": "https://investors.axt.com/Investors/news/news-details/2024/AXT-Inc.-Announces-Second-Quarter-2024-Financial-Results/"
+            }
+          ]
+        },
+        {
+          "claim": "AXT raised capital in late 2025 to expand indium phosphide substrate manufacturing capacity and in February 2026 described itself as increasing capacity for AI infrastructure demand.",
+          "support": [
+            {
+              "title": "AXT Announces Closing of Public Offering of Common Stock and Full Exercise of Underwriters' Option to Purchase Additional Shares",
+              "date": "2025-12-30",
+              "url": "https://investors.axt.com/Investors/news/news-details/2025/AXT-Announces-Closing-of-Public-Offering-of-Common-Stock-and-Full-Exercise-of-Underwriters-Option-to-Purchase-Additional-Shares/default.aspx"
+            },
+            {
+              "title": "AXT, Inc. Announces Fourth Quarter and Fiscal Year 2025 Financial Results",
+              "date": "2026-02-19",
+              "url": "https://investors.axt.com/Investors/news/news-details/2026/AXT-Inc--Announces-Fourth-Quarter-and-Fiscal-Year-2025-Financial-Results/default.aspx"
+            }
+          ]
+        }
+      ],
+      "unverified_archive_inferences": [
+        "The archive post's strongest wording about AXT being the bottleneck of the entire AI industry remains an archive inference rather than a directly sourced primary-company statement."
+      ],
+      "next_artifacts_to_collect": [
+        "AXT 10-K or 10-Q language on end markets and customer concentration",
+        "Third-party or customer evidence linking AXT substrates into specific AI interconnect supply chains",
+        "Additional evidence on precursor/feedstock bottlenecks mentioned in the archive thread"
+      ]
+    },
+    {
+      "pack_id": "grounded-pack-iqe-lumentum-supplier-v1",
+      "source_queue_id": "grounding-queue-2032944164439208062",
+      "theme": "photonics",
+      "status": "partially_grounded",
+      "focus_entities": [
+        "IQE",
+        "LITE"
+      ],
+      "grounded_claims": [
+        {
+          "claim": "IQE announced a multi-year strategic supply agreement with Lumentum in 2022 for epiwafers used across Lumentum laser products, explicitly including optical networking and data communications.",
+          "support": [
+            {
+              "title": "IQE announces multi-year strategic supply agreement with Lumentum",
+              "date": "2022-06-22",
+              "url": "https://www.iqep.com/media/press-releases/2022/iqe-announces-multi-year-strategic-supply-agreement-with-lumentum/"
+            }
+          ]
+        },
+        {
+          "claim": "IQE later reported stronger photonics demand tied to AI and data-center markets in its January 2026 trading update.",
+          "support": [
+            {
+              "title": "Trading Update | IQE Corporate",
+              "date": "2026-01-12",
+              "url": "https://www.iqep.com/media/press-releases/2026/trading-update/"
+            }
+          ]
+        }
+      ],
+      "unverified_archive_inferences": [
+        "The archive's stronger framing that IQE is a critical photonics bottleneck or the best public expression of Lumentum-linked capacity is not directly stated in the cited primary sources.",
+        "The more recent 2025 IQE-Lumentum extension cited by IQE focuses on advanced sensing rather than AI datacom specifically."
+      ],
+      "next_artifacts_to_collect": [
+        "More recent IQE disclosures tying the Lumentum relationship directly to AI datacenter photonics",
+        "Lumentum-side materials identifying specific supplier dependencies, if available",
+        "Evidence on IQE reactor or epiwafer capacity relevant to optical networking"
+      ]
+    },
+    {
+      "pack_id": "grounded-pack-aaoi-ai-transceiver-capacity-v1",
+      "source_queue_id": "grounding-queue-2029223044208832707",
+      "theme": "photonics",
+      "status": "partially_grounded",
+      "focus_entities": [
+        "AAOI"
+      ],
+      "grounded_claims": [
+        {
+          "claim": "AOI reported growing demand for 400G and 800G products in 2025 and said it was building out capacity to address that demand.",
+          "support": [
+            {
+              "title": "Applied Optoelectronics Reports First Quarter 2025 Results",
+              "date": "2025-05-08",
+              "url": "https://newsroom.ao-inc.com/news-releases/applied-optoelectronics-reports-first-quarter-2025-results/"
+            }
+          ]
+        },
+        {
+          "claim": "AOI announced its first volume order for 800G data-center transceivers from a major hyperscale customer in December 2025, tying the business directly to AI datacenter growth.",
+          "support": [
+            {
+              "title": "AOI Receives First Volume Order of 800G Data Center Transceivers from Major Hyperscale Customer",
+              "date": "2025-12-10",
+              "url": "https://newsroom.ao-inc.com/news-releases/aoi-receives-first-volume-order-of-800g-data-center-transceivers-from-major-hyperscale-customer/?hss_channel=lcp-744608"
+            }
+          ]
+        }
+      ],
+      "unverified_archive_inferences": [
+        "The archive post's specific claim that three hyperscalers would buy any transceivers AOI could make is not directly supported by the cited primary sources.",
+        "The cited sources support strong AI-related demand and capacity buildout, but not the exact customer breadth claimed in the archive thread."
+      ],
+      "next_artifacts_to_collect": [
+        "AAOI earnings-call commentary on customer count and 800G/1.6T demand",
+        "Evidence tying AAOI more specifically into photonics bottleneck logic rather than broad optical demand",
+        "Customer or design-win evidence that narrows which hyperscalers are involved"
+      ]
+    }
+  ]
+}

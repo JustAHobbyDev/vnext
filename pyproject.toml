@@ -7,7 +7,9 @@ name = "vnext"
 version = "0.1.0"
 description = "Minimal proof-path package for MiroFish vNext."
 requires-python = ">=3.11"
-dependencies = []
+dependencies = [
+    "pytest>=9.0.2",
+]
 
 [project.optional-dependencies]
 dev = ["pytest>=8.0"]
